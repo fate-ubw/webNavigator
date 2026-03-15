@@ -1,0 +1,30 @@
+{
+  "sites": [
+    "www.bestbuy.com"
+  ],
+  "task_id": 65,
+  "require_login": false,
+  "storage_state": "./.auth/online_mind2web/www.bestbuy.com.json",
+  "start_url": "https://www.bestbuy.com",
+  "geolocation": null,
+  "intent_template": "View the speakers that are bluetooth and wireless and filter the results to only show models that are on sale and cost less than $50.",
+  "instantiation_dict": {},
+  "intent": "View the speakers that are bluetooth and wireless and filter the results to only show models that are on sale and cost less than $50.",
+  "require_reset": false,
+  "eval": {
+    "eval_types": [
+      "string_match"
+    ],
+    "reference_answers": {
+      "exact_match": "Quest Lumaflex™ Band"
+    },
+    "reference_url": "",
+    "program_html": [],
+    "string_note": "",
+    "reference_answer_raw_annotation": "Quest Lumaflex™ Band"
+  },
+  "intent_template_id": 65,
+  "original_task_id": "87f4c5128e36cdb9366a138a7b61bb00",
+  "reference_length": 6,
+  "level": "medium"
+}

@@ -1,0 +1,30 @@
+{
+  "sites": [
+    "www.google.com"
+  ],
+  "task_id": 70,
+  "require_login": false,
+  "storage_state": "./.auth/online_mind2web/www.google.com.json",
+  "start_url": "https://www.google.com",
+  "geolocation": null,
+  "intent_template": "Create a list of drip coffee makers that are on sale and within $25-60 and have a black finish.",
+  "instantiation_dict": {},
+  "intent": "Create a list of drip coffee makers that are on sale and within $25-60 and have a black finish.",
+  "require_reset": false,
+  "eval": {
+    "eval_types": [
+      "string_match"
+    ],
+    "reference_answers": {
+      "exact_match": "Quest Lumaflex™ Band"
+    },
+    "reference_url": "",
+    "program_html": [],
+    "string_note": "",
+    "reference_answer_raw_annotation": "Quest Lumaflex™ Band"
+  },
+  "intent_template_id": 70,
+  "original_task_id": "c1d6ea6f2196d25782cc3646ff3090db",
+  "reference_length": 7,
+  "level": "medium"
+}

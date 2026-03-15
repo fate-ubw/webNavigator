@@ -1,0 +1,30 @@
+{
+  "sites": [
+    "www.landwatch.com"
+  ],
+  "task_id": 103,
+  "require_login": false,
+  "storage_state": "./.auth/online_mind2web/www.landwatch.com.json",
+  "start_url": "https://www.landwatch.com",
+  "geolocation": null,
+  "intent_template": "Find Farms land in Wilkes County, NC with the lowest price.",
+  "instantiation_dict": {},
+  "intent": "Find Farms land in Wilkes County, NC with the lowest price.",
+  "require_reset": false,
+  "eval": {
+    "eval_types": [
+      "string_match"
+    ],
+    "reference_answers": {
+      "exact_match": "Quest Lumaflex™ Band"
+    },
+    "reference_url": "",
+    "program_html": [],
+    "string_note": "",
+    "reference_answer_raw_annotation": "Quest Lumaflex™ Band"
+  },
+  "intent_template_id": 103,
+  "original_task_id": "9ef1a8972f375db59c0e6329e11b7939",
+  "reference_length": 5,
+  "level": "easy"
+}

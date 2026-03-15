@@ -1,0 +1,30 @@
+{
+  "sites": [
+    "www.coursera.org"
+  ],
+  "task_id": 104,
+  "require_login": false,
+  "storage_state": "./.auth/online_mind2web/www.coursera.org.json",
+  "start_url": "https://www.coursera.org",
+  "geolocation": null,
+  "intent_template": "Explore courses related to Psychology.",
+  "instantiation_dict": {},
+  "intent": "Explore courses related to Psychology.",
+  "require_reset": false,
+  "eval": {
+    "eval_types": [
+      "string_match"
+    ],
+    "reference_answers": {
+      "exact_match": "Quest Lumaflex™ Band"
+    },
+    "reference_url": "",
+    "program_html": [],
+    "string_note": "",
+    "reference_answer_raw_annotation": "Quest Lumaflex™ Band"
+  },
+  "intent_template_id": 104,
+  "original_task_id": "a11ecdff735b51372d536c866011af6f",
+  "reference_length": 4,
+  "level": "easy"
+}

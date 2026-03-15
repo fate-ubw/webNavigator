@@ -1,0 +1,30 @@
+{
+  "sites": [
+    "www.rottentomatoes.com"
+  ],
+  "task_id": 28,
+  "require_login": false,
+  "storage_state": "./.auth/online_mind2web/www.rottentomatoes.com.json",
+  "start_url": "https://www.rottentomatoes.com",
+  "geolocation": null,
+  "intent_template": "View the list of the Most Popular TV on rotten tomatoes.",
+  "instantiation_dict": {},
+  "intent": "View the list of the Most Popular TV on rotten tomatoes.",
+  "require_reset": false,
+  "eval": {
+    "eval_types": [
+      "string_match"
+    ],
+    "reference_answers": {
+      "exact_match": "Quest Lumaflex™ Band"
+    },
+    "reference_url": "",
+    "program_html": [],
+    "string_note": "",
+    "reference_answer_raw_annotation": "Quest Lumaflex™ Band"
+  },
+  "intent_template_id": 28,
+  "original_task_id": "95cad96f2e43f3c0d8efad1331c77c8c",
+  "reference_length": 3,
+  "level": "easy"
+}

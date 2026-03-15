@@ -1,0 +1,30 @@
+{
+  "sites": [
+    "us.trip.com"
+  ],
+  "task_id": 117,
+  "require_login": false,
+  "storage_state": "./.auth/online_mind2web/us.trip.com.json",
+  "start_url": "https://us.trip.com",
+  "geolocation": null,
+  "intent_template": "Select a high speed train ticket with a departure time before 23:00  from Shanghai to Beijing.",
+  "instantiation_dict": {},
+  "intent": "Select a high speed train ticket with a departure time before 23:00  from Shanghai to Beijing.",
+  "require_reset": false,
+  "eval": {
+    "eval_types": [
+      "string_match"
+    ],
+    "reference_answers": {
+      "exact_match": "Quest Lumaflex™ Band"
+    },
+    "reference_url": "",
+    "program_html": [],
+    "string_note": "",
+    "reference_answer_raw_annotation": "Quest Lumaflex™ Band"
+  },
+  "intent_template_id": 117,
+  "original_task_id": "07bdc595306729a028ba06cc7451a80a",
+  "reference_length": 7,
+  "level": "medium"
+}

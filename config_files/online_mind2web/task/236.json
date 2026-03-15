@@ -1,0 +1,30 @@
+{
+  "sites": [
+    "www.backcountry.com"
+  ],
+  "task_id": 236,
+  "require_login": false,
+  "storage_state": "./.auth/online_mind2web/www.backcountry.com.json",
+  "start_url": "https://www.backcountry.com",
+  "geolocation": null,
+  "intent_template": "Find the GORE-TEX men's hiking shoe with the highest percentage discount, priced between $100.00 and $199.99, with a rating of 4 stars or higher.",
+  "instantiation_dict": {},
+  "intent": "Find the GORE-TEX men's hiking shoe with the highest percentage discount, priced between $100.00 and $199.99, with a rating of 4 stars or higher.",
+  "require_reset": false,
+  "eval": {
+    "eval_types": [
+      "string_match"
+    ],
+    "reference_answers": {
+      "exact_match": "Quest Lumaflex™ Band"
+    },
+    "reference_url": "",
+    "program_html": [],
+    "string_note": "",
+    "reference_answer_raw_annotation": "Quest Lumaflex™ Band"
+  },
+  "intent_template_id": 236,
+  "original_task_id": "d730f4ff450da1bd60a836163736ef6a_110325",
+  "reference_length": 11,
+  "level": "medium"
+}

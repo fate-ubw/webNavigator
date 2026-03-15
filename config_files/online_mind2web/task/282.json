@@ -1,0 +1,30 @@
+{
+  "sites": [
+    "www.kaggle.com"
+  ],
+  "task_id": 282,
+  "require_login": false,
+  "storage_state": "./.auth/online_mind2web/www.kaggle.com.json",
+  "start_url": "https://www.kaggle.com",
+  "geolocation": null,
+  "intent_template": "Identify the ongoing competition that offers the highest prize and find the code that received the most votes in that competition.",
+  "instantiation_dict": {},
+  "intent": "Identify the ongoing competition that offers the highest prize and find the code that received the most votes in that competition.",
+  "require_reset": false,
+  "eval": {
+    "eval_types": [
+      "string_match"
+    ],
+    "reference_answers": {
+      "exact_match": "Quest Lumaflex™ Band"
+    },
+    "reference_url": "",
+    "program_html": [],
+    "string_note": "",
+    "reference_answer_raw_annotation": "Quest Lumaflex™ Band"
+  },
+  "intent_template_id": 282,
+  "original_task_id": "1c3b747ae12ccee895745f82e3f2ef8a",
+  "reference_length": 11,
+  "level": "hard"
+}

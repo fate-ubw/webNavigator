@@ -1,0 +1,30 @@
+{
+  "sites": [
+    "www.babycenter.com"
+  ],
+  "task_id": 106,
+  "require_login": false,
+  "storage_state": "./.auth/online_mind2web/www.babycenter.com.json",
+  "start_url": "https://www.babycenter.com",
+  "geolocation": null,
+  "intent_template": "My baby boy was born on Dec 1, 2025. His weight is 7 lb 8 oz, height is 20 inches, and head circumference is 35 cm. The measurement date is Dec 1, 2025. Can you calculate his growth percentiles using a calculator?",
+  "instantiation_dict": {},
+  "intent": "My baby boy was born on Dec 1, 2025. His weight is 7 lb 8 oz, height is 20 inches, and head circumference is 35 cm. The measurement date is Dec 1, 2025. Can you calculate his growth percentiles using a calculator?",
+  "require_reset": false,
+  "eval": {
+    "eval_types": [
+      "string_match"
+    ],
+    "reference_answers": {
+      "exact_match": "Quest Lumaflex™ Band"
+    },
+    "reference_url": "",
+    "program_html": [],
+    "string_note": "",
+    "reference_answer_raw_annotation": "Quest Lumaflex™ Band"
+  },
+  "intent_template_id": 106,
+  "original_task_id": "50d91eabde542906937ab4c5b6f8f23a_121425",
+  "reference_length": 13,
+  "level": "hard"
+}

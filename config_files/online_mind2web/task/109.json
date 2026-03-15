@@ -1,0 +1,30 @@
+{
+  "sites": [
+    "www.apartments.com"
+  ],
+  "task_id": 109,
+  "require_login": false,
+  "storage_state": "./.auth/online_mind2web/www.apartments.com.json",
+  "start_url": "https://www.apartments.com",
+  "geolocation": null,
+  "intent_template": "Search for rentals in Corning, CA with a maximum price of $1500.",
+  "instantiation_dict": {},
+  "intent": "Search for rentals in Corning, CA with a maximum price of $1500.",
+  "require_reset": false,
+  "eval": {
+    "eval_types": [
+      "string_match"
+    ],
+    "reference_answers": {
+      "exact_match": "Quest Lumaflex™ Band"
+    },
+    "reference_url": "",
+    "program_html": [],
+    "string_note": "",
+    "reference_answer_raw_annotation": "Quest Lumaflex™ Band"
+  },
+  "intent_template_id": 109,
+  "original_task_id": "c0fa2c0e622971955cabf5bcf7b777e8",
+  "reference_length": 6,
+  "level": "medium"
+}

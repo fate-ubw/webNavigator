@@ -1,0 +1,30 @@
+{
+  "sites": [
+    "ohiomeansjobs.ohio.gov"
+  ],
+  "task_id": 49,
+  "require_login": false,
+  "storage_state": "./.auth/online_mind2web/ohiomeansjobs.ohio.gov.json",
+  "start_url": "https://ohiomeansjobs.ohio.gov",
+  "geolocation": null,
+  "intent_template": "Find a permanent job in Logistics within 20 miles of New York, zip 11005, in the middle-income range for a high school diploma holder.",
+  "instantiation_dict": {},
+  "intent": "Find a permanent job in Logistics within 20 miles of New York, zip 11005, in the middle-income range for a high school diploma holder.",
+  "require_reset": false,
+  "eval": {
+    "eval_types": [
+      "string_match"
+    ],
+    "reference_answers": {
+      "exact_match": "Quest Lumaflex™ Band"
+    },
+    "reference_url": "",
+    "program_html": [],
+    "string_note": "",
+    "reference_answer_raw_annotation": "Quest Lumaflex™ Band"
+  },
+  "intent_template_id": 49,
+  "original_task_id": "b3f8bd9198d9d157e0848109563c4b23",
+  "reference_length": 15,
+  "level": "hard"
+}

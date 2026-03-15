@@ -1,0 +1,30 @@
+{
+  "sites": [
+    "www.dmv.virginia.gov"
+  ],
+  "task_id": 195,
+  "require_login": false,
+  "storage_state": "./.auth/online_mind2web/www.dmv.virginia.gov.json",
+  "start_url": "https://www.dmv.virginia.gov",
+  "geolocation": null,
+  "intent_template": "Find a DMV center in Richmond.",
+  "instantiation_dict": {},
+  "intent": "Find a DMV center in Richmond.",
+  "require_reset": false,
+  "eval": {
+    "eval_types": [
+      "string_match"
+    ],
+    "reference_answers": {
+      "exact_match": "Quest Lumaflex™ Band"
+    },
+    "reference_url": "",
+    "program_html": [],
+    "string_note": "",
+    "reference_answer_raw_annotation": "Quest Lumaflex™ Band"
+  },
+  "intent_template_id": 195,
+  "original_task_id": "d5c34bf39eb6096ae5d439325cde4d32",
+  "reference_length": 5,
+  "level": "easy"
+}

@@ -1,0 +1,30 @@
+{
+  "sites": [
+    "www.google.com"
+  ],
+  "task_id": 60,
+  "require_login": false,
+  "storage_state": "./.auth/online_mind2web/www.google.com.json",
+  "start_url": "https://www.google.com",
+  "geolocation": null,
+  "intent_template": "Look for reviews of a Nest Hello Video Doorbell and filter by 1-star ratings.",
+  "instantiation_dict": {},
+  "intent": "Look for reviews of a Nest Hello Video Doorbell and filter by 1-star ratings.",
+  "require_reset": false,
+  "eval": {
+    "eval_types": [
+      "string_match"
+    ],
+    "reference_answers": {
+      "exact_match": "Quest Lumaflex™ Band"
+    },
+    "reference_url": "",
+    "program_html": [],
+    "string_note": "",
+    "reference_answer_raw_annotation": "Quest Lumaflex™ Band"
+  },
+  "intent_template_id": 60,
+  "original_task_id": "9bb63ad0e38d5691a618932a8b31c05a",
+  "reference_length": 5,
+  "level": "easy"
+}

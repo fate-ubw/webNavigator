@@ -1,0 +1,30 @@
+{
+  "sites": [
+    "www.target.com"
+  ],
+  "task_id": 21,
+  "require_login": false,
+  "storage_state": "./.auth/online_mind2web/www.target.com.json",
+  "start_url": "https://www.target.com",
+  "geolocation": null,
+  "intent_template": "Search for a job in Miami, Florida, in Human Resources on target.",
+  "instantiation_dict": {},
+  "intent": "Search for a job in Miami, Florida, in Human Resources on target.",
+  "require_reset": false,
+  "eval": {
+    "eval_types": [
+      "string_match"
+    ],
+    "reference_answers": {
+      "exact_match": "Quest Lumaflex™ Band"
+    },
+    "reference_url": "",
+    "program_html": [],
+    "string_note": "",
+    "reference_answer_raw_annotation": "Quest Lumaflex™ Band"
+  },
+  "intent_template_id": 21,
+  "original_task_id": "6ebde509dca8f15c0fa1bd74f071e8d6",
+  "reference_length": 14,
+  "level": "hard"
+}

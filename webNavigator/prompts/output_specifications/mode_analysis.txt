@@ -1,0 +1,13 @@
+Analyze the current situation in MODE_ANALYSIS section to determine the operational mode. Base your analysis STRICTLY on the information provided in the previous context and observations. Your analysis MUST be a step-by-step reasoning process that answers the following questions before making a final conclusion:
+
+1. **Current Page vs. Objective**: Is the current page directly useful for achieving the task objective? Does it contain the necessary tools (e.g., date filters, specific input fields, detailed data tables) required by the constraints?
+2. **Task Progress**: Where are we in the overall task? Is this the very first step? Or have we just completed a sub-task and are about to start a new one?
+3. **Information Sufficiency**: Based on the provided context, do we have enough information about the current page to proceed with specific actions, or do we need to explore and gather more information first?
+
+CRITICAL CONSTRAINTS:
+- You MUST base your mode analysis ONLY on the information already provided in the context
+- You are FORBIDDEN from reasoning about or suggesting specific actions to execute
+- Your role is SOLELY to predict which operational mode (EXPLORATION or LOW-LEVEL ACTION) would be most appropriate for the next phase of task completion
+- Focus on mode prediction, NOT action planning
+
+After your step-by-step reasoning, you MUST conclude your analysis on a new line with the format: `Conclusion: The current mode is [MODE]`, where [MODE] is either `EXPLORATION` or `LOW-LEVEL ACTION`.

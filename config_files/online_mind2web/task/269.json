@@ -1,0 +1,30 @@
+{
+  "sites": [
+    "www.bestbuy.com"
+  ],
+  "task_id": 269,
+  "require_login": false,
+  "storage_state": "./.auth/online_mind2web/www.bestbuy.com.json",
+  "start_url": "https://www.bestbuy.com",
+  "geolocation": null,
+  "intent_template": "I want to purchase an open-box Samsung Galaxy S25 Plus in excellent condition and trade in a gray Galaxy S20 5G (Verizon), with a perfect screen, in good condition. How much would it cost?",
+  "instantiation_dict": {},
+  "intent": "I want to purchase an open-box Samsung Galaxy S25 Plus in excellent condition and trade in a gray Galaxy S20 5G (Verizon), with a perfect screen, in good condition. How much would it cost?",
+  "require_reset": false,
+  "eval": {
+    "eval_types": [
+      "string_match"
+    ],
+    "reference_answers": {
+      "exact_match": "Quest Lumaflex™ Band"
+    },
+    "reference_url": "",
+    "program_html": [],
+    "string_note": "",
+    "reference_answer_raw_annotation": "Quest Lumaflex™ Band"
+  },
+  "intent_template_id": 269,
+  "original_task_id": "fc53ddd3421411a41c1020a3fdc84ec4",
+  "reference_length": 17,
+  "level": "hard"
+}

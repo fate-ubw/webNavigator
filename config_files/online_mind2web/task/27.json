@@ -1,0 +1,30 @@
+{
+  "sites": [
+    "www.nfl.com"
+  ],
+  "task_id": 27,
+  "require_login": false,
+  "storage_state": "./.auth/online_mind2web/www.nfl.com.json",
+  "start_url": "https://www.nfl.com",
+  "geolocation": null,
+  "intent_template": "Find the current NFL standings for the AFC East division on NFL.com and go to the page on which team is in first place.",
+  "instantiation_dict": {},
+  "intent": "Find the current NFL standings for the AFC East division on NFL.com and go to the page on which team is in first place.",
+  "require_reset": false,
+  "eval": {
+    "eval_types": [
+      "string_match"
+    ],
+    "reference_answers": {
+      "exact_match": "Quest Lumaflex™ Band"
+    },
+    "reference_url": "",
+    "program_html": [],
+    "string_note": "",
+    "reference_answer_raw_annotation": "Quest Lumaflex™ Band"
+  },
+  "intent_template_id": 27,
+  "original_task_id": "3f312ae3efc3c3e90ababe050dd4e7ae",
+  "reference_length": 4,
+  "level": "easy"
+}

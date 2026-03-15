@@ -1,0 +1,30 @@
+{
+  "sites": [
+    "www.carvana.com"
+  ],
+  "task_id": 7,
+  "require_login": false,
+  "storage_state": "./.auth/online_mind2web/www.carvana.com.json",
+  "start_url": "https://www.carvana.com",
+  "geolocation": null,
+  "intent_template": "Find the cheapest used Honda Civic that meets all the following criteria: under $25,000, fewer than 30,000 miles, includes Apple CarPlay, adaptive cruise control, and blind-spot sensors.",
+  "instantiation_dict": {},
+  "intent": "Find the cheapest used Honda Civic that meets all the following criteria: under $25,000, fewer than 30,000 miles, includes Apple CarPlay, adaptive cruise control, and blind-spot sensors.",
+  "require_reset": false,
+  "eval": {
+    "eval_types": [
+      "string_match"
+    ],
+    "reference_answers": {
+      "exact_match": "Quest Lumaflex™ Band"
+    },
+    "reference_url": "",
+    "program_html": [],
+    "string_note": "",
+    "reference_answer_raw_annotation": "Quest Lumaflex™ Band"
+  },
+  "intent_template_id": 7,
+  "original_task_id": "8f2611047de227a2ca8bda13f6e2e5fb_110325",
+  "reference_length": 17,
+  "level": "hard"
+}

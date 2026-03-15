@@ -1,0 +1,43 @@
+Provide a precise step-by-step summary of EVERY interaction shown in the INTERACTION HISTORY section. This summary MUST maintain perfect numerical alignment with the actual history steps.
+
+**Strict Constraints:**
+1. **Full Sequential Summary**: You must summarize **every step** in the history in chronological order. 
+It is strictly forbidden to skip any steps, even if a step is repetitive, failed, or part of a loop.
+2. **Pure Objective Description**: This section only allows factual statements. It is **strictly 
+prohibited** to include any reasoning, subjective thoughts, or future plans. Simply describe what action 
+was taken and what result was produced.
+3. **Action Summarization, Not Copying**: Use concise language to summarize the intent of the action. It 
+is **strictly forbidden** to directly copy the original action commands (e.g., `click [123]`); instead, 
+describe it as "Clicked the 'Add to Cart' button."
+4. **Historical Scope Only**: Only summarize steps that have already been completed (Step 1 to Step N-1). 
+**Do not** summarize the current step you are performing.
+5. **Retain Core Details**: Ensure you capture key details from each step that affect the current state 
+(e.g., specific values entered, specific filters selected, etc.).
+
+**CRITICAL STEP NUMBERING RULES:**
+- Count the EXACT number of `<step_X_interaction>` blocks in the INTERACTION HISTORY section
+- If you see `<step_0_interaction>`, `<step_1_interaction>`, `<step_2_interaction>`, then summarize as "Step 0:", "Step 1:", "Step 2:"
+- If the history contains steps 0 through N-1, your summary MUST contain exactly steps 0 through N-1
+- NEVER skip step numbers, NEVER start from Step 1 if Step 0 exists, NEVER add extra steps
+
+**Mandatory Verification Process:**
+1. **Count History Steps**: Identify all `<step_X_interaction>` blocks and note their exact numbers
+2. **Match Step Numbers**: Your summary step numbers MUST exactly match the history step numbers
+3. **Complete Coverage**: Summarize every single step shown in the history, no exceptions
+
+**Content Requirements:**
+- **Factual Only**: Pure objective description of what action was taken and what result occurred
+- **Concise Language**: Summarize the intent, not the raw commands (e.g., "Clicked the search button" not "click [123]")
+- **Key Details**: Include critical information that affects current state (values entered, pages navigated to, etc.)
+- **No Future Plans**: Only describe completed actions, never predict or suggest next steps
+
+**EXACT OUTPUT FORMAT:**
+
+**If CURRENT STEP = 0:**
+No history interactions available. This is the beginning of the task.
+
+**If CURRENT STEP > 0:**
+Step X: [Concise factual summary of action and result]
+Step Y: [Concise factual summary of action and result]
+...
+(Where X, Y match the exact step numbers from INTERACTION HISTORY)

@@ -1,0 +1,30 @@
+{
+  "sites": [
+    "ohio.gov"
+  ],
+  "task_id": 145,
+  "require_login": false,
+  "storage_state": "./.auth/online_mind2web/ohio.gov.json",
+  "start_url": "https://ohio.gov",
+  "geolocation": null,
+  "intent_template": "Find the procedure to get the license for Athletic Trainer.",
+  "instantiation_dict": {},
+  "intent": "Find the procedure to get the license for Athletic Trainer.",
+  "require_reset": false,
+  "eval": {
+    "eval_types": [
+      "string_match"
+    ],
+    "reference_answers": {
+      "exact_match": "Quest Lumaflex™ Band"
+    },
+    "reference_url": "",
+    "program_html": [],
+    "string_note": "",
+    "reference_answer_raw_annotation": "Quest Lumaflex™ Band"
+  },
+  "intent_template_id": 145,
+  "original_task_id": "15be05973fba714e490cd9c884e4f072",
+  "reference_length": 6,
+  "level": "medium"
+}

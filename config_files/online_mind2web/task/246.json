@@ -1,0 +1,30 @@
+{
+  "sites": [
+    "www.porsche.com"
+  ],
+  "task_id": 246,
+  "require_login": false,
+  "storage_state": "./.auth/online_mind2web/www.porsche.com.json",
+  "start_url": "https://www.porsche.com",
+  "geolocation": null,
+  "intent_template": "Find the cheapest certified pre-owned Porsche 911 with a model year of 2019 or newer, within a 200-mile radius of ZIP code 97007.",
+  "instantiation_dict": {},
+  "intent": "Find the cheapest certified pre-owned Porsche 911 with a model year of 2019 or newer, within a 200-mile radius of ZIP code 97007.",
+  "require_reset": false,
+  "eval": {
+    "eval_types": [
+      "string_match"
+    ],
+    "reference_answers": {
+      "exact_match": "Quest Lumaflex™ Band"
+    },
+    "reference_url": "",
+    "program_html": [],
+    "string_note": "",
+    "reference_answer_raw_annotation": "Quest Lumaflex™ Band"
+  },
+  "intent_template_id": 246,
+  "original_task_id": "c3a333968fc3c43d7f2688f425a0d633",
+  "reference_length": 15,
+  "level": "hard"
+}

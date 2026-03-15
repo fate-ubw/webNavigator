@@ -1,0 +1,30 @@
+{
+  "sites": [
+    "www.birkenstock.com"
+  ],
+  "task_id": 232,
+  "require_login": false,
+  "storage_state": "./.auth/online_mind2web/www.birkenstock.com.json",
+  "start_url": "https://www.birkenstock.com",
+  "geolocation": null,
+  "intent_template": "Add the most top-selling Birkenstock's men clogs in brown, size 10-10.5 to my cart.",
+  "instantiation_dict": {},
+  "intent": "Add the most top-selling Birkenstock's men clogs in brown, size 10-10.5 to my cart.",
+  "require_reset": false,
+  "eval": {
+    "eval_types": [
+      "string_match"
+    ],
+    "reference_answers": {
+      "exact_match": "Quest Lumaflex™ Band"
+    },
+    "reference_url": "",
+    "program_html": [],
+    "string_note": "",
+    "reference_answer_raw_annotation": "Quest Lumaflex™ Band"
+  },
+  "intent_template_id": 232,
+  "original_task_id": "11857213ca01510f12813740afd59918_110325",
+  "reference_length": 12,
+  "level": "medium"
+}

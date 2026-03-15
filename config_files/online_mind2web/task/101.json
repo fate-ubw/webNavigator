@@ -1,0 +1,30 @@
+{
+  "sites": [
+    "www.drugs.com"
+  ],
+  "task_id": 101,
+  "require_login": false,
+  "storage_state": "./.auth/online_mind2web/www.drugs.com.json",
+  "start_url": "https://www.drugs.com",
+  "geolocation": null,
+  "intent_template": "Find the Drug Interaction Report for Viagra and alcohol.",
+  "instantiation_dict": {},
+  "intent": "Find the Drug Interaction Report for Viagra and alcohol.",
+  "require_reset": false,
+  "eval": {
+    "eval_types": [
+      "string_match"
+    ],
+    "reference_answers": {
+      "exact_match": "Quest Lumaflex™ Band"
+    },
+    "reference_url": "",
+    "program_html": [],
+    "string_note": "",
+    "reference_answer_raw_annotation": "Quest Lumaflex™ Band"
+  },
+  "intent_template_id": 101,
+  "original_task_id": "e4e19e04286f644d747d8c5a79d17fac",
+  "reference_length": 6,
+  "level": "medium"
+}

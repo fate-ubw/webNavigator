@@ -1,0 +1,30 @@
+{
+  "sites": [
+    "9gag.com"
+  ],
+  "task_id": 162,
+  "require_login": false,
+  "storage_state": "./.auth/online_mind2web/9gag.com.json",
+  "start_url": "https://9gag.com",
+  "geolocation": null,
+  "intent_template": "Find the top posts from last year on 9GAG.",
+  "instantiation_dict": {},
+  "intent": "Find the top posts from last year on 9GAG.",
+  "require_reset": false,
+  "eval": {
+    "eval_types": [
+      "string_match"
+    ],
+    "reference_answers": {
+      "exact_match": "Quest Lumaflex™ Band"
+    },
+    "reference_url": "",
+    "program_html": [],
+    "string_note": "",
+    "reference_answer_raw_annotation": "Quest Lumaflex™ Band"
+  },
+  "intent_template_id": 162,
+  "original_task_id": "8f80e64e44e1fada018997b2fe869683_110325",
+  "reference_length": 2,
+  "level": "easy"
+}

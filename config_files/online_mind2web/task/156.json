@@ -1,0 +1,30 @@
+{
+  "sites": [
+    "www.webmd.com"
+  ],
+  "task_id": 156,
+  "require_login": false,
+  "storage_state": "./.auth/online_mind2web/www.webmd.com.json",
+  "start_url": "https://www.webmd.com",
+  "geolocation": null,
+  "intent_template": "Search for the ovulation calculator and enter Mar 1 as the first date of the period and calculate the date of ovulation and pregnancy test day.",
+  "instantiation_dict": {},
+  "intent": "Search for the ovulation calculator and enter Mar 1 as the first date of the period and calculate the date of ovulation and pregnancy test day.",
+  "require_reset": false,
+  "eval": {
+    "eval_types": [
+      "string_match"
+    ],
+    "reference_answers": {
+      "exact_match": "Quest Lumaflex™ Band"
+    },
+    "reference_url": "",
+    "program_html": [],
+    "string_note": "",
+    "reference_answer_raw_annotation": "Quest Lumaflex™ Band"
+  },
+  "intent_template_id": 156,
+  "original_task_id": "3443e9c3151fef19a3c3a45eb2c13640",
+  "reference_length": 12,
+  "level": "hard"
+}

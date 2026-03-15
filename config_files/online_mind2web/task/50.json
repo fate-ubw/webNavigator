@@ -1,0 +1,30 @@
+{
+  "sites": [
+    "www.stubhub.com"
+  ],
+  "task_id": 50,
+  "require_login": false,
+  "storage_state": "./.auth/online_mind2web/www.stubhub.com.json",
+  "start_url": "https://www.stubhub.com",
+  "geolocation": null,
+  "intent_template": "Show theatre events for Las Vegas and select one.",
+  "instantiation_dict": {},
+  "intent": "Show theatre events for Las Vegas and select one.",
+  "require_reset": false,
+  "eval": {
+    "eval_types": [
+      "string_match"
+    ],
+    "reference_answers": {
+      "exact_match": "Quest Lumaflex™ Band"
+    },
+    "reference_url": "",
+    "program_html": [],
+    "string_note": "",
+    "reference_answer_raw_annotation": "Quest Lumaflex™ Band"
+  },
+  "intent_template_id": 50,
+  "original_task_id": "20a460a8fe1971b84411c5b1e6ac4186",
+  "reference_length": 3,
+  "level": "easy"
+}

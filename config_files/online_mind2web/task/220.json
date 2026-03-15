@@ -1,0 +1,30 @@
+{
+  "sites": [
+    "www.cboe.com"
+  ],
+  "task_id": 220,
+  "require_login": false,
+  "storage_state": "./.auth/online_mind2web/www.cboe.com.json",
+  "start_url": "https://www.cboe.com",
+  "geolocation": null,
+  "intent_template": "Show me the code for the company that is the top mover in the Cboe Europe Technology Sector Index (BEPTEC) as of the latest market close.",
+  "instantiation_dict": {},
+  "intent": "Show me the code for the company that is the top mover in the Cboe Europe Technology Sector Index (BEPTEC) as of the latest market close.",
+  "require_reset": false,
+  "eval": {
+    "eval_types": [
+      "string_match"
+    ],
+    "reference_answers": {
+      "exact_match": "Quest Lumaflex™ Band"
+    },
+    "reference_url": "",
+    "program_html": [],
+    "string_note": "",
+    "reference_answer_raw_annotation": "Quest Lumaflex™ Band"
+  },
+  "intent_template_id": 220,
+  "original_task_id": "01abae9608f2d8752a83e08f136f720c",
+  "reference_length": 6,
+  "level": "medium"
+}

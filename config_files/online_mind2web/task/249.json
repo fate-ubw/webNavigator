@@ -1,0 +1,30 @@
+{
+  "sites": [
+    "www.ikea.com"
+  ],
+  "task_id": 249,
+  "require_login": false,
+  "storage_state": "./.auth/online_mind2web/www.ikea.com.json",
+  "start_url": "https://www.ikea.com",
+  "geolocation": null,
+  "intent_template": "Add the cheapest black sofa with at least three seats, a leather finish, and at least four stars to my cart.",
+  "instantiation_dict": {},
+  "intent": "Add the cheapest black sofa with at least three seats, a leather finish, and at least four stars to my cart.",
+  "require_reset": false,
+  "eval": {
+    "eval_types": [
+      "string_match"
+    ],
+    "reference_answers": {
+      "exact_match": "Quest Lumaflex™ Band"
+    },
+    "reference_url": "",
+    "program_html": [],
+    "string_note": "",
+    "reference_answer_raw_annotation": "Quest Lumaflex™ Band"
+  },
+  "intent_template_id": 249,
+  "original_task_id": "c6c9dc6079677cef594cec2fa6b16602",
+  "reference_length": 16,
+  "level": "hard"
+}

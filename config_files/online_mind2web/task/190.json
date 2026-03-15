@@ -1,0 +1,30 @@
+{
+  "sites": [
+    "cookpad.com"
+  ],
+  "task_id": 190,
+  "require_login": false,
+  "storage_state": "./.auth/online_mind2web/cookpad.com.json",
+  "start_url": "https://cookpad.com",
+  "geolocation": null,
+  "intent_template": "Browse recipes for gluten-free chocolate chip cookies that can be made without nuts.",
+  "instantiation_dict": {},
+  "intent": "Browse recipes for gluten-free chocolate chip cookies that can be made without nuts.",
+  "require_reset": false,
+  "eval": {
+    "eval_types": [
+      "string_match"
+    ],
+    "reference_answers": {
+      "exact_match": "Quest Lumaflex™ Band"
+    },
+    "reference_url": "",
+    "program_html": [],
+    "string_note": "",
+    "reference_answer_raw_annotation": "Quest Lumaflex™ Band"
+  },
+  "intent_template_id": 190,
+  "original_task_id": "0632e496d37badee0350dad358f047c5",
+  "reference_length": 4,
+  "level": "easy"
+}

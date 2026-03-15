@@ -1,0 +1,30 @@
+{
+  "sites": [
+    "www.jcpenney.com"
+  ],
+  "task_id": 40,
+  "require_login": false,
+  "storage_state": "./.auth/online_mind2web/www.jcpenney.com.json",
+  "start_url": "https://www.jcpenney.com",
+  "geolocation": null,
+  "intent_template": "Show me a list of blue baby boys' pajamas under $40, sorted by rating.",
+  "instantiation_dict": {},
+  "intent": "Show me a list of blue baby boys' pajamas under $40, sorted by rating.",
+  "require_reset": false,
+  "eval": {
+    "eval_types": [
+      "string_match"
+    ],
+    "reference_answers": {
+      "exact_match": "Quest Lumaflex™ Band"
+    },
+    "reference_url": "",
+    "program_html": [],
+    "string_note": "",
+    "reference_answer_raw_annotation": "Quest Lumaflex™ Band"
+  },
+  "intent_template_id": 40,
+  "original_task_id": "816851ff92ff0219acf4364dcc2c4692_110325",
+  "reference_length": 9,
+  "level": "medium"
+}

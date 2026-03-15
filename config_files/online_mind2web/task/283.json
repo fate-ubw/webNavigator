@@ -1,0 +1,30 @@
+{
+  "sites": [
+    "superlawyers.com"
+  ],
+  "task_id": 283,
+  "require_login": false,
+  "storage_state": "./.auth/online_mind2web/superlawyers.com.json",
+  "start_url": "https://superlawyers.com",
+  "geolocation": null,
+  "intent_template": "Show me a Dallas-based divorce lawyer who was once included in Top 50 Women Texas Super Lawyers list.",
+  "instantiation_dict": {},
+  "intent": "Show me a Dallas-based divorce lawyer who was once included in Top 50 Women Texas Super Lawyers list.",
+  "require_reset": false,
+  "eval": {
+    "eval_types": [
+      "string_match"
+    ],
+    "reference_answers": {
+      "exact_match": "Quest Lumaflex™ Band"
+    },
+    "reference_url": "",
+    "program_html": [],
+    "string_note": "",
+    "reference_answer_raw_annotation": "Quest Lumaflex™ Band"
+  },
+  "intent_template_id": 283,
+  "original_task_id": "d1807551297ac60ecaaabbd2a2ed301a_110325",
+  "reference_length": 8,
+  "level": "medium"
+}

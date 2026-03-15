@@ -1,0 +1,30 @@
+{
+  "sites": [
+    "www.fandom.com"
+  ],
+  "task_id": 45,
+  "require_login": false,
+  "storage_state": "./.auth/online_mind2web/www.fandom.com.json",
+  "start_url": "https://www.fandom.com",
+  "geolocation": null,
+  "intent_template": "Find photos related to Trinity in The Matrix Wiki community.",
+  "instantiation_dict": {},
+  "intent": "Find photos related to Trinity in The Matrix Wiki community.",
+  "require_reset": false,
+  "eval": {
+    "eval_types": [
+      "string_match"
+    ],
+    "reference_answers": {
+      "exact_match": "Quest Lumaflex™ Band"
+    },
+    "reference_url": "",
+    "program_html": [],
+    "string_note": "",
+    "reference_answer_raw_annotation": "Quest Lumaflex™ Band"
+  },
+  "intent_template_id": 45,
+  "original_task_id": "3c1ffc3f494e423b3c434c79e35da8f3_110325",
+  "reference_length": 8,
+  "level": "medium"
+}

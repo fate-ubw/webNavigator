@@ -1,0 +1,30 @@
+{
+  "sites": [
+    "www.booking.com"
+  ],
+  "task_id": 251,
+  "require_login": false,
+  "storage_state": "./.auth/online_mind2web/www.booking.com.json",
+  "start_url": "https://www.booking.com",
+  "geolocation": null,
+  "intent_template": "Find the cheapest hotel + flight + car package from New York to San Francisco, departing tomorrow and returning on the fourth day from departure, for two adults and a six-year-old child. The package should be one room with free breakfast and spa access.",
+  "instantiation_dict": {},
+  "intent": "Find the cheapest hotel + flight + car package from New York to San Francisco, departing tomorrow and returning on the fourth day from departure, for two adults and a six-year-old child. The package should be one room with free breakfast and spa access.",
+  "require_reset": false,
+  "eval": {
+    "eval_types": [
+      "string_match"
+    ],
+    "reference_answers": {
+      "exact_match": "Quest Lumaflex™ Band"
+    },
+    "reference_url": "",
+    "program_html": [],
+    "string_note": "",
+    "reference_answer_raw_annotation": "Quest Lumaflex™ Band"
+  },
+  "intent_template_id": 251,
+  "original_task_id": "b2f4fde2fce122a93c7b578086cb0585",
+  "reference_length": 19,
+  "level": "hard"
+}

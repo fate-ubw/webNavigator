@@ -1,0 +1,30 @@
+{
+  "sites": [
+    "www.adoptapet.com"
+  ],
+  "task_id": 59,
+  "require_login": false,
+  "storage_state": "./.auth/online_mind2web/www.adoptapet.com.json",
+  "start_url": "https://www.adoptapet.com",
+  "geolocation": null,
+  "intent_template": "Find an adult husky near zip code 10019.",
+  "instantiation_dict": {},
+  "intent": "Find an adult husky near zip code 10019.",
+  "require_reset": false,
+  "eval": {
+    "eval_types": [
+      "string_match"
+    ],
+    "reference_answers": {
+      "exact_match": "Quest Lumaflex™ Band"
+    },
+    "reference_url": "",
+    "program_html": [],
+    "string_note": "",
+    "reference_answer_raw_annotation": "Quest Lumaflex™ Band"
+  },
+  "intent_template_id": 59,
+  "original_task_id": "b69eb4de621e9e265676daac44938f3f",
+  "reference_length": 8,
+  "level": "medium"
+}

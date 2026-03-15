@@ -1,0 +1,30 @@
+{
+  "sites": [
+    "azure.microsoft.com"
+  ],
+  "task_id": 297,
+  "require_login": false,
+  "storage_state": "./.auth/online_mind2web/azure.microsoft.com.json",
+  "start_url": "https://azure.microsoft.com",
+  "geolocation": null,
+  "intent_template": "Estimate the total cost (with basic support) of using 5 million input tokens and 5 million output tokens each for GPT-4o and GPT-4o Mini, both deployed in the US/EU Data Zones under Standard (On-Demand) in the East US region.",
+  "instantiation_dict": {},
+  "intent": "Estimate the total cost (with basic support) of using 5 million input tokens and 5 million output tokens each for GPT-4o and GPT-4o Mini, both deployed in the US/EU Data Zones under Standard (On-Demand) in the East US region.",
+  "require_reset": false,
+  "eval": {
+    "eval_types": [
+      "string_match"
+    ],
+    "reference_answers": {
+      "exact_match": "Quest Lumaflex™ Band"
+    },
+    "reference_url": "",
+    "program_html": [],
+    "string_note": "",
+    "reference_answer_raw_annotation": "Quest Lumaflex™ Band"
+  },
+  "intent_template_id": 297,
+  "original_task_id": "f158345f8489e0d1d91e28768c39bca1",
+  "reference_length": 13,
+  "level": "hard"
+}

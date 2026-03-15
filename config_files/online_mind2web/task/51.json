@@ -1,0 +1,30 @@
+{
+  "sites": [
+    "www.google.com"
+  ],
+  "task_id": 51,
+  "require_login": false,
+  "storage_state": "./.auth/online_mind2web/www.google.com.json",
+  "start_url": "https://www.google.com",
+  "geolocation": null,
+  "intent_template": "Search for smart TVs with a screen size of 55 to 65 inches and filter the results to show only those that have an LED display.",
+  "instantiation_dict": {},
+  "intent": "Search for smart TVs with a screen size of 55 to 65 inches and filter the results to show only those that have an LED display.",
+  "require_reset": false,
+  "eval": {
+    "eval_types": [
+      "string_match"
+    ],
+    "reference_answers": {
+      "exact_match": "Quest Lumaflex™ Band"
+    },
+    "reference_url": "",
+    "program_html": [],
+    "string_note": "",
+    "reference_answer_raw_annotation": "Quest Lumaflex™ Band"
+  },
+  "intent_template_id": 51,
+  "original_task_id": "db1ffb5e60578597d1c3aa3c389ac7b1",
+  "reference_length": 5,
+  "level": "easy"
+}

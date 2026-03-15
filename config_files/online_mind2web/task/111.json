@@ -1,0 +1,30 @@
+{
+  "sites": [
+    "www.stubhub.com"
+  ],
+  "task_id": 111,
+  "require_login": false,
+  "storage_state": "./.auth/online_mind2web/www.stubhub.com.json",
+  "start_url": "https://www.stubhub.com",
+  "geolocation": null,
+  "intent_template": "Find NHL events occurring in Boston.",
+  "instantiation_dict": {},
+  "intent": "Find NHL events occurring in Boston.",
+  "require_reset": false,
+  "eval": {
+    "eval_types": [
+      "string_match"
+    ],
+    "reference_answers": {
+      "exact_match": "Quest Lumaflex™ Band"
+    },
+    "reference_url": "",
+    "program_html": [],
+    "string_note": "",
+    "reference_answer_raw_annotation": "Quest Lumaflex™ Band"
+  },
+  "intent_template_id": 111,
+  "original_task_id": "9d09bc948462db032bac98968b11b008",
+  "reference_length": 7,
+  "level": "medium"
+}

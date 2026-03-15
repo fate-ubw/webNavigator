@@ -1,0 +1,30 @@
+{
+  "sites": [
+    "www.landwatch.com"
+  ],
+  "task_id": 135,
+  "require_login": false,
+  "storage_state": "./.auth/online_mind2web/www.landwatch.com.json",
+  "start_url": "https://www.landwatch.com",
+  "geolocation": null,
+  "intent_template": "Look for the largest hunting land for auction in Kansas high plain region with mineral rights posted in the last seven days.",
+  "instantiation_dict": {},
+  "intent": "Look for the largest hunting land for auction in Kansas high plain region with mineral rights posted in the last seven days.",
+  "require_reset": false,
+  "eval": {
+    "eval_types": [
+      "string_match"
+    ],
+    "reference_answers": {
+      "exact_match": "Quest Lumaflex™ Band"
+    },
+    "reference_url": "",
+    "program_html": [],
+    "string_note": "",
+    "reference_answer_raw_annotation": "Quest Lumaflex™ Band"
+  },
+  "intent_template_id": 135,
+  "original_task_id": "255bf27c43fd3f9254d6b81a5f36d3a9",
+  "reference_length": 9,
+  "level": "medium"
+}

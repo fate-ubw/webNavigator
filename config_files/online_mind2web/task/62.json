@@ -1,0 +1,30 @@
+{
+  "sites": [
+    "www.nba.com"
+  ],
+  "task_id": 62,
+  "require_login": false,
+  "storage_state": "./.auth/online_mind2web/www.nba.com.json",
+  "start_url": "https://www.nba.com",
+  "geolocation": null,
+  "intent_template": "Find a medium Devin Booker jersey and add it to the shopping cart.",
+  "instantiation_dict": {},
+  "intent": "Find a medium Devin Booker jersey and add it to the shopping cart.",
+  "require_reset": false,
+  "eval": {
+    "eval_types": [
+      "string_match"
+    ],
+    "reference_answers": {
+      "exact_match": "Quest Lumaflex™ Band"
+    },
+    "reference_url": "",
+    "program_html": [],
+    "string_note": "",
+    "reference_answer_raw_annotation": "Quest Lumaflex™ Band"
+  },
+  "intent_template_id": 62,
+  "original_task_id": "4c186c6ed888d0c8d4cf4adb39443080",
+  "reference_length": 6,
+  "level": "medium"
+}

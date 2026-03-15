@@ -1,0 +1,30 @@
+{
+  "sites": [
+    "www.bestbuy.com"
+  ],
+  "task_id": 99,
+  "require_login": false,
+  "storage_state": "./.auth/online_mind2web/www.bestbuy.com.json",
+  "start_url": "https://www.bestbuy.com",
+  "geolocation": null,
+  "intent_template": "Search for a new internal M2 Samsung SSD drive between $25 and $200.",
+  "instantiation_dict": {},
+  "intent": "Search for a new internal M2 Samsung SSD drive between $25 and $200.",
+  "require_reset": false,
+  "eval": {
+    "eval_types": [
+      "string_match"
+    ],
+    "reference_answers": {
+      "exact_match": "Quest Lumaflex™ Band"
+    },
+    "reference_url": "",
+    "program_html": [],
+    "string_note": "",
+    "reference_answer_raw_annotation": "Quest Lumaflex™ Band"
+  },
+  "intent_template_id": 99,
+  "original_task_id": "515f2e5811cfdd5e0e669e40f17886d8",
+  "reference_length": 8,
+  "level": "medium"
+}

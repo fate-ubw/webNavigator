@@ -1,0 +1,30 @@
+{
+  "sites": [
+    "www.healthline.com"
+  ],
+  "task_id": 118,
+  "require_login": false,
+  "storage_state": "./.auth/online_mind2web/www.healthline.com.json",
+  "start_url": "https://www.healthline.com",
+  "geolocation": null,
+  "intent_template": "Compare two pescatarian diets for eating healthier.",
+  "instantiation_dict": {},
+  "intent": "Compare two pescatarian diets for eating healthier.",
+  "require_reset": false,
+  "eval": {
+    "eval_types": [
+      "string_match"
+    ],
+    "reference_answers": {
+      "exact_match": "Quest Lumaflex™ Band"
+    },
+    "reference_url": "",
+    "program_html": [],
+    "string_note": "",
+    "reference_answer_raw_annotation": "Quest Lumaflex™ Band"
+  },
+  "intent_template_id": 118,
+  "original_task_id": "64b76158720a69e4a5c31a55d54928bf",
+  "reference_length": 10,
+  "level": "medium"
+}

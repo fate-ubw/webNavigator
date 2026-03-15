@@ -1,0 +1,30 @@
+{
+  "sites": [
+    "www.recreation.gov"
+  ],
+  "task_id": 75,
+  "require_login": false,
+  "storage_state": "./.auth/online_mind2web/www.recreation.gov.json",
+  "start_url": "https://www.recreation.gov",
+  "geolocation": null,
+  "intent_template": "Find the next available date for Albion Basin.",
+  "instantiation_dict": {},
+  "intent": "Find the next available date for Albion Basin.",
+  "require_reset": false,
+  "eval": {
+    "eval_types": [
+      "string_match"
+    ],
+    "reference_answers": {
+      "exact_match": "Quest Lumaflex™ Band"
+    },
+    "reference_url": "",
+    "program_html": [],
+    "string_note": "",
+    "reference_answer_raw_annotation": "Quest Lumaflex™ Band"
+  },
+  "intent_template_id": 75,
+  "original_task_id": "c09721cc937d4dcfb391a0bc2c574b28",
+  "reference_length": 3,
+  "level": "easy"
+}

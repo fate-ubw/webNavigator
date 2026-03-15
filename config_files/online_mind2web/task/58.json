@@ -1,0 +1,30 @@
+{
+  "sites": [
+    "www.theweathernetwork.com"
+  ],
+  "task_id": 58,
+  "require_login": false,
+  "storage_state": "./.auth/online_mind2web/www.theweathernetwork.com.json",
+  "start_url": "https://www.theweathernetwork.com",
+  "geolocation": null,
+  "intent_template": "Find the weather for Vancouver, British Columbia for the next seven days.",
+  "instantiation_dict": {},
+  "intent": "Find the weather for Vancouver, British Columbia for the next seven days.",
+  "require_reset": false,
+  "eval": {
+    "eval_types": [
+      "string_match"
+    ],
+    "reference_answers": {
+      "exact_match": "Quest Lumaflex™ Band"
+    },
+    "reference_url": "",
+    "program_html": [],
+    "string_note": "",
+    "reference_answer_raw_annotation": "Quest Lumaflex™ Band"
+  },
+  "intent_template_id": 58,
+  "original_task_id": "871e7771cecb989972f138ecc373107b",
+  "reference_length": 3,
+  "level": "easy"
+}

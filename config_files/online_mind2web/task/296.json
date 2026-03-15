@@ -1,0 +1,30 @@
+{
+  "sites": [
+    "www.youtube.com"
+  ],
+  "task_id": 296,
+  "require_login": false,
+  "storage_state": "./.auth/online_mind2web/www.youtube.com.json",
+  "start_url": "https://www.youtube.com",
+  "geolocation": null,
+  "intent_template": "Find and open an animal learning course on YouTube Kids for my 6-year-old without login in. As a parent born in 1992, I would prefer not to enable search.",
+  "instantiation_dict": {},
+  "intent": "Find and open an animal learning course on YouTube Kids for my 6-year-old without login in. As a parent born in 1992, I would prefer not to enable search.",
+  "require_reset": false,
+  "eval": {
+    "eval_types": [
+      "string_match"
+    ],
+    "reference_answers": {
+      "exact_match": "Quest Lumaflex™ Band"
+    },
+    "reference_url": "",
+    "program_html": [],
+    "string_note": "",
+    "reference_answer_raw_annotation": "Quest Lumaflex™ Band"
+  },
+  "intent_template_id": 296,
+  "original_task_id": "3ef64f34eae59c9fac7ee9a4f18b4a0c",
+  "reference_length": 16,
+  "level": "hard"
+}

@@ -1,0 +1,30 @@
+{
+  "sites": [
+    "www.apple.com"
+  ],
+  "task_id": 29,
+  "require_login": false,
+  "storage_state": "./.auth/online_mind2web/www.apple.com.json",
+  "start_url": "https://www.apple.com",
+  "geolocation": null,
+  "intent_template": "Compare Apple watches and  learn more about the ultra version on apple.",
+  "instantiation_dict": {},
+  "intent": "Compare Apple watches and  learn more about the ultra version on apple.",
+  "require_reset": false,
+  "eval": {
+    "eval_types": [
+      "string_match"
+    ],
+    "reference_answers": {
+      "exact_match": "Quest Lumaflex™ Band"
+    },
+    "reference_url": "",
+    "program_html": [],
+    "string_note": "",
+    "reference_answer_raw_annotation": "Quest Lumaflex™ Band"
+  },
+  "intent_template_id": 29,
+  "original_task_id": "bf3b311cc8dce16d3de844f4b5875dfd",
+  "reference_length": 4,
+  "level": "easy"
+}

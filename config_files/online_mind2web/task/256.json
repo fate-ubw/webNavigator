@@ -1,0 +1,30 @@
+{
+  "sites": [
+    "wanderlog.com"
+  ],
+  "task_id": 256,
+  "require_login": false,
+  "storage_state": "./.auth/online_mind2web/wanderlog.com.json",
+  "start_url": "https://wanderlog.com",
+  "geolocation": null,
+  "intent_template": "What is the second stop among the best stops along the road trip from Yellowstone National Park to Las Vegas?",
+  "instantiation_dict": {},
+  "intent": "What is the second stop among the best stops along the road trip from Yellowstone National Park to Las Vegas?",
+  "require_reset": false,
+  "eval": {
+    "eval_types": [
+      "string_match"
+    ],
+    "reference_answers": {
+      "exact_match": "Quest Lumaflex™ Band"
+    },
+    "reference_url": "",
+    "program_html": [],
+    "string_note": "",
+    "reference_answer_raw_annotation": "Quest Lumaflex™ Band"
+  },
+  "intent_template_id": 256,
+  "original_task_id": "662ae0f2d3ac851dbcdd245f908277e3",
+  "reference_length": 5,
+  "level": "easy"
+}

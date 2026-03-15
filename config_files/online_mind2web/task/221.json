@@ -1,0 +1,30 @@
+{
+  "sites": [
+    "www.instructure.com"
+  ],
+  "task_id": 221,
+  "require_login": false,
+  "storage_state": "./.auth/online_mind2web/www.instructure.com.json",
+  "start_url": "https://www.instructure.com",
+  "geolocation": null,
+  "intent_template": "Find and open the earliest press release.",
+  "instantiation_dict": {},
+  "intent": "Find and open the earliest press release.",
+  "require_reset": false,
+  "eval": {
+    "eval_types": [
+      "string_match"
+    ],
+    "reference_answers": {
+      "exact_match": "Quest Lumaflex™ Band"
+    },
+    "reference_url": "",
+    "program_html": [],
+    "string_note": "",
+    "reference_answer_raw_annotation": "Quest Lumaflex™ Band"
+  },
+  "intent_template_id": 221,
+  "original_task_id": "da8f3823a827c7d3a492f383808e7912",
+  "reference_length": 6,
+  "level": "medium"
+}

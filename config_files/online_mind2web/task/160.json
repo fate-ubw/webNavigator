@@ -1,0 +1,30 @@
+{
+  "sites": [
+    "www.drugs.com"
+  ],
+  "task_id": 160,
+  "require_login": false,
+  "storage_state": "./.auth/online_mind2web/www.drugs.com.json",
+  "start_url": "https://www.drugs.com",
+  "geolocation": null,
+  "intent_template": "Identify a pill with a pink color and oval shape with 894 5 number on it.",
+  "instantiation_dict": {},
+  "intent": "Identify a pill with a pink color and oval shape with 894 5 number on it.",
+  "require_reset": false,
+  "eval": {
+    "eval_types": [
+      "string_match"
+    ],
+    "reference_answers": {
+      "exact_match": "Quest Lumaflex™ Band"
+    },
+    "reference_url": "",
+    "program_html": [],
+    "string_note": "",
+    "reference_answer_raw_annotation": "Quest Lumaflex™ Band"
+  },
+  "intent_template_id": 160,
+  "original_task_id": "5e4e89c9b6fdaee7a41aca5601b82e04",
+  "reference_length": 8,
+  "level": "medium"
+}

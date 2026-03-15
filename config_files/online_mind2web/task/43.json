@@ -1,0 +1,30 @@
+{
+  "sites": [
+    "www.healthgrades.com"
+  ],
+  "task_id": 43,
+  "require_login": false,
+  "storage_state": "./.auth/online_mind2web/www.healthgrades.com.json",
+  "start_url": "https://www.healthgrades.com",
+  "geolocation": null,
+  "intent_template": "Browse dermatologists within 10 miles of zip code 10019 and filter by only those who accept Blue Medicare Advantage.",
+  "instantiation_dict": {},
+  "intent": "Browse dermatologists within 10 miles of zip code 10019 and filter by only those who accept Blue Medicare Advantage.",
+  "require_reset": false,
+  "eval": {
+    "eval_types": [
+      "string_match"
+    ],
+    "reference_answers": {
+      "exact_match": "Quest Lumaflex™ Band"
+    },
+    "reference_url": "",
+    "program_html": [],
+    "string_note": "",
+    "reference_answer_raw_annotation": "Quest Lumaflex™ Band"
+  },
+  "intent_template_id": 43,
+  "original_task_id": "905cb53061c33aa2d77e485fe1fca516",
+  "reference_length": 11,
+  "level": "hard"
+}

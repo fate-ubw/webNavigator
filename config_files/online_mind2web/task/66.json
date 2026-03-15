@@ -1,0 +1,30 @@
+{
+  "sites": [
+    "ohiomeansjobs.ohio.gov"
+  ],
+  "task_id": 66,
+  "require_login": false,
+  "storage_state": "./.auth/online_mind2web/ohiomeansjobs.ohio.gov.json",
+  "start_url": "https://ohiomeansjobs.ohio.gov",
+  "geolocation": null,
+  "intent_template": "Browse marketing jobs and filter by Bachelor's Degree education level.",
+  "instantiation_dict": {},
+  "intent": "Browse marketing jobs and filter by Bachelor's Degree education level.",
+  "require_reset": false,
+  "eval": {
+    "eval_types": [
+      "string_match"
+    ],
+    "reference_answers": {
+      "exact_match": "Quest Lumaflex™ Band"
+    },
+    "reference_url": "",
+    "program_html": [],
+    "string_note": "",
+    "reference_answer_raw_annotation": "Quest Lumaflex™ Band"
+  },
+  "intent_template_id": 66,
+  "original_task_id": "354b4ddf048815f8fd4163d0d7e1aaa3",
+  "reference_length": 6,
+  "level": "medium"
+}

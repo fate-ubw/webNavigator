@@ -1,0 +1,30 @@
+{
+  "sites": [
+    "phys.org"
+  ],
+  "task_id": 210,
+  "require_login": false,
+  "storage_state": "./.auth/online_mind2web/phys.org.json",
+  "start_url": "https://phys.org",
+  "geolocation": null,
+  "intent_template": "Find the comments for the most popular news in the past month under the Quantum Physics topic.",
+  "instantiation_dict": {},
+  "intent": "Find the comments for the most popular news in the past month under the Quantum Physics topic.",
+  "require_reset": false,
+  "eval": {
+    "eval_types": [
+      "string_match"
+    ],
+    "reference_answers": {
+      "exact_match": "Quest Lumaflex™ Band"
+    },
+    "reference_url": "",
+    "program_html": [],
+    "string_note": "",
+    "reference_answer_raw_annotation": "Quest Lumaflex™ Band"
+  },
+  "intent_template_id": 210,
+  "original_task_id": "7c09c2c7c87cf6bb1138701eb54284ea",
+  "reference_length": 8,
+  "level": "medium"
+}

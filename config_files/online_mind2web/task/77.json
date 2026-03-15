@@ -1,0 +1,30 @@
+{
+  "sites": [
+    "www.healthline.com"
+  ],
+  "task_id": 77,
+  "require_login": false,
+  "storage_state": "./.auth/online_mind2web/www.healthline.com.json",
+  "start_url": "https://www.healthline.com",
+  "geolocation": null,
+  "intent_template": "Find healthy savory vegan snack recipes which can be cooked within 5 minutes and contain a high level of protein.",
+  "instantiation_dict": {},
+  "intent": "Find healthy savory vegan snack recipes which can be cooked within 5 minutes and contain a high level of protein.",
+  "require_reset": false,
+  "eval": {
+    "eval_types": [
+      "string_match"
+    ],
+    "reference_answers": {
+      "exact_match": "Quest Lumaflex™ Band"
+    },
+    "reference_url": "",
+    "program_html": [],
+    "string_note": "",
+    "reference_answer_raw_annotation": "Quest Lumaflex™ Band"
+  },
+  "intent_template_id": 77,
+  "original_task_id": "301f267f421b93045874726183e8f722",
+  "reference_length": 10,
+  "level": "medium"
+}

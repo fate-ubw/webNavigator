@@ -1,0 +1,30 @@
+{
+  "sites": [
+    "www.airbnb.com"
+  ],
+  "task_id": 202,
+  "require_login": false,
+  "storage_state": "./.auth/online_mind2web/www.airbnb.com.json",
+  "start_url": "https://www.airbnb.com",
+  "geolocation": null,
+  "intent_template": "Find an Airbnb in Cleveland for three nights. The check-in date is the day after tomorrow. We have 2 adults, 2 kids, and 1 pet. The budget is $100 to $300 per night. Essential amenities include free parking, a washer, and a gym.",
+  "instantiation_dict": {},
+  "intent": "Find an Airbnb in Cleveland for three nights. The check-in date is the day after tomorrow. We have 2 adults, 2 kids, and 1 pet. The budget is $100 to $300 per night. Essential amenities include free parking, a washer, and a gym.",
+  "require_reset": false,
+  "eval": {
+    "eval_types": [
+      "string_match"
+    ],
+    "reference_answers": {
+      "exact_match": "Quest Lumaflex™ Band"
+    },
+    "reference_url": "",
+    "program_html": [],
+    "string_note": "",
+    "reference_answer_raw_annotation": "Quest Lumaflex™ Band"
+  },
+  "intent_template_id": 202,
+  "original_task_id": "a13e4231a3d6a7000c622c56448d97ba",
+  "reference_length": 19,
+  "level": "hard"
+}

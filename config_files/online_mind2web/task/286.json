@@ -1,0 +1,30 @@
+{
+  "sites": [
+    "smartasset.com"
+  ],
+  "task_id": 286,
+  "require_login": false,
+  "storage_state": "./.auth/online_mind2web/smartasset.com.json",
+  "start_url": "https://smartasset.com",
+  "geolocation": null,
+  "intent_template": "Estimate the federal income tax I would owe on $158,500 of taxable income in ZIP code 97007, filing as single.",
+  "instantiation_dict": {},
+  "intent": "Estimate the federal income tax I would owe on $158,500 of taxable income in ZIP code 97007, filing as single.",
+  "require_reset": false,
+  "eval": {
+    "eval_types": [
+      "string_match"
+    ],
+    "reference_answers": {
+      "exact_match": "Quest Lumaflex™ Band"
+    },
+    "reference_url": "",
+    "program_html": [],
+    "string_note": "",
+    "reference_answer_raw_annotation": "Quest Lumaflex™ Band"
+  },
+  "intent_template_id": 286,
+  "original_task_id": "bc2ce7f206045dd2d322e5695a947219",
+  "reference_length": 6,
+  "level": "medium"
+}

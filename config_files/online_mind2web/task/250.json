@@ -1,0 +1,30 @@
+{
+  "sites": [
+    "www.leagueoflegends.com"
+  ],
+  "task_id": 250,
+  "require_login": false,
+  "storage_state": "./.auth/online_mind2web/www.leagueoflegends.com.json",
+  "start_url": "https://www.leagueoflegends.com",
+  "geolocation": null,
+  "intent_template": "Browse the final skin in the list for the champion Ahri.",
+  "instantiation_dict": {},
+  "intent": "Browse the final skin in the list for the champion Ahri.",
+  "require_reset": false,
+  "eval": {
+    "eval_types": [
+      "string_match"
+    ],
+    "reference_answers": {
+      "exact_match": "Quest Lumaflex™ Band"
+    },
+    "reference_url": "",
+    "program_html": [],
+    "string_note": "",
+    "reference_answer_raw_annotation": "Quest Lumaflex™ Band"
+  },
+  "intent_template_id": 250,
+  "original_task_id": "c39d6c245f8243993e707d54d2f4acec",
+  "reference_length": 18,
+  "level": "hard"
+}

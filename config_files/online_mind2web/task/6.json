@@ -1,0 +1,30 @@
+{
+  "sites": [
+    "new.mta.info"
+  ],
+  "task_id": 6,
+  "require_login": false,
+  "storage_state": "./.auth/online_mind2web/new.mta.info.json",
+  "start_url": "https://new.mta.info",
+  "geolocation": null,
+  "intent_template": "Get the report from the final environmental impact statement for the Jamaica Bus Depot expansion on new.mta.info.",
+  "instantiation_dict": {},
+  "intent": "Get the report from the final environmental impact statement for the Jamaica Bus Depot expansion on new.mta.info.",
+  "require_reset": false,
+  "eval": {
+    "eval_types": [
+      "string_match"
+    ],
+    "reference_answers": {
+      "exact_match": "Quest Lumaflex™ Band"
+    },
+    "reference_url": "",
+    "program_html": [],
+    "string_note": "",
+    "reference_answer_raw_annotation": "Quest Lumaflex™ Band"
+  },
+  "intent_template_id": 6,
+  "original_task_id": "48c73f3f53e2611c4a1052457c1033db",
+  "reference_length": 10,
+  "level": "medium"
+}

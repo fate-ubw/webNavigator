@@ -1,0 +1,30 @@
+{
+  "sites": [
+    "www.justice.gov"
+  ],
+  "task_id": 78,
+  "require_login": false,
+  "storage_state": "./.auth/online_mind2web/www.justice.gov.json",
+  "start_url": "https://www.justice.gov",
+  "geolocation": null,
+  "intent_template": "Find press releases by the antitrust division in 2022.",
+  "instantiation_dict": {},
+  "intent": "Find press releases by the antitrust division in 2022.",
+  "require_reset": false,
+  "eval": {
+    "eval_types": [
+      "string_match"
+    ],
+    "reference_answers": {
+      "exact_match": "Quest Lumaflex™ Band"
+    },
+    "reference_url": "",
+    "program_html": [],
+    "string_note": "",
+    "reference_answer_raw_annotation": "Quest Lumaflex™ Band"
+  },
+  "intent_template_id": 78,
+  "original_task_id": "4f903626f632586fe4728d6664947bab",
+  "reference_length": 4,
+  "level": "easy"
+}

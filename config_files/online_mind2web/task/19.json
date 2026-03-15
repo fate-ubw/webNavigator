@@ -1,0 +1,30 @@
+{
+  "sites": [
+    "new.mta.info"
+  ],
+  "task_id": 19,
+  "require_login": false,
+  "storage_state": "./.auth/online_mind2web/new.mta.info.json",
+  "start_url": "https://new.mta.info",
+  "geolocation": null,
+  "intent_template": "Find the list of neighborhood maps for Brooklyn on new.mta.info.",
+  "instantiation_dict": {},
+  "intent": "Find the list of neighborhood maps for Brooklyn on new.mta.info.",
+  "require_reset": false,
+  "eval": {
+    "eval_types": [
+      "string_match"
+    ],
+    "reference_answers": {
+      "exact_match": "Quest Lumaflex™ Band"
+    },
+    "reference_url": "",
+    "program_html": [],
+    "string_note": "",
+    "reference_answer_raw_annotation": "Quest Lumaflex™ Band"
+  },
+  "intent_template_id": 19,
+  "original_task_id": "4091bdd3fa64a5b0d912bc08eaf9c824",
+  "reference_length": 5,
+  "level": "easy"
+}

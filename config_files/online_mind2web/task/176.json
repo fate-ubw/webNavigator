@@ -1,0 +1,30 @@
+{
+  "sites": [
+    "www.healthgrades.com"
+  ],
+  "task_id": 176,
+  "require_login": false,
+  "storage_state": "./.auth/online_mind2web/www.healthgrades.com.json",
+  "start_url": "https://www.healthgrades.com",
+  "geolocation": null,
+  "intent_template": "Browse pediatricians near zip code 90028 who specialize in Internal Medicine and have a rating of at least 4 stars.",
+  "instantiation_dict": {},
+  "intent": "Browse pediatricians near zip code 90028 who specialize in Internal Medicine and have a rating of at least 4 stars.",
+  "require_reset": false,
+  "eval": {
+    "eval_types": [
+      "string_match"
+    ],
+    "reference_answers": {
+      "exact_match": "Quest Lumaflex™ Band"
+    },
+    "reference_url": "",
+    "program_html": [],
+    "string_note": "",
+    "reference_answer_raw_annotation": "Quest Lumaflex™ Band"
+  },
+  "intent_template_id": 176,
+  "original_task_id": "e9f4dfc67e0e6aa37f05f7cc5aa7428c",
+  "reference_length": 9,
+  "level": "medium"
+}

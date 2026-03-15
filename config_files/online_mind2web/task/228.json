@@ -1,0 +1,30 @@
+{
+  "sites": [
+    "github.com"
+  ],
+  "task_id": 228,
+  "require_login": false,
+  "storage_state": "./.auth/online_mind2web/github.com.json",
+  "start_url": "https://github.com",
+  "geolocation": null,
+  "intent_template": "Identify the open issue with the most comments in the first trending open-source repository this week.",
+  "instantiation_dict": {},
+  "intent": "Identify the open issue with the most comments in the first trending open-source repository this week.",
+  "require_reset": false,
+  "eval": {
+    "eval_types": [
+      "string_match"
+    ],
+    "reference_answers": {
+      "exact_match": "Quest Lumaflex™ Band"
+    },
+    "reference_url": "",
+    "program_html": [],
+    "string_note": "",
+    "reference_answer_raw_annotation": "Quest Lumaflex™ Band"
+  },
+  "intent_template_id": 228,
+  "original_task_id": "512fd4deab099b8dc0dcfc0ec48a3c63",
+  "reference_length": 8,
+  "level": "medium"
+}

@@ -1,0 +1,30 @@
+{
+  "sites": [
+    "doctor.webmd.com"
+  ],
+  "task_id": 41,
+  "require_login": false,
+  "storage_state": "./.auth/online_mind2web/doctor.webmd.com.json",
+  "start_url": "https://doctor.webmd.com",
+  "geolocation": null,
+  "intent_template": "Find the best Audiologist within 50 miles of New York, NY, with a rating of 4 and above.",
+  "instantiation_dict": {},
+  "intent": "Find the best Audiologist within 50 miles of New York, NY, with a rating of 4 and above.",
+  "require_reset": false,
+  "eval": {
+    "eval_types": [
+      "string_match"
+    ],
+    "reference_answers": {
+      "exact_match": "Quest Lumaflex™ Band"
+    },
+    "reference_url": "",
+    "program_html": [],
+    "string_note": "",
+    "reference_answer_raw_annotation": "Quest Lumaflex™ Band"
+  },
+  "intent_template_id": 41,
+  "original_task_id": "8244409b2c82043f966cad05f9afe132",
+  "reference_length": 13,
+  "level": "hard"
+}

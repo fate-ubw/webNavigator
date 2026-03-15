@@ -1,0 +1,30 @@
+{
+  "sites": [
+    "www.publicstorage.com"
+  ],
+  "task_id": 63,
+  "require_login": false,
+  "storage_state": "./.auth/online_mind2web/www.publicstorage.com.json",
+  "start_url": "https://www.publicstorage.com",
+  "geolocation": null,
+  "intent_template": "Locate a self-storage unit near zip code 60538 that can fit the contens of two small bedrooms and is climate-controlled.",
+  "instantiation_dict": {},
+  "intent": "Locate a self-storage unit near zip code 60538 that can fit the contens of two small bedrooms and is climate-controlled.",
+  "require_reset": false,
+  "eval": {
+    "eval_types": [
+      "string_match"
+    ],
+    "reference_answers": {
+      "exact_match": "Quest Lumaflex™ Band"
+    },
+    "reference_url": "",
+    "program_html": [],
+    "string_note": "",
+    "reference_answer_raw_annotation": "Quest Lumaflex™ Band"
+  },
+  "intent_template_id": 63,
+  "original_task_id": "2fc51dd3febd447f0fdcdabca8d944ce_110325",
+  "reference_length": 8,
+  "level": "medium"
+}

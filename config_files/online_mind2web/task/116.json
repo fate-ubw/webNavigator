@@ -1,0 +1,30 @@
+{
+  "sites": [
+    "careers.walmart.com"
+  ],
+  "task_id": 116,
+  "require_login": false,
+  "storage_state": "./.auth/online_mind2web/careers.walmart.com.json",
+  "start_url": "https://careers.walmart.com",
+  "geolocation": null,
+  "intent_template": "Find support services jobs in Bentonville, in the state of Arkansas.",
+  "instantiation_dict": {},
+  "intent": "Find support services jobs in Bentonville, in the state of Arkansas.",
+  "require_reset": false,
+  "eval": {
+    "eval_types": [
+      "string_match"
+    ],
+    "reference_answers": {
+      "exact_match": "Quest Lumaflex™ Band"
+    },
+    "reference_url": "",
+    "program_html": [],
+    "string_note": "",
+    "reference_answer_raw_annotation": "Quest Lumaflex™ Band"
+  },
+  "intent_template_id": 116,
+  "original_task_id": "0059adc6b12a3822305deb68929b2de8",
+  "reference_length": 8,
+  "level": "medium"
+}

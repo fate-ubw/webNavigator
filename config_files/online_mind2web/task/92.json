@@ -1,0 +1,30 @@
+{
+  "sites": [
+    "www.bbb.org"
+  ],
+  "task_id": 92,
+  "require_login": false,
+  "storage_state": "./.auth/online_mind2web/www.bbb.org.json",
+  "start_url": "https://www.bbb.org",
+  "geolocation": null,
+  "intent_template": "Look for the best rated BBB accredited charity near 12023.",
+  "instantiation_dict": {},
+  "intent": "Look for the best rated BBB accredited charity near 12023.",
+  "require_reset": false,
+  "eval": {
+    "eval_types": [
+      "string_match"
+    ],
+    "reference_answers": {
+      "exact_match": "Quest Lumaflex™ Band"
+    },
+    "reference_url": "",
+    "program_html": [],
+    "string_note": "",
+    "reference_answer_raw_annotation": "Quest Lumaflex™ Band"
+  },
+  "intent_template_id": 92,
+  "original_task_id": "05483c50cc9b04c8ac44c574758fb2bd",
+  "reference_length": 8,
+  "level": "medium"
+}

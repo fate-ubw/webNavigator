@@ -1,0 +1,30 @@
+{
+  "sites": [
+    "phet.colorado.edu"
+  ],
+  "task_id": 298,
+  "require_login": false,
+  "storage_state": "./.auth/online_mind2web/phet.colorado.edu.json",
+  "start_url": "https://phet.colorado.edu",
+  "geolocation": null,
+  "intent_template": "Show me the result of a proton emission decay for a Beryllium nucleus with 4 protons and 2 neutrons in the simulation.",
+  "instantiation_dict": {},
+  "intent": "Show me the result of a proton emission decay for a Beryllium nucleus with 4 protons and 2 neutrons in the simulation.",
+  "require_reset": false,
+  "eval": {
+    "eval_types": [
+      "string_match"
+    ],
+    "reference_answers": {
+      "exact_match": "Quest Lumaflex™ Band"
+    },
+    "reference_url": "",
+    "program_html": [],
+    "string_note": "",
+    "reference_answer_raw_annotation": "Quest Lumaflex™ Band"
+  },
+  "intent_template_id": 298,
+  "original_task_id": "1ab384fb3a791edfb410213cc6b82151_110325",
+  "reference_length": 11,
+  "level": "hard"
+}

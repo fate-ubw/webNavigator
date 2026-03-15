@@ -1,0 +1,30 @@
+{
+  "sites": [
+    "www.adoptapet.com"
+  ],
+  "task_id": 102,
+  "require_login": false,
+  "storage_state": "./.auth/online_mind2web/www.adoptapet.com.json",
+  "start_url": "https://www.adoptapet.com",
+  "geolocation": null,
+  "intent_template": "Search for adoptable dogs near 21122 zip code.",
+  "instantiation_dict": {},
+  "intent": "Search for adoptable dogs near 21122 zip code.",
+  "require_reset": false,
+  "eval": {
+    "eval_types": [
+      "string_match"
+    ],
+    "reference_answers": {
+      "exact_match": "Quest Lumaflex™ Band"
+    },
+    "reference_url": "",
+    "program_html": [],
+    "string_note": "",
+    "reference_answer_raw_annotation": "Quest Lumaflex™ Band"
+  },
+  "intent_template_id": 102,
+  "original_task_id": "cad62d2be0c53f08a416457486b3db23",
+  "reference_length": 5,
+  "level": "easy"
+}

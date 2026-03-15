@@ -1,0 +1,30 @@
+{
+  "sites": [
+    "www.mayoclinic.org"
+  ],
+  "task_id": 139,
+  "require_login": false,
+  "storage_state": "./.auth/online_mind2web/www.mayoclinic.org.json",
+  "start_url": "https://www.mayoclinic.org",
+  "geolocation": null,
+  "intent_template": "Find possible causes for the symptoms of chest pain which is sharp which is accompanied by anxiety.",
+  "instantiation_dict": {},
+  "intent": "Find possible causes for the symptoms of chest pain which is sharp which is accompanied by anxiety.",
+  "require_reset": false,
+  "eval": {
+    "eval_types": [
+      "string_match"
+    ],
+    "reference_answers": {
+      "exact_match": "Quest Lumaflex™ Band"
+    },
+    "reference_url": "",
+    "program_html": [],
+    "string_note": "",
+    "reference_answer_raw_annotation": "Quest Lumaflex™ Band"
+  },
+  "intent_template_id": 139,
+  "original_task_id": "8103786e0e5976ebf961bd062d5f39cd",
+  "reference_length": 9,
+  "level": "medium"
+}

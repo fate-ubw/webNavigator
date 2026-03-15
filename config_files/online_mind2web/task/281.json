@@ -1,0 +1,30 @@
+{
+  "sites": [
+    "ohiomeansjobs.ohio.gov"
+  ],
+  "task_id": 281,
+  "require_login": false,
+  "storage_state": "./.auth/online_mind2web/ohiomeansjobs.ohio.gov.json",
+  "start_url": "https://ohiomeansjobs.ohio.gov",
+  "geolocation": null,
+  "intent_template": "Get a part-time job within 5 miles of Moscow, Idaho in the accommodation and food services industry, as a chef, and show jobs for corporate only.",
+  "instantiation_dict": {},
+  "intent": "Get a part-time job within 5 miles of Moscow, Idaho in the accommodation and food services industry, as a chef, and show jobs for corporate only.",
+  "require_reset": false,
+  "eval": {
+    "eval_types": [
+      "string_match"
+    ],
+    "reference_answers": {
+      "exact_match": "Quest Lumaflex™ Band"
+    },
+    "reference_url": "",
+    "program_html": [],
+    "string_note": "",
+    "reference_answer_raw_annotation": "Quest Lumaflex™ Band"
+  },
+  "intent_template_id": 281,
+  "original_task_id": "28e7574e7bd6d14f36d2988a5ef2bd23",
+  "reference_length": 12,
+  "level": "hard"
+}

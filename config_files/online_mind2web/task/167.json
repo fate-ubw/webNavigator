@@ -1,0 +1,30 @@
+{
+  "sites": [
+    "www.adoptapet.com"
+  ],
+  "task_id": 167,
+  "require_login": false,
+  "storage_state": "./.auth/online_mind2web/www.adoptapet.com.json",
+  "start_url": "https://www.adoptapet.com",
+  "geolocation": null,
+  "intent_template": "Find a white female kitten within 35 miles of zip 77494.",
+  "instantiation_dict": {},
+  "intent": "Find a white female kitten within 35 miles of zip 77494.",
+  "require_reset": false,
+  "eval": {
+    "eval_types": [
+      "string_match"
+    ],
+    "reference_answers": {
+      "exact_match": "Quest Lumaflex™ Band"
+    },
+    "reference_url": "",
+    "program_html": [],
+    "string_note": "",
+    "reference_answer_raw_annotation": "Quest Lumaflex™ Band"
+  },
+  "intent_template_id": 167,
+  "original_task_id": "4639a54f3ab549864fd8d60b7398b1e1",
+  "reference_length": 10,
+  "level": "medium"
+}

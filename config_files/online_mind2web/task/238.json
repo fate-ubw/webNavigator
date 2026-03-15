@@ -1,0 +1,30 @@
+{
+  "sites": [
+    "arxiv.org"
+  ],
+  "task_id": 238,
+  "require_login": false,
+  "storage_state": "./.auth/online_mind2web/arxiv.org.json",
+  "start_url": "https://arxiv.org",
+  "geolocation": null,
+  "intent_template": "Search for papers related to reinforcement learning under the topics of computer science and mathematics on arxiv, with recent submission dates between September 2024 and January 2025.",
+  "instantiation_dict": {},
+  "intent": "Search for papers related to reinforcement learning under the topics of computer science and mathematics on arxiv, with recent submission dates between September 2024 and January 2025.",
+  "require_reset": false,
+  "eval": {
+    "eval_types": [
+      "string_match"
+    ],
+    "reference_answers": {
+      "exact_match": "Quest Lumaflex™ Band"
+    },
+    "reference_url": "",
+    "program_html": [],
+    "string_note": "",
+    "reference_answer_raw_annotation": "Quest Lumaflex™ Band"
+  },
+  "intent_template_id": 238,
+  "original_task_id": "71f8de1834599fba443f40dbbfab8edd",
+  "reference_length": 11,
+  "level": "hard"
+}

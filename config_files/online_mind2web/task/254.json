@@ -1,0 +1,30 @@
+{
+  "sites": [
+    "www.parkers.co.uk"
+  ],
+  "task_id": 254,
+  "require_login": false,
+  "storage_state": "./.auth/online_mind2web/www.parkers.co.uk.json",
+  "start_url": "https://www.parkers.co.uk",
+  "geolocation": null,
+  "intent_template": "Find a large van for sale from the year 2024 or newer with up to 10,000 miles.",
+  "instantiation_dict": {},
+  "intent": "Find a large van for sale from the year 2024 or newer with up to 10,000 miles.",
+  "require_reset": false,
+  "eval": {
+    "eval_types": [
+      "string_match"
+    ],
+    "reference_answers": {
+      "exact_match": "Quest Lumaflex™ Band"
+    },
+    "reference_url": "",
+    "program_html": [],
+    "string_note": "",
+    "reference_answer_raw_annotation": "Quest Lumaflex™ Band"
+  },
+  "intent_template_id": 254,
+  "original_task_id": "f27b393bbd2082f92b566270c4b74fe6",
+  "reference_length": 7,
+  "level": "medium"
+}

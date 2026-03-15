@@ -1,0 +1,30 @@
+{
+  "sites": [
+    "www.accuweather.com"
+  ],
+  "task_id": 121,
+  "require_login": false,
+  "storage_state": "./.auth/online_mind2web/www.accuweather.com.json",
+  "start_url": "https://www.accuweather.com",
+  "geolocation": null,
+  "intent_template": "Show daily weather for New York City.",
+  "instantiation_dict": {},
+  "intent": "Show daily weather for New York City.",
+  "require_reset": false,
+  "eval": {
+    "eval_types": [
+      "string_match"
+    ],
+    "reference_answers": {
+      "exact_match": "Quest Lumaflex™ Band"
+    },
+    "reference_url": "",
+    "program_html": [],
+    "string_note": "",
+    "reference_answer_raw_annotation": "Quest Lumaflex™ Band"
+  },
+  "intent_template_id": 121,
+  "original_task_id": "26810ed9c123a62992e3eed31db3c5ee",
+  "reference_length": 4,
+  "level": "easy"
+}

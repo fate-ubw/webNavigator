@@ -1,0 +1,30 @@
+{
+  "sites": [
+    "www.healthgrades.com"
+  ],
+  "task_id": 47,
+  "require_login": false,
+  "storage_state": "./.auth/online_mind2web/www.healthgrades.com.json",
+  "start_url": "https://www.healthgrades.com",
+  "geolocation": null,
+  "intent_template": "Find a dentist who specializes in pediatric dentistry and is located near zip code 90210 (within 5-mile distance).",
+  "instantiation_dict": {},
+  "intent": "Find a dentist who specializes in pediatric dentistry and is located near zip code 90210 (within 5-mile distance).",
+  "require_reset": false,
+  "eval": {
+    "eval_types": [
+      "string_match"
+    ],
+    "reference_answers": {
+      "exact_match": "Quest Lumaflex™ Band"
+    },
+    "reference_url": "",
+    "program_html": [],
+    "string_note": "",
+    "reference_answer_raw_annotation": "Quest Lumaflex™ Band"
+  },
+  "intent_template_id": 47,
+  "original_task_id": "070c907d34a4ce71dfdbea38f9c5d4d8",
+  "reference_length": 7,
+  "level": "medium"
+}

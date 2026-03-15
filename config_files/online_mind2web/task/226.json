@@ -1,0 +1,30 @@
+{
+  "sites": [
+    "www.statista.com"
+  ],
+  "task_id": 226,
+  "require_login": false,
+  "storage_state": "./.auth/online_mind2web/www.statista.com.json",
+  "start_url": "https://www.statista.com",
+  "geolocation": null,
+  "intent_template": "Find the newest digital trends report in the Finance & Insurance industry within the region of China.",
+  "instantiation_dict": {},
+  "intent": "Find the newest digital trends report in the Finance & Insurance industry within the region of China.",
+  "require_reset": false,
+  "eval": {
+    "eval_types": [
+      "string_match"
+    ],
+    "reference_answers": {
+      "exact_match": "Quest Lumaflex™ Band"
+    },
+    "reference_url": "",
+    "program_html": [],
+    "string_note": "",
+    "reference_answer_raw_annotation": "Quest Lumaflex™ Band"
+  },
+  "intent_template_id": 226,
+  "original_task_id": "78baf9dbe7c3532f7d7ef4cc22a7f065_121125",
+  "reference_length": 8,
+  "level": "medium"
+}

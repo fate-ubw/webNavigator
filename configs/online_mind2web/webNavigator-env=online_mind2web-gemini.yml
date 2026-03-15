@@ -1,0 +1,59 @@
+logging: True
+verbose: 1
+debug: False
+logdir: "../Trajectories"
+logname: "webNavigator-3_0-20260116-online_mind2web"
+benchmark: 
+  name: "online_mind2web"
+  task_name: "task"
+max_steps: 20
+agent:
+  type: "webNavigator"
+  others:
+    max_steps: 20
+    logname: "webNavigator"
+    logging: True
+    verbose: 1
+    debug: False
+  actor:
+    debug: 0
+    verbose: 1
+    number: 1
+    model: "google/gemini-2.5-pro"
+    model_family: "gpt"
+    documented_interaction_elements: ["url", "plan", "reason", "observation summary", "retained element ids", "observation highlight", "mode analysis", "navigate_think", "navigate_query", "navigate_domain", "page_selection_response", "topk_webpages", "target_page", "target_webnode", "webgraph"]
+    online_interaction_elements: []
+    input: ["step", "objective", "previous plans", "interaction history", "current observation"]
+    interaction_history:
+      verbose: True
+      type: ["text"]
+      step_num: 5
+    current_observation:
+      type: ["text", "image"]
+    output: ["repeat final object", "extract constraints", "interaction history summary", "observation description", "mode analysis", "reason", "action", "observation highlight"]
+    planning_command: []
+    navigation_command: ["click", "type", "stop", "note", "go_back", "optimal_navigate"] # thinking tool
+    play: ["step", "objective", "previous plans", "observation description", "reason", "action"]
+    trash: ["objective", "step", "url", "instruction", "online input", "response"]
+    retriever:
+      model: "jina-embeddings-v4"
+      topk: 30
+      return_multivector: True
+    domain_paths:
+      shopping_admin: "webNavigator/webNodes/run_id-20251026-151146-admin"
+      map: "webNavigator/webNodes/run_id-20251111-180558-map"
+      shopping: "webNavigator/webNodes/run_id-20251107-133622-shopping"
+      gitlab: "webNavigator/webNodes/run_id-20251026-190417-gitlab"
+      reddit: "webNavigator/webNodes/run_id-20251207-190950-postmill"
+    selector:
+      model: "google/gemini-2.5-flash"
+env:
+  fullpage: true
+  prune: true
+  obs_with_url: false
+  max_browser_rows: 500
+  headless: true
+  task_ids: "all"
+screenshot_storage:
+  enabled: true
+  full_page: true

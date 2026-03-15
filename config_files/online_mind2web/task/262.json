@@ -1,0 +1,30 @@
+{
+  "sites": [
+    "www.jcpenney.com"
+  ],
+  "task_id": 262,
+  "require_login": false,
+  "storage_state": "./.auth/online_mind2web/www.jcpenney.com.json",
+  "start_url": "https://www.jcpenney.com",
+  "geolocation": null,
+  "intent_template": "Filter handbags to show evening bags that are gold, made of satin, and priced under $100.",
+  "instantiation_dict": {},
+  "intent": "Filter handbags to show evening bags that are gold, made of satin, and priced under $100.",
+  "require_reset": false,
+  "eval": {
+    "eval_types": [
+      "string_match"
+    ],
+    "reference_answers": {
+      "exact_match": "Quest Lumaflex™ Band"
+    },
+    "reference_url": "",
+    "program_html": [],
+    "string_note": "",
+    "reference_answer_raw_annotation": "Quest Lumaflex™ Band"
+  },
+  "intent_template_id": 262,
+  "original_task_id": "636b07af4dd97c1793733db1fd1b90b8_110325",
+  "reference_length": 13,
+  "level": "hard"
+}

@@ -1,0 +1,30 @@
+{
+  "sites": [
+    "www.landwatch.com"
+  ],
+  "task_id": 56,
+  "require_login": false,
+  "storage_state": "./.auth/online_mind2web/www.landwatch.com.json",
+  "start_url": "https://www.landwatch.com",
+  "geolocation": null,
+  "intent_template": "Get owner-financing homesite land for sale in New Mexico, Luna County,  listed in the last 30 days, and contact the cheapest per acre land seller.",
+  "instantiation_dict": {},
+  "intent": "Get owner-financing homesite land for sale in New Mexico, Luna County,  listed in the last 30 days, and contact the cheapest per acre land seller.",
+  "require_reset": false,
+  "eval": {
+    "eval_types": [
+      "string_match"
+    ],
+    "reference_answers": {
+      "exact_match": "Quest Lumaflex™ Band"
+    },
+    "reference_url": "",
+    "program_html": [],
+    "string_note": "",
+    "reference_answer_raw_annotation": "Quest Lumaflex™ Band"
+  },
+  "intent_template_id": 56,
+  "original_task_id": "59b7b990b4828bc305ab0d7ed6071b55",
+  "reference_length": 9,
+  "level": "medium"
+}

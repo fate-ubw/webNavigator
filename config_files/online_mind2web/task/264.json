@@ -1,0 +1,30 @@
+{
+  "sites": [
+    "www.ryanair.com"
+  ],
+  "task_id": 264,
+  "require_login": false,
+  "storage_state": "./.auth/online_mind2web/www.ryanair.com.json",
+  "start_url": "https://www.ryanair.com",
+  "geolocation": null,
+  "intent_template": "Find a flight from Dublin to anywhere under $100 tomorrow on Ryanair.",
+  "instantiation_dict": {},
+  "intent": "Find a flight from Dublin to anywhere under $100 tomorrow on Ryanair.",
+  "require_reset": false,
+  "eval": {
+    "eval_types": [
+      "string_match"
+    ],
+    "reference_answers": {
+      "exact_match": "Quest Lumaflex™ Band"
+    },
+    "reference_url": "",
+    "program_html": [],
+    "string_note": "",
+    "reference_answer_raw_annotation": "Quest Lumaflex™ Band"
+  },
+  "intent_template_id": 264,
+  "original_task_id": "cf757a775fa1224acfc7998489e199a8",
+  "reference_length": 13,
+  "level": "hard"
+}

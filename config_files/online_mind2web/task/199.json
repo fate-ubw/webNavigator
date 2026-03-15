@@ -1,0 +1,30 @@
+{
+  "sites": [
+    "www.apartments.com"
+  ],
+  "task_id": 199,
+  "require_login": false,
+  "storage_state": "./.auth/online_mind2web/www.apartments.com.json",
+  "start_url": "https://www.apartments.com",
+  "geolocation": null,
+  "intent_template": "Search for the cheapest apartment in Detroit for a student.",
+  "instantiation_dict": {},
+  "intent": "Search for the cheapest apartment in Detroit for a student.",
+  "require_reset": false,
+  "eval": {
+    "eval_types": [
+      "string_match"
+    ],
+    "reference_answers": {
+      "exact_match": "Quest Lumaflex™ Band"
+    },
+    "reference_url": "",
+    "program_html": [],
+    "string_note": "",
+    "reference_answer_raw_annotation": "Quest Lumaflex™ Band"
+  },
+  "intent_template_id": 199,
+  "original_task_id": "c073ac1bcf40f84c599affc97edbc396",
+  "reference_length": 9,
+  "level": "medium"
+}

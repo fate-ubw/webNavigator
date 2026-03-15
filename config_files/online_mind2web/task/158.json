@@ -1,0 +1,30 @@
+{
+  "sites": [
+    "cookpad.com"
+  ],
+  "task_id": 158,
+  "require_login": false,
+  "storage_state": "./.auth/online_mind2web/cookpad.com.json",
+  "start_url": "https://cookpad.com",
+  "geolocation": null,
+  "intent_template": "Find a recipe that includes eggplant and mushrooms.",
+  "instantiation_dict": {},
+  "intent": "Find a recipe that includes eggplant and mushrooms.",
+  "require_reset": false,
+  "eval": {
+    "eval_types": [
+      "string_match"
+    ],
+    "reference_answers": {
+      "exact_match": "Quest Lumaflex™ Band"
+    },
+    "reference_url": "",
+    "program_html": [],
+    "string_note": "",
+    "reference_answer_raw_annotation": "Quest Lumaflex™ Band"
+  },
+  "intent_template_id": 158,
+  "original_task_id": "16200f51d63f0a47a58fa17acd49e368",
+  "reference_length": 3,
+  "level": "easy"
+}

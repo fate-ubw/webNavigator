@@ -1,0 +1,30 @@
+{
+  "sites": [
+    "www.student.com"
+  ],
+  "task_id": 61,
+  "require_login": false,
+  "storage_state": "./.auth/online_mind2web/www.student.com.json",
+  "start_url": "https://www.student.com",
+  "geolocation": null,
+  "intent_template": "Show me the shared rooms in any university in Melbourne that has a private bathroom wifi, and gas included in the bills.",
+  "instantiation_dict": {},
+  "intent": "Show me the shared rooms in any university in Melbourne that has a private bathroom wifi, and gas included in the bills.",
+  "require_reset": false,
+  "eval": {
+    "eval_types": [
+      "string_match"
+    ],
+    "reference_answers": {
+      "exact_match": "Quest Lumaflex™ Band"
+    },
+    "reference_url": "",
+    "program_html": [],
+    "string_note": "",
+    "reference_answer_raw_annotation": "Quest Lumaflex™ Band"
+  },
+  "intent_template_id": 61,
+  "original_task_id": "8ae510355d978424f490798f900bfa2c",
+  "reference_length": 9,
+  "level": "medium"
+}

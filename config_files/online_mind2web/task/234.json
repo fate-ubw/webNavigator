@@ -1,0 +1,30 @@
+{
+  "sites": [
+    "iclr.cc"
+  ],
+  "task_id": 234,
+  "require_login": false,
+  "storage_state": "./.auth/online_mind2web/iclr.cc.json",
+  "start_url": "https://iclr.cc",
+  "geolocation": null,
+  "intent_template": "Open the page for the first Best Paper Award video recording of talks from ICLR 2016.",
+  "instantiation_dict": {},
+  "intent": "Open the page for the first Best Paper Award video recording of talks from ICLR 2016.",
+  "require_reset": false,
+  "eval": {
+    "eval_types": [
+      "string_match"
+    ],
+    "reference_answers": {
+      "exact_match": "Quest Lumaflex™ Band"
+    },
+    "reference_url": "",
+    "program_html": [],
+    "string_note": "",
+    "reference_answer_raw_annotation": "Quest Lumaflex™ Band"
+  },
+  "intent_template_id": 234,
+  "original_task_id": "bb314cb80f0f8489135cbf59074d11e2",
+  "reference_length": 4,
+  "level": "easy"
+}

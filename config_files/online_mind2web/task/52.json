@@ -1,0 +1,30 @@
+{
+  "sites": [
+    "www.bbb.org"
+  ],
+  "task_id": 52,
+  "require_login": false,
+  "storage_state": "./.auth/online_mind2web/www.bbb.org.json",
+  "start_url": "https://www.bbb.org",
+  "geolocation": null,
+  "intent_template": "Find roofing contractors within 5 miles of zip code 10002.",
+  "instantiation_dict": {},
+  "intent": "Find roofing contractors within 5 miles of zip code 10002.",
+  "require_reset": false,
+  "eval": {
+    "eval_types": [
+      "string_match"
+    ],
+    "reference_answers": {
+      "exact_match": "Quest Lumaflex™ Band"
+    },
+    "reference_url": "",
+    "program_html": [],
+    "string_note": "",
+    "reference_answer_raw_annotation": "Quest Lumaflex™ Band"
+  },
+  "intent_template_id": 52,
+  "original_task_id": "7be8cd8dba885cddd9af5320f49bc41b",
+  "reference_length": 9,
+  "level": "medium"
+}

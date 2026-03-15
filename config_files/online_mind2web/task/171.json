@@ -1,0 +1,30 @@
+{
+  "sites": [
+    "www.bestbuy.com"
+  ],
+  "task_id": 171,
+  "require_login": false,
+  "storage_state": "./.auth/online_mind2web/www.bestbuy.com.json",
+  "start_url": "https://www.bestbuy.com",
+  "geolocation": null,
+  "intent_template": "Search for 33 to 49inch Qled gaming monitor with a 240hz refresh rate that is within $1000 to $2000.",
+  "instantiation_dict": {},
+  "intent": "Search for 33 to 49inch Qled gaming monitor with a 240hz refresh rate that is within $1000 to $2000.",
+  "require_reset": false,
+  "eval": {
+    "eval_types": [
+      "string_match"
+    ],
+    "reference_answers": {
+      "exact_match": "Quest Lumaflex™ Band"
+    },
+    "reference_url": "",
+    "program_html": [],
+    "string_note": "",
+    "reference_answer_raw_annotation": "Quest Lumaflex™ Band"
+  },
+  "intent_template_id": 171,
+  "original_task_id": "5dec0e6620849459f29e6465982c597e",
+  "reference_length": 11,
+  "level": "hard"
+}

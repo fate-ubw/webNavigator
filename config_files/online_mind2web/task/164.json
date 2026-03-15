@@ -1,0 +1,30 @@
+{
+  "sites": [
+    "www.gov.uk"
+  ],
+  "task_id": 164,
+  "require_login": false,
+  "storage_state": "./.auth/online_mind2web/www.gov.uk.json",
+  "start_url": "https://www.gov.uk",
+  "geolocation": null,
+  "intent_template": "Find the Eligibility to get the child benefit and How it works and how to claim",
+  "instantiation_dict": {},
+  "intent": "Find the Eligibility to get the child benefit and How it works and how to claim",
+  "require_reset": false,
+  "eval": {
+    "eval_types": [
+      "string_match"
+    ],
+    "reference_answers": {
+      "exact_match": "Quest Lumaflex™ Band"
+    },
+    "reference_url": "",
+    "program_html": [],
+    "string_note": "",
+    "reference_answer_raw_annotation": "Quest Lumaflex™ Band"
+  },
+  "intent_template_id": 164,
+  "original_task_id": "6ca20f1da01edeb49a7a42c816d8c6fe",
+  "reference_length": 8,
+  "level": "medium"
+}

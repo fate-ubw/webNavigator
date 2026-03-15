@@ -1,0 +1,6 @@
+Describe information in the CURRENT OBSERVATION section. Emphasize elements and features that are relevant or potentially helpful for fulfilling the objective in detail.
+
+**Strict Constraints:**
+1. **Zero Reasoning**: It is **strictly prohibited** to include any form of reasoning, interpretation, or assessment of task completion. Any inference in this section, however small, will negatively bias subsequent reasoning steps.
+2. **Precise Element Referencing**: You MUST mention the specific element names along with their corresponding BIDs (e.g., [123]). This is critical for accurate element localization.
+3. **Pure Factual Description**: Focus solely on describing the visible layout, text content, and interactive elements exactly as they appear on the page.

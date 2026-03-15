@@ -1,0 +1,30 @@
+{
+  "sites": [
+    "www.amazon.com"
+  ],
+  "task_id": 14,
+  "require_login": false,
+  "storage_state": "./.auth/online_mind2web/www.amazon.com.json",
+  "start_url": "https://www.amazon.com",
+  "geolocation": null,
+  "intent_template": "Find a pair of wireless headphones on Amazon with active noise canceling for $100 or less and add them to the cart.",
+  "instantiation_dict": {},
+  "intent": "Find a pair of wireless headphones on Amazon with active noise canceling for $100 or less and add them to the cart.",
+  "require_reset": false,
+  "eval": {
+    "eval_types": [
+      "string_match"
+    ],
+    "reference_answers": {
+      "exact_match": "Quest Lumaflex™ Band"
+    },
+    "reference_url": "",
+    "program_html": [],
+    "string_note": "",
+    "reference_answer_raw_annotation": "Quest Lumaflex™ Band"
+  },
+  "intent_template_id": 14,
+  "original_task_id": "644a856c3897665e475e0dce50bf217d",
+  "reference_length": 8,
+  "level": "medium"
+}

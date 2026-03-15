@@ -1,0 +1,30 @@
+{
+  "sites": [
+    "www.jcpenney.com"
+  ],
+  "task_id": 87,
+  "require_login": false,
+  "storage_state": "./.auth/online_mind2web/www.jcpenney.com.json",
+  "start_url": "https://www.jcpenney.com",
+  "geolocation": null,
+  "intent_template": "Add the best-selling men's T-shirt in large size, short sleeve, and Halloween event style to my cart.",
+  "instantiation_dict": {},
+  "intent": "Add the best-selling men's T-shirt in large size, short sleeve, and Halloween event style to my cart.",
+  "require_reset": false,
+  "eval": {
+    "eval_types": [
+      "string_match"
+    ],
+    "reference_answers": {
+      "exact_match": "Quest Lumaflex™ Band"
+    },
+    "reference_url": "",
+    "program_html": [],
+    "string_note": "",
+    "reference_answer_raw_annotation": "Quest Lumaflex™ Band"
+  },
+  "intent_template_id": 87,
+  "original_task_id": "a0a18ca6a3529f3e97c771aadd42d3a0_110325",
+  "reference_length": 12,
+  "level": "hard"
+}

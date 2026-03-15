@@ -1,0 +1,30 @@
+{
+  "sites": [
+    "www.babycenter.com"
+  ],
+  "task_id": 100,
+  "require_login": false,
+  "storage_state": "./.auth/online_mind2web/www.babycenter.com.json",
+  "start_url": "https://www.babycenter.com",
+  "geolocation": null,
+  "intent_template": "Show me community posts about pregnancy fever from the past 30 days.",
+  "instantiation_dict": {},
+  "intent": "Show me community posts about pregnancy fever from the past 30 days.",
+  "require_reset": false,
+  "eval": {
+    "eval_types": [
+      "string_match"
+    ],
+    "reference_answers": {
+      "exact_match": "Quest Lumaflex™ Band"
+    },
+    "reference_url": "",
+    "program_html": [],
+    "string_note": "",
+    "reference_answer_raw_annotation": "Quest Lumaflex™ Band"
+  },
+  "intent_template_id": 100,
+  "original_task_id": "4d3157aab34b54e5f0c4b965dfe930f3",
+  "reference_length": 8,
+  "level": "medium"
+}

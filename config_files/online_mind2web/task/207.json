@@ -1,0 +1,30 @@
+{
+  "sites": [
+    "www.chase.com"
+  ],
+  "task_id": 207,
+  "require_login": false,
+  "storage_state": "./.auth/online_mind2web/www.chase.com.json",
+  "start_url": "https://www.chase.com",
+  "geolocation": null,
+  "intent_template": "Using a calculator to determine how much I can have in my 401(k) account at retirement, if I work from age 22 to 65, with an annual rate of return of 3%, annual employee contributions of $8,000, and annual employer contributions of $8,000.",
+  "instantiation_dict": {},
+  "intent": "Using a calculator to determine how much I can have in my 401(k) account at retirement, if I work from age 22 to 65, with an annual rate of return of 3%, annual employee contributions of $8,000, and annual employer contributions of $8,000.",
+  "require_reset": false,
+  "eval": {
+    "eval_types": [
+      "string_match"
+    ],
+    "reference_answers": {
+      "exact_match": "Quest Lumaflex™ Band"
+    },
+    "reference_url": "",
+    "program_html": [],
+    "string_note": "",
+    "reference_answer_raw_annotation": "Quest Lumaflex™ Band"
+  },
+  "intent_template_id": 207,
+  "original_task_id": "442a450e696a96085257db6297891a4d",
+  "reference_length": 11,
+  "level": "hard"
+}

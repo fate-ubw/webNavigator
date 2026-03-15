@@ -1,0 +1,13 @@
+Extract and classify ALL specific requirements from the objective in EXTRACT CONSTRAINTS section. Be exhaustive - identify every constraint, filter, or requirement mentioned or implied.
+
+- **time constraints**: Any temporal requirements (eg. years: "2022", dates: "March 15", periods: "last month", "Q1", "this week", ranges: "between 2021-2023")
+- **quantity constraints**: Rankings (eg. "top-1", "most popular"), limits (eg. "at least 5", "maximum 10"), comparisons (eg. "cheaper than $70", "higher rated than 6.5")
+- **entity constraints**: Specific names, IDs, categories (eg. "order #12345", "electronics category", "user john_doe", "product X123")
+- **logic constraints**: Boolean conditions, dependencies (eg. "only if", "unless", "when", "except", "provided that")
+- **other condition constraints**: Constraints that do not belong to the above categories
+Rules:
+1. **Be literal**: Extract exact words/phrases from objective - don't interpret or infer beyond what's stated
+2. **Categorize precisely**: Each constraint MUST be assigned to exactly one category above
+3. **Include implicit**: If objective implies a constraint (e.g., "find the best" implies ranking), include it
+4. **No duplicates**: Same constraint should only appear once, even if mentioned multiple times
+5. Do not infer the completion status of tasks; this section is only for information extraction.

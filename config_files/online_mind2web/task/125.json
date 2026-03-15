@@ -1,0 +1,30 @@
+{
+  "sites": [
+    "weather.com"
+  ],
+  "task_id": 125,
+  "require_login": false,
+  "storage_state": "./.auth/online_mind2web/weather.com.json",
+  "start_url": "https://weather.com",
+  "geolocation": null,
+  "intent_template": "Find out the cold and flu forecast and today's air quality in Champaign, IL.",
+  "instantiation_dict": {},
+  "intent": "Find out the cold and flu forecast and today's air quality in Champaign, IL.",
+  "require_reset": false,
+  "eval": {
+    "eval_types": [
+      "string_match"
+    ],
+    "reference_answers": {
+      "exact_match": "Quest Lumaflex™ Band"
+    },
+    "reference_url": "",
+    "program_html": [],
+    "string_note": "",
+    "reference_answer_raw_annotation": "Quest Lumaflex™ Band"
+  },
+  "intent_template_id": 125,
+  "original_task_id": "be9e7dca1222714571ef3d7d59d2a41c",
+  "reference_length": 6,
+  "level": "medium"
+}

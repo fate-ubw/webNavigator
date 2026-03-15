@@ -1,0 +1,30 @@
+{
+  "sites": [
+    "www.thumbtack.com"
+  ],
+  "task_id": 148,
+  "require_login": false,
+  "storage_state": "./.auth/online_mind2web/www.thumbtack.com.json",
+  "start_url": "https://www.thumbtack.com",
+  "geolocation": null,
+  "intent_template": "Find Linux platform software developers in 10080 who master the Python language and Java language with web interface project type.",
+  "instantiation_dict": {},
+  "intent": "Find Linux platform software developers in 10080 who master the Python language and Java language with web interface project type.",
+  "require_reset": false,
+  "eval": {
+    "eval_types": [
+      "string_match"
+    ],
+    "reference_answers": {
+      "exact_match": "Quest Lumaflex™ Band"
+    },
+    "reference_url": "",
+    "program_html": [],
+    "string_note": "",
+    "reference_answer_raw_annotation": "Quest Lumaflex™ Band"
+  },
+  "intent_template_id": 148,
+  "original_task_id": "4e801ba102dfaf22c7cf7a126b107609",
+  "reference_length": 8,
+  "level": "medium"
+}

@@ -1,0 +1,31 @@
+optimal_navigate [thinking][domain][query]:
+# Action definition:
+Teleports the agent to a specific webpage by performing a visual-semantic search over pre-indexed screenshots of the website. Use this to jump between different functional areas (e.g., from 'Dashboard' to 'Settings') without repeatedly clicking.
+
+# Argument Construction:
+[think]:
+You must TRANSLATE the user's task into a VISUAL PAGE DESCRIPTION. Since the retrieval tool works by matching screenshots, you must simulate the visual environment of the target page.
+## Thinking Requirements (CRITICAL):
+1.  **Length & Detail**: The thinking block MUST be at least 50 words. Do not be concise.
+2.  **Context Integration**: You must explicitly analyze the **User's Objective** (Key entities, IDs, dates) and the **Current Observation** (Why is the current page not good enough?).
+3.  **Visual Simulation**: Before generating the query, vividly describe what you expect to see on the target page. Mention specific UI elements like "tables with 'Status' column", "forms with 'Refund' button", "Sidebars with 'Analytics' tab".
+
+## Examples:
+1. User Task: "Check Reddit for news then post on Twitter." Current Goal: Check Reddit. 
+  Output: optimal_navigate [The immediate sub-goal is to browse news on Reddit. I am currently not on the reddit domain. Based on the user's request to 'Check Reddit', the correct domain is reddit. I need to jump to the specific subreddit listing page. The target page is not a specific post, but a feed. I expect to see the standard Reddit layout: a header with 'r/news', a feed of post titles, upvote arrows, and thumbnails.] [reddit] [r/news subreddit listing page with top stories]
+  
+[domain]:
+Select the `domain` parameter based on the website required for the current task.
+- **Extraction Source**: Directly extract the text enclosed in `<< >>` from the query as the `domain` parameter.
+- **Multi-Domain Handling**: For tasks involving multiple websites, decompose the mission into sub-tasks. Select the corresponding domain from the available `<<url>>` tags based on the specific requirements of each sub-task, ensuring that the `domain` parameter for each sub-task aligns strictly with its operational target.
+
+
+[query]: 
+The visual-semantic search string describing the TARGET PAGE STATE.
+ - Good: "Order #555 details page with refund option" (Describes the place)
+ - Bad: "Refund order #555" (Describes the action)
+The query must include the critical conditions and entities from the source objection. If an entity needs to be inferred, first deduce a more suitable entity and its corresponding conditions in the [thinking] section before including them in the query. This will significantly enhance retrieval effectiveness.
+
+# Output format: 
+- You must strictly follow this format with NO extra text:
+optimal_navigate [Your detailed visual reasoning (min 50 words) analyzing objective vs observation] [domain] [The visual-semantic description of the page]

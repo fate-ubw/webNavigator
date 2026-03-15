@@ -1,0 +1,30 @@
+{
+  "sites": [
+    "www.cars.com"
+  ],
+  "task_id": 149,
+  "require_login": false,
+  "storage_state": "./.auth/online_mind2web/www.cars.com.json",
+  "start_url": "https://www.cars.com",
+  "geolocation": null,
+  "intent_template": "Calculate the estimated car loan payment amount for an average credit-rated person for a 15,000-dollar car with a down payment of 2000 dollars and loan tenure of 48 months in zip 65215 and shop for the lowest-priced car.",
+  "instantiation_dict": {},
+  "intent": "Calculate the estimated car loan payment amount for an average credit-rated person for a 15,000-dollar car with a down payment of 2000 dollars and loan tenure of 48 months in zip 65215 and shop for the lowest-priced car.",
+  "require_reset": false,
+  "eval": {
+    "eval_types": [
+      "string_match"
+    ],
+    "reference_answers": {
+      "exact_match": "Quest Lumaflex™ Band"
+    },
+    "reference_url": "",
+    "program_html": [],
+    "string_note": "",
+    "reference_answer_raw_annotation": "Quest Lumaflex™ Band"
+  },
+  "intent_template_id": 149,
+  "original_task_id": "39c388cdc468688c8139cc2bb5157c13",
+  "reference_length": 9,
+  "level": "medium"
+}

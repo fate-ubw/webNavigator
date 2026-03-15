@@ -1,0 +1,30 @@
+{
+  "sites": [
+    "www.google.com"
+  ],
+  "task_id": 134,
+  "require_login": false,
+  "storage_state": "./.auth/online_mind2web/www.google.com.json",
+  "start_url": "https://www.google.com",
+  "geolocation": null,
+  "intent_template": "Find the 5-day price chart for Bitcoin.",
+  "instantiation_dict": {},
+  "intent": "Find the 5-day price chart for Bitcoin.",
+  "require_reset": false,
+  "eval": {
+    "eval_types": [
+      "string_match"
+    ],
+    "reference_answers": {
+      "exact_match": "Quest Lumaflex™ Band"
+    },
+    "reference_url": "",
+    "program_html": [],
+    "string_note": "",
+    "reference_answer_raw_annotation": "Quest Lumaflex™ Band"
+  },
+  "intent_template_id": 134,
+  "original_task_id": "1fc28d91d25ccd1c6ba268101326a654",
+  "reference_length": 3,
+  "level": "easy"
+}

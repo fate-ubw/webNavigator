@@ -1,0 +1,30 @@
+{
+  "sites": [
+    "www.apartments.com"
+  ],
+  "task_id": 277,
+  "require_login": false,
+  "storage_state": "./.auth/online_mind2web/www.apartments.com.json",
+  "start_url": "https://www.apartments.com",
+  "geolocation": null,
+  "intent_template": "Find a condo for rent in Houston, TX, with a monthly rent of no more than 30% of an income of $8000. The condo should have a minimum area of 600 square feet, and the move-in date is the 1st of next month.",
+  "instantiation_dict": {},
+  "intent": "Find a condo for rent in Houston, TX, with a monthly rent of no more than 30% of an income of $8000. The condo should have a minimum area of 600 square feet, and the move-in date is the 1st of next month.",
+  "require_reset": false,
+  "eval": {
+    "eval_types": [
+      "string_match"
+    ],
+    "reference_answers": {
+      "exact_match": "Quest Lumaflex™ Band"
+    },
+    "reference_url": "",
+    "program_html": [],
+    "string_note": "",
+    "reference_answer_raw_annotation": "Quest Lumaflex™ Band"
+  },
+  "intent_template_id": 277,
+  "original_task_id": "367d843c640637745e8fafa741cca13b",
+  "reference_length": 15,
+  "level": "hard"
+}

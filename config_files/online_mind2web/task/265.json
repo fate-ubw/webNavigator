@@ -1,0 +1,30 @@
+{
+  "sites": [
+    "ziprecruiter.com"
+  ],
+  "task_id": 265,
+  "require_login": false,
+  "storage_state": "./.auth/online_mind2web/ziprecruiter.com.json",
+  "start_url": "https://ziprecruiter.com",
+  "geolocation": null,
+  "intent_template": "Search for in-person, full-time jobs within 10 miles of ZIP code 14810 that allow Quick Apply.",
+  "instantiation_dict": {},
+  "intent": "Search for in-person, full-time jobs within 10 miles of ZIP code 14810 that allow Quick Apply.",
+  "require_reset": false,
+  "eval": {
+    "eval_types": [
+      "string_match"
+    ],
+    "reference_answers": {
+      "exact_match": "Quest Lumaflex™ Band"
+    },
+    "reference_url": "",
+    "program_html": [],
+    "string_note": "",
+    "reference_answer_raw_annotation": "Quest Lumaflex™ Band"
+  },
+  "intent_template_id": 265,
+  "original_task_id": "d8e2a81fa621ce4737e5ea85671b630e_110325",
+  "reference_length": 12,
+  "level": "hard"
+}

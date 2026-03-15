@@ -1,0 +1,30 @@
+{
+  "sites": [
+    "www.cbp.gov"
+  ],
+  "task_id": 285,
+  "require_login": false,
+  "storage_state": "./.auth/online_mind2web/www.cbp.gov.json",
+  "start_url": "https://www.cbp.gov",
+  "geolocation": null,
+  "intent_template": "Show me the page with average wait times for U.S. citizens arriving at Raleigh-Durham International Airport on 2025-03-12.",
+  "instantiation_dict": {},
+  "intent": "Show me the page with average wait times for U.S. citizens arriving at Raleigh-Durham International Airport on 2025-03-12.",
+  "require_reset": false,
+  "eval": {
+    "eval_types": [
+      "string_match"
+    ],
+    "reference_answers": {
+      "exact_match": "Quest Lumaflex™ Band"
+    },
+    "reference_url": "",
+    "program_html": [],
+    "string_note": "",
+    "reference_answer_raw_annotation": "Quest Lumaflex™ Band"
+  },
+  "intent_template_id": 285,
+  "original_task_id": "0e5536aaad9d3462b06cf725e6ed535a",
+  "reference_length": 11,
+  "level": "hard"
+}

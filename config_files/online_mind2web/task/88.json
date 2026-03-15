@@ -1,0 +1,30 @@
+{
+  "sites": [
+    "coinmarketcap.com"
+  ],
+  "task_id": 88,
+  "require_login": false,
+  "storage_state": "./.auth/online_mind2web/coinmarketcap.com.json",
+  "start_url": "https://coinmarketcap.com",
+  "geolocation": null,
+  "intent_template": "Open the XRP yearly chart.",
+  "instantiation_dict": {},
+  "intent": "Open the XRP yearly chart.",
+  "require_reset": false,
+  "eval": {
+    "eval_types": [
+      "string_match"
+    ],
+    "reference_answers": {
+      "exact_match": "Quest Lumaflex™ Band"
+    },
+    "reference_url": "",
+    "program_html": [],
+    "string_note": "",
+    "reference_answer_raw_annotation": "Quest Lumaflex™ Band"
+  },
+  "intent_template_id": 88,
+  "original_task_id": "82eb3bfedd78456a0230b389f4e7a938",
+  "reference_length": 4,
+  "level": "easy"
+}

@@ -1,0 +1,30 @@
+{
+  "sites": [
+    "www.adoptapet.com"
+  ],
+  "task_id": 55,
+  "require_login": false,
+  "storage_state": "./.auth/online_mind2web/www.adoptapet.com.json",
+  "start_url": "https://www.adoptapet.com",
+  "geolocation": null,
+  "intent_template": "Find a male senior boxer near zip code 90028.",
+  "instantiation_dict": {},
+  "intent": "Find a male senior boxer near zip code 90028.",
+  "require_reset": false,
+  "eval": {
+    "eval_types": [
+      "string_match"
+    ],
+    "reference_answers": {
+      "exact_match": "Quest Lumaflex™ Band"
+    },
+    "reference_url": "",
+    "program_html": [],
+    "string_note": "",
+    "reference_answer_raw_annotation": "Quest Lumaflex™ Band"
+  },
+  "intent_template_id": 55,
+  "original_task_id": "75146b7b67388b9244e0f21a1527c022",
+  "reference_length": 10,
+  "level": "medium"
+}

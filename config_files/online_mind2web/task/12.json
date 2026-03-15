@@ -1,0 +1,30 @@
+{
+  "sites": [
+    "www.kbb.com"
+  ],
+  "task_id": 12,
+  "require_login": false,
+  "storage_state": "./.auth/online_mind2web/www.kbb.com.json",
+  "start_url": "https://www.kbb.com",
+  "geolocation": null,
+  "intent_template": "Browse used Audi cars made before 2015 and sort by lowest price on KBB.",
+  "instantiation_dict": {},
+  "intent": "Browse used Audi cars made before 2015 and sort by lowest price on KBB.",
+  "require_reset": false,
+  "eval": {
+    "eval_types": [
+      "string_match"
+    ],
+    "reference_answers": {
+      "exact_match": "Quest Lumaflex™ Band"
+    },
+    "reference_url": "",
+    "program_html": [],
+    "string_note": "",
+    "reference_answer_raw_annotation": "Quest Lumaflex™ Band"
+  },
+  "intent_template_id": 12,
+  "original_task_id": "123e8c2fc453f55fadd1d0b9aaf94df4",
+  "reference_length": 8,
+  "level": "medium"
+}

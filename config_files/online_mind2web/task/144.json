@@ -1,0 +1,30 @@
+{
+  "sites": [
+    "www.cars.com"
+  ],
+  "task_id": 144,
+  "require_login": false,
+  "storage_state": "./.auth/online_mind2web/www.cars.com.json",
+  "start_url": "https://www.cars.com",
+  "geolocation": null,
+  "intent_template": "Find the seller info and seller's notes about the used car model 2011 BMW 135 with a max price of $30000.",
+  "instantiation_dict": {},
+  "intent": "Find the seller info and seller's notes about the used car model 2011 BMW 135 with a max price of $30000.",
+  "require_reset": false,
+  "eval": {
+    "eval_types": [
+      "string_match"
+    ],
+    "reference_answers": {
+      "exact_match": "Quest Lumaflex™ Band"
+    },
+    "reference_url": "",
+    "program_html": [],
+    "string_note": "",
+    "reference_answer_raw_annotation": "Quest Lumaflex™ Band"
+  },
+  "intent_template_id": 144,
+  "original_task_id": "987bad7c6d4726d64232a8a1c3386888",
+  "reference_length": 11,
+  "level": "hard"
+}

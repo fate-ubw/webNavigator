@@ -1,0 +1,30 @@
+{
+  "sites": [
+    "imgur.com"
+  ],
+  "task_id": 287,
+  "require_login": false,
+  "storage_state": "./.auth/online_mind2web/imgur.com.json",
+  "start_url": "https://imgur.com",
+  "geolocation": null,
+  "intent_template": "Create a meme with a frog as the background and leave the only text with \"Enjoy your life\".",
+  "instantiation_dict": {},
+  "intent": "Create a meme with a frog as the background and leave the only text with \"Enjoy your life\".",
+  "require_reset": false,
+  "eval": {
+    "eval_types": [
+      "string_match"
+    ],
+    "reference_answers": {
+      "exact_match": "Quest Lumaflex™ Band"
+    },
+    "reference_url": "",
+    "program_html": [],
+    "string_note": "",
+    "reference_answer_raw_annotation": "Quest Lumaflex™ Band"
+  },
+  "intent_template_id": 287,
+  "original_task_id": "7e6993f2c5cd72c44809024f0bc85dc1",
+  "reference_length": 8,
+  "level": "medium"
+}

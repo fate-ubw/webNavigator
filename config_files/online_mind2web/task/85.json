@@ -1,0 +1,30 @@
+{
+  "sites": [
+    "craigslist.org"
+  ],
+  "task_id": 85,
+  "require_login": false,
+  "storage_state": "./.auth/online_mind2web/craigslist.org.json",
+  "start_url": "https://craigslist.org",
+  "geolocation": null,
+  "intent_template": "Browse couches for sale, sort by cheapest, and search in titles only.",
+  "instantiation_dict": {},
+  "intent": "Browse couches for sale, sort by cheapest, and search in titles only.",
+  "require_reset": false,
+  "eval": {
+    "eval_types": [
+      "string_match"
+    ],
+    "reference_answers": {
+      "exact_match": "Quest Lumaflex™ Band"
+    },
+    "reference_url": "",
+    "program_html": [],
+    "string_note": "",
+    "reference_answer_raw_annotation": "Quest Lumaflex™ Band"
+  },
+  "intent_template_id": 85,
+  "original_task_id": "330cd04c773ac498f51afa4665461ec8",
+  "reference_length": 6,
+  "level": "medium"
+}

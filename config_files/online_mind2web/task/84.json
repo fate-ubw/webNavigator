@@ -1,0 +1,30 @@
+{
+  "sites": [
+    "craigslist.org"
+  ],
+  "task_id": 84,
+  "require_login": false,
+  "storage_state": "./.auth/online_mind2web/craigslist.org.json",
+  "start_url": "https://craigslist.org",
+  "geolocation": null,
+  "intent_template": "Browse service listings for a solar panel installer and hide duplicates.",
+  "instantiation_dict": {},
+  "intent": "Browse service listings for a solar panel installer and hide duplicates.",
+  "require_reset": false,
+  "eval": {
+    "eval_types": [
+      "string_match"
+    ],
+    "reference_answers": {
+      "exact_match": "Quest Lumaflex™ Band"
+    },
+    "reference_url": "",
+    "program_html": [],
+    "string_note": "",
+    "reference_answer_raw_annotation": "Quest Lumaflex™ Band"
+  },
+  "intent_template_id": 84,
+  "original_task_id": "bd1e3770b7181f6fce9c35e18caa9785",
+  "reference_length": 3,
+  "level": "easy"
+}

@@ -1,0 +1,30 @@
+{
+  "sites": [
+    "www.akc.org"
+  ],
+  "task_id": 98,
+  "require_login": false,
+  "storage_state": "./.auth/online_mind2web/www.akc.org.json",
+  "start_url": "https://www.akc.org",
+  "geolocation": null,
+  "intent_template": "Compare the breeds Afghan Hound, Akita and Azawakh.",
+  "instantiation_dict": {},
+  "intent": "Compare the breeds Afghan Hound, Akita and Azawakh.",
+  "require_reset": false,
+  "eval": {
+    "eval_types": [
+      "string_match"
+    ],
+    "reference_answers": {
+      "exact_match": "Quest Lumaflex™ Band"
+    },
+    "reference_url": "",
+    "program_html": [],
+    "string_note": "",
+    "reference_answer_raw_annotation": "Quest Lumaflex™ Band"
+  },
+  "intent_template_id": 98,
+  "original_task_id": "b3a7da968de13bbdcaed12ffe4993df6",
+  "reference_length": 9,
+  "level": "medium"
+}

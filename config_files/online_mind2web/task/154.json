@@ -1,0 +1,30 @@
+{
+  "sites": [
+    "www.dmv.virginia.gov"
+  ],
+  "task_id": 154,
+  "require_login": false,
+  "storage_state": "./.auth/online_mind2web/www.dmv.virginia.gov.json",
+  "start_url": "https://www.dmv.virginia.gov",
+  "geolocation": null,
+  "intent_template": "Submit a request for vehicle registration renewal with title number X123456 and last 4 digits of VIN is 1234.",
+  "instantiation_dict": {},
+  "intent": "Submit a request for vehicle registration renewal with title number X123456 and last 4 digits of VIN is 1234.",
+  "require_reset": false,
+  "eval": {
+    "eval_types": [
+      "string_match"
+    ],
+    "reference_answers": {
+      "exact_match": "Quest Lumaflex™ Band"
+    },
+    "reference_url": "",
+    "program_html": [],
+    "string_note": "",
+    "reference_answer_raw_annotation": "Quest Lumaflex™ Band"
+  },
+  "intent_template_id": 154,
+  "original_task_id": "34992feb69eb8e788faa06868b365c49",
+  "reference_length": 5,
+  "level": "easy"
+}

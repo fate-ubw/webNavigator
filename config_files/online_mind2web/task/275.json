@@ -1,0 +1,30 @@
+{
+  "sites": [
+    "www.bestbuy.com"
+  ],
+  "task_id": 275,
+  "require_login": false,
+  "storage_state": "./.auth/online_mind2web/www.bestbuy.com.json",
+  "start_url": "https://www.bestbuy.com",
+  "geolocation": null,
+  "intent_template": "Add a $100 Best Buy gift card for a birthday to my cart.",
+  "instantiation_dict": {},
+  "intent": "Add a $100 Best Buy gift card for a birthday to my cart.",
+  "require_reset": false,
+  "eval": {
+    "eval_types": [
+      "string_match"
+    ],
+    "reference_answers": {
+      "exact_match": "Quest Lumaflex™ Band"
+    },
+    "reference_url": "",
+    "program_html": [],
+    "string_note": "",
+    "reference_answer_raw_annotation": "Quest Lumaflex™ Band"
+  },
+  "intent_template_id": 275,
+  "original_task_id": "d392e154c1c6ffbb26e2331c3afafc67",
+  "reference_length": 6,
+  "level": "medium"
+}

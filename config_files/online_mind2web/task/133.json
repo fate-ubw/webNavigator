@@ -1,0 +1,30 @@
+{
+  "sites": [
+    "www.fedex.com"
+  ],
+  "task_id": 133,
+  "require_login": false,
+  "storage_state": "./.auth/online_mind2web/www.fedex.com.json",
+  "start_url": "https://www.fedex.com",
+  "geolocation": null,
+  "intent_template": "Look up tracking information for shipment #3023858502.",
+  "instantiation_dict": {},
+  "intent": "Look up tracking information for shipment #3023858502.",
+  "require_reset": false,
+  "eval": {
+    "eval_types": [
+      "string_match"
+    ],
+    "reference_answers": {
+      "exact_match": "Quest Lumaflex™ Band"
+    },
+    "reference_url": "",
+    "program_html": [],
+    "string_note": "",
+    "reference_answer_raw_annotation": "Quest Lumaflex™ Band"
+  },
+  "intent_template_id": 133,
+  "original_task_id": "6db4a0e346976f2729ba9afcd3208941",
+  "reference_length": 2,
+  "level": "easy"
+}

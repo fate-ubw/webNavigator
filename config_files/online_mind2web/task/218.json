@@ -1,0 +1,30 @@
+{
+  "sites": [
+    "dblp.org"
+  ],
+  "task_id": 218,
+  "require_login": false,
+  "storage_state": "./.auth/online_mind2web/dblp.org.json",
+  "start_url": "https://dblp.org",
+  "geolocation": null,
+  "intent_template": "Find the most cited publication at the 2022 CVPR main conference.",
+  "instantiation_dict": {},
+  "intent": "Find the most cited publication at the 2022 CVPR main conference.",
+  "require_reset": false,
+  "eval": {
+    "eval_types": [
+      "string_match"
+    ],
+    "reference_answers": {
+      "exact_match": "Quest Lumaflex™ Band"
+    },
+    "reference_url": "",
+    "program_html": [],
+    "string_note": "",
+    "reference_answer_raw_annotation": "Quest Lumaflex™ Band"
+  },
+  "intent_template_id": 218,
+  "original_task_id": "5d542a7ec1fa142ba73cc87d970caf39",
+  "reference_length": 6,
+  "level": "medium"
+}

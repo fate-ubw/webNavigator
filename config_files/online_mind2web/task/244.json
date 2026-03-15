@@ -1,0 +1,30 @@
+{
+  "sites": [
+    "www.airbnb.com"
+  ],
+  "task_id": 244,
+  "require_login": false,
+  "storage_state": "./.auth/online_mind2web/www.airbnb.com.json",
+  "start_url": "https://www.airbnb.com",
+  "geolocation": null,
+  "intent_template": "Show me an event to do in Miami for 2 adults, that last between 1 to 3 hours per session, cost under $100 per person, and are available for booking between next Monday and next Friday, have a rating of 4.5+.",
+  "instantiation_dict": {},
+  "intent": "Show me an event to do in Miami for 2 adults, that last between 1 to 3 hours per session, cost under $100 per person, and are available for booking between next Monday and next Friday, have a rating of 4.5+.",
+  "require_reset": false,
+  "eval": {
+    "eval_types": [
+      "string_match"
+    ],
+    "reference_answers": {
+      "exact_match": "Quest Lumaflex™ Band"
+    },
+    "reference_url": "",
+    "program_html": [],
+    "string_note": "",
+    "reference_answer_raw_annotation": "Quest Lumaflex™ Band"
+  },
+  "intent_template_id": 244,
+  "original_task_id": "e43cbc8a0bf9e999884928d11006f894_110325",
+  "reference_length": 13,
+  "level": "hard"
+}

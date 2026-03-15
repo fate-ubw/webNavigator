@@ -1,0 +1,30 @@
+{
+  "sites": [
+    "www.chase.com"
+  ],
+  "task_id": 208,
+  "require_login": false,
+  "storage_state": "./.auth/online_mind2web/www.chase.com.json",
+  "start_url": "https://www.chase.com",
+  "geolocation": null,
+  "intent_template": "If I'm 30, plan to retire at 65, and can save $300/month, with a 3% annual return, 13% current tax rate, and 24% retirement tax rate, show the comparison chart between Traditional and Roth IRA.",
+  "instantiation_dict": {},
+  "intent": "If I'm 30, plan to retire at 65, and can save $300/month, with a 3% annual return, 13% current tax rate, and 24% retirement tax rate, show the comparison chart between Traditional and Roth IRA.",
+  "require_reset": false,
+  "eval": {
+    "eval_types": [
+      "string_match"
+    ],
+    "reference_answers": {
+      "exact_match": "Quest Lumaflex™ Band"
+    },
+    "reference_url": "",
+    "program_html": [],
+    "string_note": "",
+    "reference_answer_raw_annotation": "Quest Lumaflex™ Band"
+  },
+  "intent_template_id": 208,
+  "original_task_id": "9ed3827266b3b804f485859c3d00401e",
+  "reference_length": 12,
+  "level": "hard"
+}

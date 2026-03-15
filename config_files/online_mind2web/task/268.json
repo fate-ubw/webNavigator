@@ -1,0 +1,30 @@
+{
+  "sites": [
+    "www.amazon.jobs"
+  ],
+  "task_id": 268,
+  "require_login": false,
+  "storage_state": "./.auth/online_mind2web/www.amazon.jobs.json",
+  "start_url": "https://www.amazon.jobs",
+  "geolocation": null,
+  "intent_template": "Check the most recent full-time medical health and safety jobs, requiring 1-3 years of industry experience available in the US.",
+  "instantiation_dict": {},
+  "intent": "Check the most recent full-time medical health and safety jobs, requiring 1-3 years of industry experience available in the US.",
+  "require_reset": false,
+  "eval": {
+    "eval_types": [
+      "string_match"
+    ],
+    "reference_answers": {
+      "exact_match": "Quest Lumaflex™ Band"
+    },
+    "reference_url": "",
+    "program_html": [],
+    "string_note": "",
+    "reference_answer_raw_annotation": "Quest Lumaflex™ Band"
+  },
+  "intent_template_id": 268,
+  "original_task_id": "c00437fd76a7a83b57f3dc4e5dbc41f8",
+  "reference_length": 8,
+  "level": "medium"
+}

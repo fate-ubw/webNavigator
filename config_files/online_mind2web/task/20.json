@@ -1,0 +1,30 @@
+{
+  "sites": [
+    "www.microcenter.com"
+  ],
+  "task_id": 20,
+  "require_login": false,
+  "storage_state": "./.auth/online_mind2web/www.microcenter.com.json",
+  "start_url": "https://www.microcenter.com",
+  "geolocation": null,
+  "intent_template": "Show me the list of external hard drives for Mac with a capacity greater than 2TB on Micro Center, sorted by price from lowest to highest.",
+  "instantiation_dict": {},
+  "intent": "Show me the list of external hard drives for Mac with a capacity greater than 2TB on Micro Center, sorted by price from lowest to highest.",
+  "require_reset": false,
+  "eval": {
+    "eval_types": [
+      "string_match"
+    ],
+    "reference_answers": {
+      "exact_match": "Quest Lumaflex™ Band"
+    },
+    "reference_url": "",
+    "program_html": [],
+    "string_note": "",
+    "reference_answer_raw_annotation": "Quest Lumaflex™ Band"
+  },
+  "intent_template_id": 20,
+  "original_task_id": "79f0bd7df6e685f30f20025cc6755c0a_110325",
+  "reference_length": 12,
+  "level": "hard"
+}

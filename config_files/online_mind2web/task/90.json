@@ -1,0 +1,30 @@
+{
+  "sites": [
+    "www.allrecipes.com"
+  ],
+  "task_id": 90,
+  "require_login": false,
+  "storage_state": "./.auth/online_mind2web/www.allrecipes.com.json",
+  "start_url": "https://www.allrecipes.com",
+  "geolocation": null,
+  "intent_template": "Open the reviews of a recipe with beef sirloin.",
+  "instantiation_dict": {},
+  "intent": "Open the reviews of a recipe with beef sirloin.",
+  "require_reset": false,
+  "eval": {
+    "eval_types": [
+      "string_match"
+    ],
+    "reference_answers": {
+      "exact_match": "Quest Lumaflex™ Band"
+    },
+    "reference_url": "",
+    "program_html": [],
+    "string_note": "",
+    "reference_answer_raw_annotation": "Quest Lumaflex™ Band"
+  },
+  "intent_template_id": 90,
+  "original_task_id": "75a1b5dcd2c28508a971d98d51fe5767",
+  "reference_length": 5,
+  "level": "easy"
+}

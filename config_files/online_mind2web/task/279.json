@@ -1,0 +1,30 @@
+{
+  "sites": [
+    "www.justice.gov"
+  ],
+  "task_id": 279,
+  "require_login": false,
+  "storage_state": "./.auth/online_mind2web/www.justice.gov.json",
+  "start_url": "https://www.justice.gov",
+  "geolocation": null,
+  "intent_template": "Find the address and phone of the Office of the Inspector General (OIG).",
+  "instantiation_dict": {},
+  "intent": "Find the address and phone of the Office of the Inspector General (OIG).",
+  "require_reset": false,
+  "eval": {
+    "eval_types": [
+      "string_match"
+    ],
+    "reference_answers": {
+      "exact_match": "Quest Lumaflex™ Band"
+    },
+    "reference_url": "",
+    "program_html": [],
+    "string_note": "",
+    "reference_answer_raw_annotation": "Quest Lumaflex™ Band"
+  },
+  "intent_template_id": 279,
+  "original_task_id": "d9a8689393effeed75ea0866e44e1def",
+  "reference_length": 8,
+  "level": "medium"
+}

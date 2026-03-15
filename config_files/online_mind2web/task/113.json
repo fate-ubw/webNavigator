@@ -1,0 +1,30 @@
+{
+  "sites": [
+    "www.apartments.com"
+  ],
+  "task_id": 113,
+  "require_login": false,
+  "storage_state": "./.auth/online_mind2web/www.apartments.com.json",
+  "start_url": "https://www.apartments.com",
+  "geolocation": null,
+  "intent_template": "Add Elevate at Chicago, IL, to favorites and show a virtual tour.",
+  "instantiation_dict": {},
+  "intent": "Add Elevate at Chicago, IL, to favorites and show a virtual tour.",
+  "require_reset": false,
+  "eval": {
+    "eval_types": [
+      "string_match"
+    ],
+    "reference_answers": {
+      "exact_match": "Quest Lumaflex™ Band"
+    },
+    "reference_url": "",
+    "program_html": [],
+    "string_note": "",
+    "reference_answer_raw_annotation": "Quest Lumaflex™ Band"
+  },
+  "intent_template_id": 113,
+  "original_task_id": "d7c955b47af68e01766fa86d0bee08a7",
+  "reference_length": 4,
+  "level": "easy"
+}

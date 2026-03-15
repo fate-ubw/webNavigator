@@ -1,0 +1,30 @@
+{
+  "sites": [
+    "www.chess.com"
+  ],
+  "task_id": 288,
+  "require_login": false,
+  "storage_state": "./.auth/online_mind2web/www.chess.com.json",
+  "start_url": "https://www.chess.com",
+  "geolocation": null,
+  "intent_template": "Pass the first trending chess puzzle.",
+  "instantiation_dict": {},
+  "intent": "Pass the first trending chess puzzle.",
+  "require_reset": false,
+  "eval": {
+    "eval_types": [
+      "string_match"
+    ],
+    "reference_answers": {
+      "exact_match": "Quest Lumaflex™ Band"
+    },
+    "reference_url": "",
+    "program_html": [],
+    "string_note": "",
+    "reference_answer_raw_annotation": "Quest Lumaflex™ Band"
+  },
+  "intent_template_id": 288,
+  "original_task_id": "a48e2f1ee8d87eaeea56fe5e730427e6",
+  "reference_length": 7,
+  "level": "medium"
+}

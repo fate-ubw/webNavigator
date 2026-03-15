@@ -1,0 +1,30 @@
+{
+  "sites": [
+    "www.bhphotovideo.com"
+  ],
+  "task_id": 259,
+  "require_login": false,
+  "storage_state": "./.auth/online_mind2web/www.bhphotovideo.com.json",
+  "start_url": "https://www.bhphotovideo.com",
+  "geolocation": null,
+  "intent_template": "If there are any used Apple Mac Studio that has M4 Max 16-core processor, add the one with the largest absolute discount to my cart; otherwise, add the cheapest one.",
+  "instantiation_dict": {},
+  "intent": "If there are any used Apple Mac Studio that has M4 Max 16-core processor, add the one with the largest absolute discount to my cart; otherwise, add the cheapest one.",
+  "require_reset": false,
+  "eval": {
+    "eval_types": [
+      "string_match"
+    ],
+    "reference_answers": {
+      "exact_match": "Quest Lumaflex™ Band"
+    },
+    "reference_url": "",
+    "program_html": [],
+    "string_note": "",
+    "reference_answer_raw_annotation": "Quest Lumaflex™ Band"
+  },
+  "intent_template_id": 259,
+  "original_task_id": "2c8ef01a92c71ba9ef2e59bb17eea2b3_110325",
+  "reference_length": 8,
+  "level": "medium"
+}

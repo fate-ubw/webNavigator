@@ -1,0 +1,30 @@
+{
+  "sites": [
+    "www.adoptapet.com"
+  ],
+  "task_id": 34,
+  "require_login": false,
+  "storage_state": "./.auth/online_mind2web/www.adoptapet.com.json",
+  "start_url": "https://www.adoptapet.com",
+  "geolocation": null,
+  "intent_template": "Find a shelter or rescue group near zip code 90011.",
+  "instantiation_dict": {},
+  "intent": "Find a shelter or rescue group near zip code 90011.",
+  "require_reset": false,
+  "eval": {
+    "eval_types": [
+      "string_match"
+    ],
+    "reference_answers": {
+      "exact_match": "Quest Lumaflex™ Band"
+    },
+    "reference_url": "",
+    "program_html": [],
+    "string_note": "",
+    "reference_answer_raw_annotation": "Quest Lumaflex™ Band"
+  },
+  "intent_template_id": 34,
+  "original_task_id": "7b182a5087347d494b48a29dbc0f1d3e",
+  "reference_length": 4,
+  "level": "easy"
+}

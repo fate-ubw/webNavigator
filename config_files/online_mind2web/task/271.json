@@ -1,0 +1,30 @@
+{
+  "sites": [
+    "macyswineshop.com"
+  ],
+  "task_id": 271,
+  "require_login": false,
+  "storage_state": "./.auth/online_mind2web/macyswineshop.com.json",
+  "start_url": "https://macyswineshop.com",
+  "geolocation": null,
+  "intent_template": "I'm 25 and located in Texas. Shop for 2020 made dry red wine made in United States priced between 15-20 dollars and add 5 bottles to the cart.",
+  "instantiation_dict": {},
+  "intent": "I'm 25 and located in Texas. Shop for 2020 made dry red wine made in United States priced between 15-20 dollars and add 5 bottles to the cart.",
+  "require_reset": false,
+  "eval": {
+    "eval_types": [
+      "string_match"
+    ],
+    "reference_answers": {
+      "exact_match": "Quest Lumaflex™ Band"
+    },
+    "reference_url": "",
+    "program_html": [],
+    "string_note": "",
+    "reference_answer_raw_annotation": "Quest Lumaflex™ Band"
+  },
+  "intent_template_id": 271,
+  "original_task_id": "d1970c16271496cbbe166ecbecc0a1d8",
+  "reference_length": 13,
+  "level": "hard"
+}

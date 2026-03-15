@@ -1,0 +1,30 @@
+{
+  "sites": [
+    "www.amtrak.com"
+  ],
+  "task_id": 11,
+  "require_login": false,
+  "storage_state": "./.auth/online_mind2web/www.amtrak.com.json",
+  "start_url": "https://www.amtrak.com",
+  "geolocation": null,
+  "intent_template": "Tell me information about what identification I need to bring on my trip on Amtrak.",
+  "instantiation_dict": {},
+  "intent": "Tell me information about what identification I need to bring on my trip on Amtrak.",
+  "require_reset": false,
+  "eval": {
+    "eval_types": [
+      "string_match"
+    ],
+    "reference_answers": {
+      "exact_match": "Quest Lumaflex™ Band"
+    },
+    "reference_url": "",
+    "program_html": [],
+    "string_note": "",
+    "reference_answer_raw_annotation": "Quest Lumaflex™ Band"
+  },
+  "intent_template_id": 11,
+  "original_task_id": "323bd85e3559655d89e5496b951a25e8",
+  "reference_length": 6,
+  "level": "medium"
+}

@@ -1,0 +1,30 @@
+{
+  "sites": [
+    "www.landwatch.com"
+  ],
+  "task_id": 71,
+  "require_login": false,
+  "storage_state": "./.auth/online_mind2web/www.landwatch.com.json",
+  "start_url": "https://www.landwatch.com",
+  "geolocation": null,
+  "intent_template": "Show houses for sale in Maryland with a maximum price of $60,000.",
+  "instantiation_dict": {},
+  "intent": "Show houses for sale in Maryland with a maximum price of $60,000.",
+  "require_reset": false,
+  "eval": {
+    "eval_types": [
+      "string_match"
+    ],
+    "reference_answers": {
+      "exact_match": "Quest Lumaflex™ Band"
+    },
+    "reference_url": "",
+    "program_html": [],
+    "string_note": "",
+    "reference_answer_raw_annotation": "Quest Lumaflex™ Band"
+  },
+  "intent_template_id": 71,
+  "original_task_id": "2dd41b1d0e8f389d0683f4a4627abfe6",
+  "reference_length": 7,
+  "level": "medium"
+}

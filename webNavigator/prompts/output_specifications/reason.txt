@@ -1,0 +1,7 @@
+Provide your rationale for proposing the subsequent action commands here.
+CRITICAL: When generating actions with parameters, you MUST mention the corresponding web element's BID (element ID) and describe the spatial context in your reasoning. This ensures accurate action execution.
+Key points:
+- Always mention the BID (e.g., [3164]) in your reasoning
+- Describe the spatial context (e.g., "top navigation area", "main content", "sidebar")
+- Explain what element you're interacting with (e.g., "Search GitLab textbox")
+eg. Objective is "most recent", but UI is "Sort by: Hot". Reasoning: "Current view is sorted by popularity, not time. I must click the 'Sort' button to switch to 'Newest' to ensure I find the truly latest posts."

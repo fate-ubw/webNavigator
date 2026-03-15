@@ -1,0 +1,30 @@
+{
+  "sites": [
+    "www.theweathernetwork.com"
+  ],
+  "task_id": 184,
+  "require_login": false,
+  "storage_state": "./.auth/online_mind2web/www.theweathernetwork.com.json",
+  "start_url": "https://www.theweathernetwork.com",
+  "geolocation": null,
+  "intent_template": "Look up the current temperature for zip code 10019.",
+  "instantiation_dict": {},
+  "intent": "Look up the current temperature for zip code 10019.",
+  "require_reset": false,
+  "eval": {
+    "eval_types": [
+      "string_match"
+    ],
+    "reference_answers": {
+      "exact_match": "Quest Lumaflex™ Band"
+    },
+    "reference_url": "",
+    "program_html": [],
+    "string_note": "",
+    "reference_answer_raw_annotation": "Quest Lumaflex™ Band"
+  },
+  "intent_template_id": 184,
+  "original_task_id": "4e3f6a538cc1f7321cfc50260db9545d",
+  "reference_length": 2,
+  "level": "easy"
+}

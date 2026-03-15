@@ -1,0 +1,30 @@
+{
+  "sites": [
+    "www.foxsports.com"
+  ],
+  "task_id": 24,
+  "require_login": false,
+  "storage_state": "./.auth/online_mind2web/www.foxsports.com.json",
+  "start_url": "https://www.foxsports.com",
+  "geolocation": null,
+  "intent_template": "Check the current standings for MLS on Fox Sports.",
+  "instantiation_dict": {},
+  "intent": "Check the current standings for MLS on Fox Sports.",
+  "require_reset": false,
+  "eval": {
+    "eval_types": [
+      "string_match"
+    ],
+    "reference_answers": {
+      "exact_match": "Quest Lumaflex™ Band"
+    },
+    "reference_url": "",
+    "program_html": [],
+    "string_note": "",
+    "reference_answer_raw_annotation": "Quest Lumaflex™ Band"
+  },
+  "intent_template_id": 24,
+  "original_task_id": "b6d10e9bd19b4009a02dea0e98f4e1ae",
+  "reference_length": 4,
+  "level": "easy"
+}

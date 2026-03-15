@@ -1,0 +1,30 @@
+{
+  "sites": [
+    "www.drugs.com"
+  ],
+  "task_id": 112,
+  "require_login": false,
+  "storage_state": "./.auth/online_mind2web/www.drugs.com.json",
+  "start_url": "https://www.drugs.com",
+  "geolocation": null,
+  "intent_template": "Browse Humira dosage information.",
+  "instantiation_dict": {},
+  "intent": "Browse Humira dosage information.",
+  "require_reset": false,
+  "eval": {
+    "eval_types": [
+      "string_match"
+    ],
+    "reference_answers": {
+      "exact_match": "Quest Lumaflex™ Band"
+    },
+    "reference_url": "",
+    "program_html": [],
+    "string_note": "",
+    "reference_answer_raw_annotation": "Quest Lumaflex™ Band"
+  },
+  "intent_template_id": 112,
+  "original_task_id": "29526b17a32485742b5ab63507e99417",
+  "reference_length": 3,
+  "level": "easy"
+}

@@ -1,0 +1,30 @@
+{
+  "sites": [
+    "www.compass.com"
+  ],
+  "task_id": 120,
+  "require_login": false,
+  "storage_state": "./.auth/online_mind2web/www.compass.com.json",
+  "start_url": "https://www.compass.com",
+  "geolocation": null,
+  "intent_template": "Find a list of houses for sale in zip code 85747 with a pool and a private outdoor space.",
+  "instantiation_dict": {},
+  "intent": "Find a list of houses for sale in zip code 85747 with a pool and a private outdoor space.",
+  "require_reset": false,
+  "eval": {
+    "eval_types": [
+      "string_match"
+    ],
+    "reference_answers": {
+      "exact_match": "Quest Lumaflex™ Band"
+    },
+    "reference_url": "",
+    "program_html": [],
+    "string_note": "",
+    "reference_answer_raw_annotation": "Quest Lumaflex™ Band"
+  },
+  "intent_template_id": 120,
+  "original_task_id": "2d5a7f95f951a26838289dfd629ae850_110325",
+  "reference_length": 9,
+  "level": "medium"
+}

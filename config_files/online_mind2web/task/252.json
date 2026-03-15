@@ -1,0 +1,30 @@
+{
+  "sites": [
+    "www.imdb.com"
+  ],
+  "task_id": 252,
+  "require_login": false,
+  "storage_state": "./.auth/online_mind2web/www.imdb.com.json",
+  "start_url": "https://www.imdb.com",
+  "geolocation": null,
+  "intent_template": "Browse the top 250 movies and find one movie that is available on AMC+.",
+  "instantiation_dict": {},
+  "intent": "Browse the top 250 movies and find one movie that is available on AMC+.",
+  "require_reset": false,
+  "eval": {
+    "eval_types": [
+      "string_match"
+    ],
+    "reference_answers": {
+      "exact_match": "Quest Lumaflex™ Band"
+    },
+    "reference_url": "",
+    "program_html": [],
+    "string_note": "",
+    "reference_answer_raw_annotation": "Quest Lumaflex™ Band"
+  },
+  "intent_template_id": 252,
+  "original_task_id": "d02d236836924919f35f2438d9ed2374",
+  "reference_length": 22,
+  "level": "hard"
+}

@@ -1,0 +1,30 @@
+{
+  "sites": [
+    "www.healthgrades.com"
+  ],
+  "task_id": 46,
+  "require_login": false,
+  "storage_state": "./.auth/online_mind2web/www.healthgrades.com.json",
+  "start_url": "https://www.healthgrades.com",
+  "geolocation": null,
+  "intent_template": "Browse optometrists who offer telehealth services in Columbus, OH.",
+  "instantiation_dict": {},
+  "intent": "Browse optometrists who offer telehealth services in Columbus, OH.",
+  "require_reset": false,
+  "eval": {
+    "eval_types": [
+      "string_match"
+    ],
+    "reference_answers": {
+      "exact_match": "Quest Lumaflex™ Band"
+    },
+    "reference_url": "",
+    "program_html": [],
+    "string_note": "",
+    "reference_answer_raw_annotation": "Quest Lumaflex™ Band"
+  },
+  "intent_template_id": 46,
+  "original_task_id": "26a0e5c21c145dd8448aa92f35bec5ea",
+  "reference_length": 3,
+  "level": "easy"
+}

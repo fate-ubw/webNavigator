@@ -1,0 +1,30 @@
+{
+  "sites": [
+    "www.uscis.gov"
+  ],
+  "task_id": 284,
+  "require_login": false,
+  "storage_state": "./.auth/online_mind2web/www.uscis.gov.json",
+  "start_url": "https://www.uscis.gov",
+  "geolocation": null,
+  "intent_template": "Can you show me the page with the filing fee for a self-petitioned I-140 application?",
+  "instantiation_dict": {},
+  "intent": "Can you show me the page with the filing fee for a self-petitioned I-140 application?",
+  "require_reset": false,
+  "eval": {
+    "eval_types": [
+      "string_match"
+    ],
+    "reference_answers": {
+      "exact_match": "Quest Lumaflex™ Band"
+    },
+    "reference_url": "",
+    "program_html": [],
+    "string_note": "",
+    "reference_answer_raw_annotation": "Quest Lumaflex™ Band"
+  },
+  "intent_template_id": 284,
+  "original_task_id": "7abdceee212151f187ee1a1744c57606",
+  "reference_length": 6,
+  "level": "medium"
+}

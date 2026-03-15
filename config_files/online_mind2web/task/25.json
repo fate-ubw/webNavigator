@@ -1,0 +1,30 @@
+{
+  "sites": [
+    "www.apple.com"
+  ],
+  "task_id": 25,
+  "require_login": false,
+  "storage_state": "./.auth/online_mind2web/www.apple.com.json",
+  "start_url": "https://www.apple.com",
+  "geolocation": null,
+  "intent_template": "Find technical specs for the latest Macbook Air on Apple.",
+  "instantiation_dict": {},
+  "intent": "Find technical specs for the latest Macbook Air on Apple.",
+  "require_reset": false,
+  "eval": {
+    "eval_types": [
+      "string_match"
+    ],
+    "reference_answers": {
+      "exact_match": "Quest Lumaflex™ Band"
+    },
+    "reference_url": "",
+    "program_html": [],
+    "string_note": "",
+    "reference_answer_raw_annotation": "Quest Lumaflex™ Band"
+  },
+  "intent_template_id": 25,
+  "original_task_id": "d71be72aa25c3eab8eea47a0e60382e2",
+  "reference_length": 4,
+  "level": "easy"
+}

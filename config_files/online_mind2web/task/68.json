@@ -1,0 +1,30 @@
+{
+  "sites": [
+    "www.theweathernetwork.com"
+  ],
+  "task_id": 68,
+  "require_login": false,
+  "storage_state": "./.auth/online_mind2web/www.theweathernetwork.com.json",
+  "start_url": "https://www.theweathernetwork.com",
+  "geolocation": null,
+  "intent_template": "Find the latest climate news.",
+  "instantiation_dict": {},
+  "intent": "Find the latest climate news.",
+  "require_reset": false,
+  "eval": {
+    "eval_types": [
+      "string_match"
+    ],
+    "reference_answers": {
+      "exact_match": "Quest Lumaflex™ Band"
+    },
+    "reference_url": "",
+    "program_html": [],
+    "string_note": "",
+    "reference_answer_raw_annotation": "Quest Lumaflex™ Band"
+  },
+  "intent_template_id": 68,
+  "original_task_id": "f389398d2eeb29e5571e00439c57eb76",
+  "reference_length": 3,
+  "level": "easy"
+}

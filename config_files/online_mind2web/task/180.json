@@ -1,0 +1,30 @@
+{
+  "sites": [
+    "www.recreation.gov"
+  ],
+  "task_id": 180,
+  "require_login": false,
+  "storage_state": "./.auth/online_mind2web/www.recreation.gov.json",
+  "start_url": "https://www.recreation.gov",
+  "geolocation": null,
+  "intent_template": "Find the park that offers the cheapest paddling permits.",
+  "instantiation_dict": {},
+  "intent": "Find the park that offers the cheapest paddling permits.",
+  "require_reset": false,
+  "eval": {
+    "eval_types": [
+      "string_match"
+    ],
+    "reference_answers": {
+      "exact_match": "Quest Lumaflex™ Band"
+    },
+    "reference_url": "",
+    "program_html": [],
+    "string_note": "",
+    "reference_answer_raw_annotation": "Quest Lumaflex™ Band"
+  },
+  "intent_template_id": 180,
+  "original_task_id": "47e314cc452c540524ffb7cf520285a3",
+  "reference_length": 6,
+  "level": "medium"
+}

@@ -1,0 +1,30 @@
+{
+  "sites": [
+    "www.tumblr.com"
+  ],
+  "task_id": 89,
+  "require_login": false,
+  "storage_state": "./.auth/online_mind2web/www.tumblr.com.json",
+  "start_url": "https://www.tumblr.com",
+  "geolocation": null,
+  "intent_template": "Find the posts liked by the user Taylor Swift on Tumblr.",
+  "instantiation_dict": {},
+  "intent": "Find the posts liked by the user Taylor Swift on Tumblr.",
+  "require_reset": false,
+  "eval": {
+    "eval_types": [
+      "string_match"
+    ],
+    "reference_answers": {
+      "exact_match": "Quest Lumaflex™ Band"
+    },
+    "reference_url": "",
+    "program_html": [],
+    "string_note": "",
+    "reference_answer_raw_annotation": "Quest Lumaflex™ Band"
+  },
+  "intent_template_id": 89,
+  "original_task_id": "e7f6cca9a8875f98fee3b711ead3a444_110325",
+  "reference_length": 4,
+  "level": "easy"
+}

@@ -1,0 +1,30 @@
+{
+  "sites": [
+    "www.cvs.com"
+  ],
+  "task_id": 211,
+  "require_login": false,
+  "storage_state": "./.auth/online_mind2web/www.cvs.com.json",
+  "start_url": "https://www.cvs.com",
+  "geolocation": null,
+  "intent_template": "Find the most reviewed gluten-free multivitamins from CVS Health Brand under $15.",
+  "instantiation_dict": {},
+  "intent": "Find the most reviewed gluten-free multivitamins from CVS Health Brand under $15.",
+  "require_reset": false,
+  "eval": {
+    "eval_types": [
+      "string_match"
+    ],
+    "reference_answers": {
+      "exact_match": "Quest Lumaflex™ Band"
+    },
+    "reference_url": "",
+    "program_html": [],
+    "string_note": "",
+    "reference_answer_raw_annotation": "Quest Lumaflex™ Band"
+  },
+  "intent_template_id": 211,
+  "original_task_id": "afcebfed28bea091d58f49ea6cb8194b",
+  "reference_length": 12,
+  "level": "hard"
+}

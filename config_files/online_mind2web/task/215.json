@@ -1,0 +1,30 @@
+{
+  "sites": [
+    "www.parkers.co.uk"
+  ],
+  "task_id": 215,
+  "require_login": false,
+  "storage_state": "./.auth/online_mind2web/www.parkers.co.uk.json",
+  "start_url": "https://www.parkers.co.uk",
+  "geolocation": null,
+  "intent_template": "What is the ownership cost of the first car in the list \"top buys\"?",
+  "instantiation_dict": {},
+  "intent": "What is the ownership cost of the first car in the list \"top buys\"?",
+  "require_reset": false,
+  "eval": {
+    "eval_types": [
+      "string_match"
+    ],
+    "reference_answers": {
+      "exact_match": "Quest Lumaflex™ Band"
+    },
+    "reference_url": "",
+    "program_html": [],
+    "string_note": "",
+    "reference_answer_raw_annotation": "Quest Lumaflex™ Band"
+  },
+  "intent_template_id": 215,
+  "original_task_id": "47186fac8e7c7277af01144644eb4e0b_121125",
+  "reference_length": 3,
+  "level": "easy"
+}

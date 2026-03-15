@@ -1,0 +1,30 @@
+{
+  "sites": [
+    "www.drugs.com"
+  ],
+  "task_id": 153,
+  "require_login": false,
+  "storage_state": "./.auth/online_mind2web/www.drugs.com.json",
+  "start_url": "https://www.drugs.com",
+  "geolocation": null,
+  "intent_template": "Find the side effects of taking Montelukast.",
+  "instantiation_dict": {},
+  "intent": "Find the side effects of taking Montelukast.",
+  "require_reset": false,
+  "eval": {
+    "eval_types": [
+      "string_match"
+    ],
+    "reference_answers": {
+      "exact_match": "Quest Lumaflex™ Band"
+    },
+    "reference_url": "",
+    "program_html": [],
+    "string_note": "",
+    "reference_answer_raw_annotation": "Quest Lumaflex™ Band"
+  },
+  "intent_template_id": 153,
+  "original_task_id": "9586827ad04ee2362f4f0076bf0f0468",
+  "reference_length": 6,
+  "level": "medium"
+}

@@ -1,0 +1,30 @@
+{
+  "sites": [
+    "bandcamp.com"
+  ],
+  "task_id": 225,
+  "require_login": false,
+  "storage_state": "./.auth/online_mind2web/bandcamp.com.json",
+  "start_url": "https://bandcamp.com",
+  "geolocation": null,
+  "intent_template": "Find the best-selling vinyl record by an artist from New York City in the classical music genre.",
+  "instantiation_dict": {},
+  "intent": "Find the best-selling vinyl record by an artist from New York City in the classical music genre.",
+  "require_reset": false,
+  "eval": {
+    "eval_types": [
+      "string_match"
+    ],
+    "reference_answers": {
+      "exact_match": "Quest Lumaflex™ Band"
+    },
+    "reference_url": "",
+    "program_html": [],
+    "string_note": "",
+    "reference_answer_raw_annotation": "Quest Lumaflex™ Band"
+  },
+  "intent_template_id": 225,
+  "original_task_id": "b962927dfe03bf2274a54381127ed433",
+  "reference_length": 8,
+  "level": "medium"
+}

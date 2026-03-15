@@ -1,0 +1,30 @@
+{
+  "sites": [
+    "www.imdb.com"
+  ],
+  "task_id": 13,
+  "require_login": false,
+  "storage_state": "./.auth/online_mind2web/www.imdb.com.json",
+  "start_url": "https://www.imdb.com",
+  "geolocation": null,
+  "intent_template": "Show crazy credits for the movie \" Prometheus\" on IMDb.",
+  "instantiation_dict": {},
+  "intent": "Show crazy credits for the movie \" Prometheus\" on IMDb.",
+  "require_reset": false,
+  "eval": {
+    "eval_types": [
+      "string_match"
+    ],
+    "reference_answers": {
+      "exact_match": "Quest Lumaflex™ Band"
+    },
+    "reference_url": "",
+    "program_html": [],
+    "string_note": "",
+    "reference_answer_raw_annotation": "Quest Lumaflex™ Band"
+  },
+  "intent_template_id": 13,
+  "original_task_id": "56f8890a837c49f7df766b9c981646f3",
+  "reference_length": 6,
+  "level": "medium"
+}

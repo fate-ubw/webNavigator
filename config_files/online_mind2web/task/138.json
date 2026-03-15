@@ -1,0 +1,30 @@
+{
+  "sites": [
+    "www.akc.org"
+  ],
+  "task_id": 138,
+  "require_login": false,
+  "storage_state": "./.auth/online_mind2web/www.akc.org.json",
+  "start_url": "https://www.akc.org",
+  "geolocation": null,
+  "intent_template": "Find the nearest vet within 50 miles of zip 75228.",
+  "instantiation_dict": {},
+  "intent": "Find the nearest vet within 50 miles of zip 75228.",
+  "require_reset": false,
+  "eval": {
+    "eval_types": [
+      "string_match"
+    ],
+    "reference_answers": {
+      "exact_match": "Quest Lumaflex™ Band"
+    },
+    "reference_url": "",
+    "program_html": [],
+    "string_note": "",
+    "reference_answer_raw_annotation": "Quest Lumaflex™ Band"
+  },
+  "intent_template_id": 138,
+  "original_task_id": "415bf9da6f3db3a735ecbba3b0c76c15",
+  "reference_length": 9,
+  "level": "medium"
+}

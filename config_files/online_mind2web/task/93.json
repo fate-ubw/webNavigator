@@ -1,0 +1,30 @@
+{
+  "sites": [
+    "www.drugs.com"
+  ],
+  "task_id": 93,
+  "require_login": false,
+  "storage_state": "./.auth/online_mind2web/www.drugs.com.json",
+  "start_url": "https://www.drugs.com",
+  "geolocation": null,
+  "intent_template": "Browse the natural products database.",
+  "instantiation_dict": {},
+  "intent": "Browse the natural products database.",
+  "require_reset": false,
+  "eval": {
+    "eval_types": [
+      "string_match"
+    ],
+    "reference_answers": {
+      "exact_match": "Quest Lumaflex™ Band"
+    },
+    "reference_url": "",
+    "program_html": [],
+    "string_note": "",
+    "reference_answer_raw_annotation": "Quest Lumaflex™ Band"
+  },
+  "intent_template_id": 93,
+  "original_task_id": "a172a5d9ffaf5ef02bd550ec4fe24e6d",
+  "reference_length": 2,
+  "level": "easy"
+}

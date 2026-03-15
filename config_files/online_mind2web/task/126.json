@@ -1,0 +1,30 @@
+{
+  "sites": [
+    "www.bestbuy.com"
+  ],
+  "task_id": 126,
+  "require_login": false,
+  "storage_state": "./.auth/online_mind2web/www.bestbuy.com.json",
+  "start_url": "https://www.bestbuy.com",
+  "geolocation": null,
+  "intent_template": "Find a store near zip 30010 that provides authorized Apple services for imacs and make this one my store.",
+  "instantiation_dict": {},
+  "intent": "Find a store near zip 30010 that provides authorized Apple services for imacs and make this one my store.",
+  "require_reset": false,
+  "eval": {
+    "eval_types": [
+      "string_match"
+    ],
+    "reference_answers": {
+      "exact_match": "Quest Lumaflex™ Band"
+    },
+    "reference_url": "",
+    "program_html": [],
+    "string_note": "",
+    "reference_answer_raw_annotation": "Quest Lumaflex™ Band"
+  },
+  "intent_template_id": 126,
+  "original_task_id": "11abb668c751dd56bb41f296a8bb3a13",
+  "reference_length": 10,
+  "level": "medium"
+}

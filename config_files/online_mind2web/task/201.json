@@ -1,0 +1,30 @@
+{
+  "sites": [
+    "www.carnival.com"
+  ],
+  "task_id": 201,
+  "require_login": false,
+  "storage_state": "./.auth/online_mind2web/www.carnival.com.json",
+  "start_url": "https://www.carnival.com",
+  "geolocation": null,
+  "intent_template": "What are the onboard activities of the cheapest cruise, departing from Los Angeles that lasts at least 8 days?",
+  "instantiation_dict": {},
+  "intent": "What are the onboard activities of the cheapest cruise, departing from Los Angeles that lasts at least 8 days?",
+  "require_reset": false,
+  "eval": {
+    "eval_types": [
+      "string_match"
+    ],
+    "reference_answers": {
+      "exact_match": "Quest Lumaflex™ Band"
+    },
+    "reference_url": "",
+    "program_html": [],
+    "string_note": "",
+    "reference_answer_raw_annotation": "Quest Lumaflex™ Band"
+  },
+  "intent_template_id": 201,
+  "original_task_id": "0a0fa834ce41b5297c6474293383759d_110325",
+  "reference_length": 8,
+  "level": "medium"
+}

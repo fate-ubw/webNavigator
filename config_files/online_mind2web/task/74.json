@@ -1,0 +1,30 @@
+{
+  "sites": [
+    "www.accuweather.com"
+  ],
+  "task_id": 74,
+  "require_login": false,
+  "storage_state": "./.auth/online_mind2web/www.accuweather.com.json",
+  "start_url": "https://www.accuweather.com",
+  "geolocation": null,
+  "intent_template": "Show me the wind flow map for Belo Horizonte.",
+  "instantiation_dict": {},
+  "intent": "Show me the wind flow map for Belo Horizonte.",
+  "require_reset": false,
+  "eval": {
+    "eval_types": [
+      "string_match"
+    ],
+    "reference_answers": {
+      "exact_match": "Quest Lumaflex™ Band"
+    },
+    "reference_url": "",
+    "program_html": [],
+    "string_note": "",
+    "reference_answer_raw_annotation": "Quest Lumaflex™ Band"
+  },
+  "intent_template_id": 74,
+  "original_task_id": "853afd530c72f4b00ffc32ae854efaf8",
+  "reference_length": 5,
+  "level": "easy"
+}

@@ -1,0 +1,30 @@
+{
+  "sites": [
+    "www.nyse.com"
+  ],
+  "task_id": 257,
+  "require_login": false,
+  "storage_state": "./.auth/online_mind2web/www.nyse.com.json",
+  "start_url": "https://www.nyse.com",
+  "geolocation": null,
+  "intent_template": "Find the NYSE Rule 605 Market Center Files data for July 2024.",
+  "instantiation_dict": {},
+  "intent": "Find the NYSE Rule 605 Market Center Files data for July 2024.",
+  "require_reset": false,
+  "eval": {
+    "eval_types": [
+      "string_match"
+    ],
+    "reference_answers": {
+      "exact_match": "Quest Lumaflex™ Band"
+    },
+    "reference_url": "",
+    "program_html": [],
+    "string_note": "",
+    "reference_answer_raw_annotation": "Quest Lumaflex™ Band"
+  },
+  "intent_template_id": 257,
+  "original_task_id": "461ab9b0c7b20ac5f912704480979c65",
+  "reference_length": 5,
+  "level": "easy"
+}

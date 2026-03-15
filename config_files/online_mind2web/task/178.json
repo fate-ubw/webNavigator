@@ -1,0 +1,30 @@
+{
+  "sites": [
+    "www.coursera.org"
+  ],
+  "task_id": 178,
+  "require_login": false,
+  "storage_state": "./.auth/online_mind2web/www.coursera.org.json",
+  "start_url": "https://www.coursera.org",
+  "geolocation": null,
+  "intent_template": "Search for a beginner’s course in computer science that includes advertisement skills.",
+  "instantiation_dict": {},
+  "intent": "Search for a beginner’s course in computer science that includes advertisement skills.",
+  "require_reset": false,
+  "eval": {
+    "eval_types": [
+      "string_match"
+    ],
+    "reference_answers": {
+      "exact_match": "Quest Lumaflex™ Band"
+    },
+    "reference_url": "",
+    "program_html": [],
+    "string_note": "",
+    "reference_answer_raw_annotation": "Quest Lumaflex™ Band"
+  },
+  "intent_template_id": 178,
+  "original_task_id": "ba2a469af584f16da93ce6a7430cf7e5",
+  "reference_length": 7,
+  "level": "medium"
+}

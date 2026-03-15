@@ -1,0 +1,30 @@
+{
+  "sites": [
+    "www.bbb.org"
+  ],
+  "task_id": 168,
+  "require_login": false,
+  "storage_state": "./.auth/online_mind2web/www.bbb.org.json",
+  "start_url": "https://www.bbb.org",
+  "geolocation": null,
+  "intent_template": "Get a quote from C and above-rated solar energy equipment company within 10 miles of Miami, Florida.",
+  "instantiation_dict": {},
+  "intent": "Get a quote from C and above-rated solar energy equipment company within 10 miles of Miami, Florida.",
+  "require_reset": false,
+  "eval": {
+    "eval_types": [
+      "string_match"
+    ],
+    "reference_answers": {
+      "exact_match": "Quest Lumaflex™ Band"
+    },
+    "reference_url": "",
+    "program_html": [],
+    "string_note": "",
+    "reference_answer_raw_annotation": "Quest Lumaflex™ Band"
+  },
+  "intent_template_id": 168,
+  "original_task_id": "9af05e392cf3f5a8ff17aa764ba5bda6",
+  "reference_length": 16,
+  "level": "hard"
+}

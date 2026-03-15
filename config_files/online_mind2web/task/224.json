@@ -1,0 +1,30 @@
+{
+  "sites": [
+    "zara.com"
+  ],
+  "task_id": 224,
+  "require_login": false,
+  "storage_state": "./.auth/online_mind2web/zara.com.json",
+  "start_url": "https://zara.com",
+  "geolocation": null,
+  "intent_template": "Can you show me products under the category path 'zara home' -> 'rug', with an additional filter for the color beige?",
+  "instantiation_dict": {},
+  "intent": "Can you show me products under the category path 'zara home' -> 'rug', with an additional filter for the color beige?",
+  "require_reset": false,
+  "eval": {
+    "eval_types": [
+      "string_match"
+    ],
+    "reference_answers": {
+      "exact_match": "Quest Lumaflex™ Band"
+    },
+    "reference_url": "",
+    "program_html": [],
+    "string_note": "",
+    "reference_answer_raw_annotation": "Quest Lumaflex™ Band"
+  },
+  "intent_template_id": 224,
+  "original_task_id": "3dca7cbe7d086619d837ff9f5312cebc_110325",
+  "reference_length": 5,
+  "level": "easy"
+}

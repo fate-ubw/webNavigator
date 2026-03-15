@@ -1,0 +1,30 @@
+{
+  "sites": [
+    "www.mayoclinic.org"
+  ],
+  "task_id": 174,
+  "require_login": false,
+  "storage_state": "./.auth/online_mind2web/www.mayoclinic.org.json",
+  "start_url": "https://www.mayoclinic.org",
+  "geolocation": null,
+  "intent_template": "What are the Symptoms and causes of fever?",
+  "instantiation_dict": {},
+  "intent": "What are the Symptoms and causes of fever?",
+  "require_reset": false,
+  "eval": {
+    "eval_types": [
+      "string_match"
+    ],
+    "reference_answers": {
+      "exact_match": "Quest Lumaflex™ Band"
+    },
+    "reference_url": "",
+    "program_html": [],
+    "string_note": "",
+    "reference_answer_raw_annotation": "Quest Lumaflex™ Band"
+  },
+  "intent_template_id": 174,
+  "original_task_id": "23204728192da9f73197a613d9681c18",
+  "reference_length": 3,
+  "level": "easy"
+}

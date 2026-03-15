@@ -1,0 +1,30 @@
+{
+  "sites": [
+    "www.us-appliance.com"
+  ],
+  "task_id": 212,
+  "require_login": false,
+  "storage_state": "./.auth/online_mind2web/www.us-appliance.com.json",
+  "start_url": "https://www.us-appliance.com",
+  "geolocation": null,
+  "intent_template": "Find me the most viewed refridgerator that is 34-36 inches wide, with stainless steel finish, and has a customer review rating of 4 stars or higher",
+  "instantiation_dict": {},
+  "intent": "Find me the most viewed refridgerator that is 34-36 inches wide, with stainless steel finish, and has a customer review rating of 4 stars or higher",
+  "require_reset": false,
+  "eval": {
+    "eval_types": [
+      "string_match"
+    ],
+    "reference_answers": {
+      "exact_match": "Quest Lumaflex™ Band"
+    },
+    "reference_url": "",
+    "program_html": [],
+    "string_note": "",
+    "reference_answer_raw_annotation": "Quest Lumaflex™ Band"
+  },
+  "intent_template_id": 212,
+  "original_task_id": "64345c365f544375357c7b67917f08a0_110325",
+  "reference_length": 8,
+  "level": "medium"
+}

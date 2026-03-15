@@ -1,0 +1,30 @@
+{
+  "sites": [
+    "www.accuweather.com"
+  ],
+  "task_id": 276,
+  "require_login": false,
+  "storage_state": "./.auth/online_mind2web/www.accuweather.com.json",
+  "start_url": "https://www.accuweather.com",
+  "geolocation": null,
+  "intent_template": "Find the SO2 air quality over the past hour for Maine North, County Cork, Ireland.",
+  "instantiation_dict": {},
+  "intent": "Find the SO2 air quality over the past hour for Maine North, County Cork, Ireland.",
+  "require_reset": false,
+  "eval": {
+    "eval_types": [
+      "string_match"
+    ],
+    "reference_answers": {
+      "exact_match": "Quest Lumaflex™ Band"
+    },
+    "reference_url": "",
+    "program_html": [],
+    "string_note": "",
+    "reference_answer_raw_annotation": "Quest Lumaflex™ Band"
+  },
+  "intent_template_id": 276,
+  "original_task_id": "a5c87cc1c94a090c9a8dc2c8b6a125d0",
+  "reference_length": 15,
+  "level": "hard"
+}

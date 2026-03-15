@@ -1,0 +1,30 @@
+{
+  "sites": [
+    "www.healthline.com"
+  ],
+  "task_id": 194,
+  "require_login": false,
+  "storage_state": "./.auth/online_mind2web/www.healthline.com.json",
+  "start_url": "https://www.healthline.com",
+  "geolocation": null,
+  "intent_template": "Take a newsletter subscription with my email id (buckeye.foobar@gmail.com) for Allergies and asthma, Anxiety and depression, nutrition, diabetes, breast cancer, and migraine with email id.",
+  "instantiation_dict": {},
+  "intent": "Take a newsletter subscription with my email id (buckeye.foobar@gmail.com) for Allergies and asthma, Anxiety and depression, nutrition, diabetes, breast cancer, and migraine with email id.",
+  "require_reset": false,
+  "eval": {
+    "eval_types": [
+      "string_match"
+    ],
+    "reference_answers": {
+      "exact_match": "Quest Lumaflex™ Band"
+    },
+    "reference_url": "",
+    "program_html": [],
+    "string_note": "",
+    "reference_answer_raw_annotation": "Quest Lumaflex™ Band"
+  },
+  "intent_template_id": 194,
+  "original_task_id": "c43a7dccf5c44f7b45a821e712dd1970",
+  "reference_length": 8,
+  "level": "medium"
+}

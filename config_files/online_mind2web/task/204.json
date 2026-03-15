@@ -1,0 +1,30 @@
+{
+  "sites": [
+    "www.berkeley.edu"
+  ],
+  "task_id": 204,
+  "require_login": false,
+  "storage_state": "./.auth/online_mind2web/www.berkeley.edu.json",
+  "start_url": "https://www.berkeley.edu",
+  "geolocation": null,
+  "intent_template": "Please find graduate-level computer science courses scheduled on Tuesdays starting time from 2:00 to 6:00 PM in the Fall 2023 semester.",
+  "instantiation_dict": {},
+  "intent": "Please find graduate-level computer science courses scheduled on Tuesdays starting time from 2:00 to 6:00 PM in the Fall 2023 semester.",
+  "require_reset": false,
+  "eval": {
+    "eval_types": [
+      "string_match"
+    ],
+    "reference_answers": {
+      "exact_match": "Quest Lumaflex™ Band"
+    },
+    "reference_url": "",
+    "program_html": [],
+    "string_note": "",
+    "reference_answer_raw_annotation": "Quest Lumaflex™ Band"
+  },
+  "intent_template_id": 204,
+  "original_task_id": "b99c02965196d51e80ac7539e33f335b",
+  "reference_length": 9,
+  "level": "medium"
+}

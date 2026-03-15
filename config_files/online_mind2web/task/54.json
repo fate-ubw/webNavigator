@@ -1,0 +1,30 @@
+{
+  "sites": [
+    "www.remax.com"
+  ],
+  "task_id": 54,
+  "require_login": false,
+  "storage_state": "./.auth/online_mind2web/www.remax.com.json",
+  "start_url": "https://www.remax.com",
+  "geolocation": null,
+  "intent_template": "Find the most experienced real estate agent in St Augustine, FL, and open his or her profile page.",
+  "instantiation_dict": {},
+  "intent": "Find the most experienced real estate agent in St Augustine, FL, and open his or her profile page.",
+  "require_reset": false,
+  "eval": {
+    "eval_types": [
+      "string_match"
+    ],
+    "reference_answers": {
+      "exact_match": "Quest Lumaflex™ Band"
+    },
+    "reference_url": "",
+    "program_html": [],
+    "string_note": "",
+    "reference_answer_raw_annotation": "Quest Lumaflex™ Band"
+  },
+  "intent_template_id": 54,
+  "original_task_id": "9f1cba613830ca1c6a58f9498c06e679_110325",
+  "reference_length": 6,
+  "level": "medium"
+}

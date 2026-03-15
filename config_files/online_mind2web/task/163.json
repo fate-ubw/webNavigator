@@ -1,0 +1,30 @@
+{
+  "sites": [
+    "www.mayoclinic.org"
+  ],
+  "task_id": 163,
+  "require_login": false,
+  "storage_state": "./.auth/online_mind2web/www.mayoclinic.org.json",
+  "start_url": "https://www.mayoclinic.org",
+  "geolocation": null,
+  "intent_template": "Find a female MD Cardiologist in Jacksonville, Florida.",
+  "instantiation_dict": {},
+  "intent": "Find a female MD Cardiologist in Jacksonville, Florida.",
+  "require_reset": false,
+  "eval": {
+    "eval_types": [
+      "string_match"
+    ],
+    "reference_answers": {
+      "exact_match": "Quest Lumaflex™ Band"
+    },
+    "reference_url": "",
+    "program_html": [],
+    "string_note": "",
+    "reference_answer_raw_annotation": "Quest Lumaflex™ Band"
+  },
+  "intent_template_id": 163,
+  "original_task_id": "65c4030f22fb6eb101acfee4825f1318",
+  "reference_length": 8,
+  "level": "medium"
+}

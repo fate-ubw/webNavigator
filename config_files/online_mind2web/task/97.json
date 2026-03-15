@@ -1,0 +1,30 @@
+{
+  "sites": [
+    "www.gov.uk"
+  ],
+  "task_id": 97,
+  "require_login": false,
+  "storage_state": "./.auth/online_mind2web/www.gov.uk.json",
+  "start_url": "https://www.gov.uk",
+  "geolocation": null,
+  "intent_template": "Check if a visa is required to work in the UK for longer than 6 months in Healthcare as an American citizen.",
+  "instantiation_dict": {},
+  "intent": "Check if a visa is required to work in the UK for longer than 6 months in Healthcare as an American citizen.",
+  "require_reset": false,
+  "eval": {
+    "eval_types": [
+      "string_match"
+    ],
+    "reference_answers": {
+      "exact_match": "Quest Lumaflex™ Band"
+    },
+    "reference_url": "",
+    "program_html": [],
+    "string_note": "",
+    "reference_answer_raw_annotation": "Quest Lumaflex™ Band"
+  },
+  "intent_template_id": 97,
+  "original_task_id": "0170ca95038b05fa58d463fe627ac605",
+  "reference_length": 12,
+  "level": "hard"
+}

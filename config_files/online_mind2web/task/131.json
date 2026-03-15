@@ -1,0 +1,30 @@
+{
+  "sites": [
+    "www.espn.com"
+  ],
+  "task_id": 131,
+  "require_login": false,
+  "storage_state": "./.auth/online_mind2web/www.espn.com.json",
+  "start_url": "https://www.espn.com",
+  "geolocation": null,
+  "intent_template": "Can you play the recap from the most recent NBA game?",
+  "instantiation_dict": {},
+  "intent": "Can you play the recap from the most recent NBA game?",
+  "require_reset": false,
+  "eval": {
+    "eval_types": [
+      "string_match"
+    ],
+    "reference_answers": {
+      "exact_match": "Quest Lumaflex™ Band"
+    },
+    "reference_url": "",
+    "program_html": [],
+    "string_note": "",
+    "reference_answer_raw_annotation": "Quest Lumaflex™ Band"
+  },
+  "intent_template_id": 131,
+  "original_task_id": "9829f3087ab1f9c8eba6b6dd2b831d25_112325",
+  "reference_length": 5,
+  "level": "easy"
+}

@@ -1,0 +1,30 @@
+{
+  "sites": [
+    "versus.com"
+  ],
+  "task_id": 233,
+  "require_login": false,
+  "storage_state": "./.auth/online_mind2web/versus.com.json",
+  "start_url": "https://versus.com",
+  "geolocation": null,
+  "intent_template": "Compare the first and second most popular smartphones manufactured by Xiaomi and show the comparison chart.",
+  "instantiation_dict": {},
+  "intent": "Compare the first and second most popular smartphones manufactured by Xiaomi and show the comparison chart.",
+  "require_reset": false,
+  "eval": {
+    "eval_types": [
+      "string_match"
+    ],
+    "reference_answers": {
+      "exact_match": "Quest Lumaflex™ Band"
+    },
+    "reference_url": "",
+    "program_html": [],
+    "string_note": "",
+    "reference_answer_raw_annotation": "Quest Lumaflex™ Band"
+  },
+  "intent_template_id": 233,
+  "original_task_id": "47bfe8a7e0e4e7efc837287b407fbe90",
+  "reference_length": 10,
+  "level": "medium"
+}

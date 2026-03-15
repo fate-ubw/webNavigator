@@ -1,0 +1,30 @@
+{
+  "sites": [
+    "raisingcanes.com"
+  ],
+  "task_id": 214,
+  "require_login": false,
+  "storage_state": "./.auth/online_mind2web/raisingcanes.com.json",
+  "start_url": "https://raisingcanes.com",
+  "geolocation": null,
+  "intent_template": "Add a Box Combo to my bag with Diet Coke as the drink, and a Kids Combo with milk as the drink. Select the store closest to ZIP 10001 for pickup tomorrow at 12:00 PM.",
+  "instantiation_dict": {},
+  "intent": "Add a Box Combo to my bag with Diet Coke as the drink, and a Kids Combo with milk as the drink. Select the store closest to ZIP 10001 for pickup tomorrow at 12:00 PM.",
+  "require_reset": false,
+  "eval": {
+    "eval_types": [
+      "string_match"
+    ],
+    "reference_answers": {
+      "exact_match": "Quest Lumaflex™ Band"
+    },
+    "reference_url": "",
+    "program_html": [],
+    "string_note": "",
+    "reference_answer_raw_annotation": "Quest Lumaflex™ Band"
+  },
+  "intent_template_id": 214,
+  "original_task_id": "33bd2cdcea4fcc42a09a8a1e4e5841c6_110325",
+  "reference_length": 20,
+  "level": "hard"
+}

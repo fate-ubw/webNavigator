@@ -1,0 +1,30 @@
+{
+  "sites": [
+    "www.gov.uk"
+  ],
+  "task_id": 86,
+  "require_login": false,
+  "storage_state": "./.auth/online_mind2web/www.gov.uk.json",
+  "start_url": "https://www.gov.uk",
+  "geolocation": null,
+  "intent_template": "What are the benefits and financial support a single person living in England, over the state pension age, unemployed, with no health conditions, or caring for someone with one, can get?",
+  "instantiation_dict": {},
+  "intent": "What are the benefits and financial support a single person living in England, over the state pension age, unemployed, with no health conditions, or caring for someone with one, can get?",
+  "require_reset": false,
+  "eval": {
+    "eval_types": [
+      "string_match"
+    ],
+    "reference_answers": {
+      "exact_match": "Quest Lumaflex™ Band"
+    },
+    "reference_url": "",
+    "program_html": [],
+    "string_note": "",
+    "reference_answer_raw_annotation": "Quest Lumaflex™ Band"
+  },
+  "intent_template_id": 86,
+  "original_task_id": "ec78d3a635e417bc2a80d03ca93d7165",
+  "reference_length": 16,
+  "level": "hard"
+}

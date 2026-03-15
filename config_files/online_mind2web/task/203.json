@@ -1,0 +1,30 @@
+{
+  "sites": [
+    "www.osu.edu"
+  ],
+  "task_id": 203,
+  "require_login": false,
+  "storage_state": "./.auth/online_mind2web/www.osu.edu.json",
+  "start_url": "https://www.osu.edu",
+  "geolocation": null,
+  "intent_template": "Browse the class schedule of graduate-level computer science courses.",
+  "instantiation_dict": {},
+  "intent": "Browse the class schedule of graduate-level computer science courses.",
+  "require_reset": false,
+  "eval": {
+    "eval_types": [
+      "string_match"
+    ],
+    "reference_answers": {
+      "exact_match": "Quest Lumaflex™ Band"
+    },
+    "reference_url": "",
+    "program_html": [],
+    "string_note": "",
+    "reference_answer_raw_annotation": "Quest Lumaflex™ Band"
+  },
+  "intent_template_id": 203,
+  "original_task_id": "bb518416a786fdb9b9bbf0c78515595e",
+  "reference_length": 4,
+  "level": "easy"
+}

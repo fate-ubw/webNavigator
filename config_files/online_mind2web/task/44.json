@@ -1,0 +1,30 @@
+{
+  "sites": [
+    "www.cars.com"
+  ],
+  "task_id": 44,
+  "require_login": false,
+  "storage_state": "./.auth/online_mind2web/www.cars.com.json",
+  "start_url": "https://www.cars.com",
+  "geolocation": null,
+  "intent_template": "Find the cheapest used  8-cylinder bmw made between 2005-2015 and priced from 25,000 to  50,000 dollars with mileage less than 50,000 miles or less.",
+  "instantiation_dict": {},
+  "intent": "Find the cheapest used  8-cylinder bmw made between 2005-2015 and priced from 25,000 to  50,000 dollars with mileage less than 50,000 miles or less.",
+  "require_reset": false,
+  "eval": {
+    "eval_types": [
+      "string_match"
+    ],
+    "reference_answers": {
+      "exact_match": "Quest Lumaflex™ Band"
+    },
+    "reference_url": "",
+    "program_html": [],
+    "string_note": "",
+    "reference_answer_raw_annotation": "Quest Lumaflex™ Band"
+  },
+  "intent_template_id": 44,
+  "original_task_id": "fcf4952d2a1d80ea505c555c3c3b54e7",
+  "reference_length": 11,
+  "level": "hard"
+}

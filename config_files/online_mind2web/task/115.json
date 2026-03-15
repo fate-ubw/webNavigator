@@ -1,0 +1,30 @@
+{
+  "sites": [
+    "www.thumbtack.com"
+  ],
+  "task_id": 115,
+  "require_login": false,
+  "storage_state": "./.auth/online_mind2web/www.thumbtack.com.json",
+  "start_url": "https://www.thumbtack.com",
+  "geolocation": null,
+  "intent_template": "Find a personal trainer service at 10040 for a 25-year-old client aiming to build muscle.",
+  "instantiation_dict": {},
+  "intent": "Find a personal trainer service at 10040 for a 25-year-old client aiming to build muscle.",
+  "require_reset": false,
+  "eval": {
+    "eval_types": [
+      "string_match"
+    ],
+    "reference_answers": {
+      "exact_match": "Quest Lumaflex™ Band"
+    },
+    "reference_url": "",
+    "program_html": [],
+    "string_note": "",
+    "reference_answer_raw_annotation": "Quest Lumaflex™ Band"
+  },
+  "intent_template_id": 115,
+  "original_task_id": "5916018d1cad999881018cac1216a692",
+  "reference_length": 6,
+  "level": "medium"
+}

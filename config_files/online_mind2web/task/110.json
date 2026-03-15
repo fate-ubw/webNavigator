@@ -1,0 +1,30 @@
+{
+  "sites": [
+    "www.usps.com"
+  ],
+  "task_id": 110,
+  "require_login": false,
+  "storage_state": "./.auth/online_mind2web/www.usps.com.json",
+  "start_url": "https://www.usps.com",
+  "geolocation": null,
+  "intent_template": "Calculate the price to ship a large flat-rate box from 77449 to 77084 at the first available date and time.",
+  "instantiation_dict": {},
+  "intent": "Calculate the price to ship a large flat-rate box from 77449 to 77084 at the first available date and time.",
+  "require_reset": false,
+  "eval": {
+    "eval_types": [
+      "string_match"
+    ],
+    "reference_answers": {
+      "exact_match": "Quest Lumaflex™ Band"
+    },
+    "reference_url": "",
+    "program_html": [],
+    "string_note": "",
+    "reference_answer_raw_annotation": "Quest Lumaflex™ Band"
+  },
+  "intent_template_id": 110,
+  "original_task_id": "ce616721ce9aeda69890fbccb29677a6",
+  "reference_length": 8,
+  "level": "medium"
+}

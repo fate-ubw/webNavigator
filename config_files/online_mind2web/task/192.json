@@ -1,0 +1,30 @@
+{
+  "sites": [
+    "www.recreation.gov"
+  ],
+  "task_id": 192,
+  "require_login": false,
+  "storage_state": "./.auth/online_mind2web/www.recreation.gov.json",
+  "start_url": "https://www.recreation.gov",
+  "geolocation": null,
+  "intent_template": "Open the most helpful 5-star reviews of Alpine Ridge.",
+  "instantiation_dict": {},
+  "intent": "Open the most helpful 5-star reviews of Alpine Ridge.",
+  "require_reset": false,
+  "eval": {
+    "eval_types": [
+      "string_match"
+    ],
+    "reference_answers": {
+      "exact_match": "Quest Lumaflex™ Band"
+    },
+    "reference_url": "",
+    "program_html": [],
+    "string_note": "",
+    "reference_answer_raw_annotation": "Quest Lumaflex™ Band"
+  },
+  "intent_template_id": 192,
+  "original_task_id": "246d654fab7c31d9651007e39e75f74f",
+  "reference_length": 5,
+  "level": "easy"
+}

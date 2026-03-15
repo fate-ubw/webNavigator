@@ -1,0 +1,30 @@
+{
+  "sites": [
+    "www.bbb.org"
+  ],
+  "task_id": 161,
+  "require_login": false,
+  "storage_state": "./.auth/online_mind2web/www.bbb.org.json",
+  "start_url": "https://www.bbb.org",
+  "geolocation": null,
+  "intent_template": "Look up if the phone number 555555555 is a scam.",
+  "instantiation_dict": {},
+  "intent": "Look up if the phone number 555555555 is a scam.",
+  "require_reset": false,
+  "eval": {
+    "eval_types": [
+      "string_match"
+    ],
+    "reference_answers": {
+      "exact_match": "Quest Lumaflex™ Band"
+    },
+    "reference_url": "",
+    "program_html": [],
+    "string_note": "",
+    "reference_answer_raw_annotation": "Quest Lumaflex™ Band"
+  },
+  "intent_template_id": 161,
+  "original_task_id": "60cbbbd58eb9d28b053aef945f464228",
+  "reference_length": 6,
+  "level": "medium"
+}

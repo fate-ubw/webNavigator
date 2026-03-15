@@ -1,0 +1,30 @@
+{
+  "sites": [
+    "www.justice.gov"
+  ],
+  "task_id": 35,
+  "require_login": false,
+  "storage_state": "./.auth/online_mind2web/www.justice.gov.json",
+  "start_url": "https://www.justice.gov",
+  "geolocation": null,
+  "intent_template": "Browse the list of Civil Division forms.",
+  "instantiation_dict": {},
+  "intent": "Browse the list of Civil Division forms.",
+  "require_reset": false,
+  "eval": {
+    "eval_types": [
+      "string_match"
+    ],
+    "reference_answers": {
+      "exact_match": "Quest Lumaflex™ Band"
+    },
+    "reference_url": "",
+    "program_html": [],
+    "string_note": "",
+    "reference_answer_raw_annotation": "Quest Lumaflex™ Band"
+  },
+  "intent_template_id": 35,
+  "original_task_id": "828c2d98616a9478d5864d847d5a1b28",
+  "reference_length": 4,
+  "level": "easy"
+}

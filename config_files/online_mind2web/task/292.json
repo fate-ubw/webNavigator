@@ -1,0 +1,30 @@
+{
+  "sites": [
+    "www.irs.gov"
+  ],
+  "task_id": 292,
+  "require_login": false,
+  "storage_state": "./.auth/online_mind2web/www.irs.gov.json",
+  "start_url": "https://www.irs.gov",
+  "geolocation": null,
+  "intent_template": "Open the form 8843 for tax year 2022.",
+  "instantiation_dict": {},
+  "intent": "Open the form 8843 for tax year 2022.",
+  "require_reset": false,
+  "eval": {
+    "eval_types": [
+      "string_match"
+    ],
+    "reference_answers": {
+      "exact_match": "Quest Lumaflex™ Band"
+    },
+    "reference_url": "",
+    "program_html": [],
+    "string_note": "",
+    "reference_answer_raw_annotation": "Quest Lumaflex™ Band"
+  },
+  "intent_template_id": 292,
+  "original_task_id": "2c20d87a046fadcb6ff07ee877bfbf37",
+  "reference_length": 8,
+  "level": "medium"
+}

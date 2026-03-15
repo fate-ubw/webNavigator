@@ -1,0 +1,30 @@
+{
+  "sites": [
+    "www.ups.com"
+  ],
+  "task_id": 260,
+  "require_login": false,
+  "storage_state": "./.auth/online_mind2web/www.ups.com.json",
+  "start_url": "https://www.ups.com",
+  "geolocation": null,
+  "intent_template": "Get quotes for a package weighing 10 lbs with dimensions of 2 inches in length, width, and height, being shipped from Long Beach, 90802 to Portland, 97201.",
+  "instantiation_dict": {},
+  "intent": "Get quotes for a package weighing 10 lbs with dimensions of 2 inches in length, width, and height, being shipped from Long Beach, 90802 to Portland, 97201.",
+  "require_reset": false,
+  "eval": {
+    "eval_types": [
+      "string_match"
+    ],
+    "reference_answers": {
+      "exact_match": "Quest Lumaflex™ Band"
+    },
+    "reference_url": "",
+    "program_html": [],
+    "string_note": "",
+    "reference_answer_raw_annotation": "Quest Lumaflex™ Band"
+  },
+  "intent_template_id": 260,
+  "original_task_id": "3084bc225219fcb73dc1cb0f97276c1c",
+  "reference_length": 7,
+  "level": "medium"
+}

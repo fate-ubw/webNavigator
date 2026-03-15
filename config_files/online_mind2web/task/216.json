@@ -1,0 +1,30 @@
+{
+  "sites": [
+    "soundcloud.com"
+  ],
+  "task_id": 216,
+  "require_login": false,
+  "storage_state": "./.auth/online_mind2web/soundcloud.com.json",
+  "start_url": "https://soundcloud.com",
+  "geolocation": null,
+  "intent_template": "Browse a user homepage that reposted the top song from the Top 50 Rock chart.",
+  "instantiation_dict": {},
+  "intent": "Browse a user homepage that reposted the top song from the Top 50 Rock chart.",
+  "require_reset": false,
+  "eval": {
+    "eval_types": [
+      "string_match"
+    ],
+    "reference_answers": {
+      "exact_match": "Quest Lumaflex™ Band"
+    },
+    "reference_url": "",
+    "program_html": [],
+    "string_note": "",
+    "reference_answer_raw_annotation": "Quest Lumaflex™ Band"
+  },
+  "intent_template_id": 216,
+  "original_task_id": "fa9adb815b85d259f943d81874a052e5",
+  "reference_length": 6,
+  "level": "medium"
+}

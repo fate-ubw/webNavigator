@@ -1,0 +1,30 @@
+{
+  "sites": [
+    "www.mayoclinic.org"
+  ],
+  "task_id": 155,
+  "require_login": false,
+  "storage_state": "./.auth/online_mind2web/www.mayoclinic.org.json",
+  "start_url": "https://www.mayoclinic.org",
+  "geolocation": null,
+  "intent_template": "Show me Diagnoses & Treatment for Female infertility.",
+  "instantiation_dict": {},
+  "intent": "Show me Diagnoses & Treatment for Female infertility.",
+  "require_reset": false,
+  "eval": {
+    "eval_types": [
+      "string_match"
+    ],
+    "reference_answers": {
+      "exact_match": "Quest Lumaflex™ Band"
+    },
+    "reference_url": "",
+    "program_html": [],
+    "string_note": "",
+    "reference_answer_raw_annotation": "Quest Lumaflex™ Band"
+  },
+  "intent_template_id": 155,
+  "original_task_id": "47b93b9e649eadeb8d96a6e3df715c2d",
+  "reference_length": 4,
+  "level": "easy"
+}

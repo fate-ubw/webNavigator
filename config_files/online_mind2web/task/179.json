@@ -1,0 +1,30 @@
+{
+  "sites": [
+    "www.apartments.com"
+  ],
+  "task_id": 179,
+  "require_login": false,
+  "storage_state": "./.auth/online_mind2web/www.apartments.com.json",
+  "start_url": "https://www.apartments.com",
+  "geolocation": null,
+  "intent_template": "calculate and search rent for a $6000 monthly income with 30% rent budget near 90012 area.",
+  "instantiation_dict": {},
+  "intent": "calculate and search rent for a $6000 monthly income with 30% rent budget near 90012 area.",
+  "require_reset": false,
+  "eval": {
+    "eval_types": [
+      "string_match"
+    ],
+    "reference_answers": {
+      "exact_match": "Quest Lumaflex™ Band"
+    },
+    "reference_url": "",
+    "program_html": [],
+    "string_note": "",
+    "reference_answer_raw_annotation": "Quest Lumaflex™ Band"
+  },
+  "intent_template_id": 179,
+  "original_task_id": "26784156ae9859a0dd6c5920eb106f91",
+  "reference_length": 8,
+  "level": "medium"
+}

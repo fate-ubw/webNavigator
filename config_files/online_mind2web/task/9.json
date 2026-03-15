@@ -1,0 +1,30 @@
+{
+  "sites": [
+    "www.ign.com"
+  ],
+  "task_id": 9,
+  "require_login": false,
+  "storage_state": "./.auth/online_mind2web/www.ign.com.json",
+  "start_url": "https://www.ign.com",
+  "geolocation": null,
+  "intent_template": "Find an editor's choice review with a score of 10 in the boardgame category on ign.",
+  "instantiation_dict": {},
+  "intent": "Find an editor's choice review with a score of 10 in the boardgame category on ign.",
+  "require_reset": false,
+  "eval": {
+    "eval_types": [
+      "string_match"
+    ],
+    "reference_answers": {
+      "exact_match": "Quest Lumaflex™ Band"
+    },
+    "reference_url": "",
+    "program_html": [],
+    "string_note": "",
+    "reference_answer_raw_annotation": "Quest Lumaflex™ Band"
+  },
+  "intent_template_id": 9,
+  "original_task_id": "aa4b5cb7114fcc138ade82b4b9716d24",
+  "reference_length": 8,
+  "level": "medium"
+}

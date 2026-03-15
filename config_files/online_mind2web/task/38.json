@@ -1,0 +1,30 @@
+{
+  "sites": [
+    "www.cars.com"
+  ],
+  "task_id": 38,
+  "require_login": false,
+  "storage_state": "./.auth/online_mind2web/www.cars.com.json",
+  "start_url": "https://www.cars.com",
+  "geolocation": null,
+  "intent_template": "Find the highest-rated dealer for Cadillac with a rating above 4 stars within 20 miles of zip 60606.",
+  "instantiation_dict": {},
+  "intent": "Find the highest-rated dealer for Cadillac with a rating above 4 stars within 20 miles of zip 60606.",
+  "require_reset": false,
+  "eval": {
+    "eval_types": [
+      "string_match"
+    ],
+    "reference_answers": {
+      "exact_match": "Quest Lumaflex™ Band"
+    },
+    "reference_url": "",
+    "program_html": [],
+    "string_note": "",
+    "reference_answer_raw_annotation": "Quest Lumaflex™ Band"
+  },
+  "intent_template_id": 38,
+  "original_task_id": "cfafe3771369d1d261e9f7ecd44c296d",
+  "reference_length": 6,
+  "level": "medium"
+}

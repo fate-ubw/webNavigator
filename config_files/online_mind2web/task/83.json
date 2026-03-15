@@ -1,0 +1,30 @@
+{
+  "sites": [
+    "www.usps.com"
+  ],
+  "task_id": 83,
+  "require_login": false,
+  "storage_state": "./.auth/online_mind2web/www.usps.com.json",
+  "start_url": "https://www.usps.com",
+  "geolocation": null,
+  "intent_template": "Find the nearest location to zip code 54620 that offers size 4 P.O. Boxes.",
+  "instantiation_dict": {},
+  "intent": "Find the nearest location to zip code 54620 that offers size 4 P.O. Boxes.",
+  "require_reset": false,
+  "eval": {
+    "eval_types": [
+      "string_match"
+    ],
+    "reference_answers": {
+      "exact_match": "Quest Lumaflex™ Band"
+    },
+    "reference_url": "",
+    "program_html": [],
+    "string_note": "",
+    "reference_answer_raw_annotation": "Quest Lumaflex™ Band"
+  },
+  "intent_template_id": 83,
+  "original_task_id": "7562d9b4e4829a44245aafce2e1f62db",
+  "reference_length": 8,
+  "level": "medium"
+}

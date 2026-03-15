@@ -1,0 +1,30 @@
+{
+  "sites": [
+    "www.flightaware.com"
+  ],
+  "task_id": 4,
+  "require_login": false,
+  "storage_state": "./.auth/online_mind2web/www.flightaware.com.json",
+  "start_url": "https://www.flightaware.com",
+  "geolocation": null,
+  "intent_template": "Find discussions of the community and open one with the most replies on Flightaware.",
+  "instantiation_dict": {},
+  "intent": "Find discussions of the community and open one with the most replies on Flightaware.",
+  "require_reset": false,
+  "eval": {
+    "eval_types": [
+      "string_match"
+    ],
+    "reference_answers": {
+      "exact_match": "Quest Lumaflex™ Band"
+    },
+    "reference_url": "",
+    "program_html": [],
+    "string_note": "",
+    "reference_answer_raw_annotation": "Quest Lumaflex™ Band"
+  },
+  "intent_template_id": 4,
+  "original_task_id": "046138801a05ddf56ad94e8672942496",
+  "reference_length": 6,
+  "level": "medium"
+}

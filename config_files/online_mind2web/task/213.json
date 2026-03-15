@@ -1,0 +1,30 @@
+{
+  "sites": [
+    "www.apple.com"
+  ],
+  "task_id": 213,
+  "require_login": false,
+  "storage_state": "./.auth/online_mind2web/www.apple.com.json",
+  "start_url": "https://www.apple.com",
+  "geolocation": null,
+  "intent_template": "Find the tech specs of the MacBook Pro 16-inch introduced in November 2023.",
+  "instantiation_dict": {},
+  "intent": "Find the tech specs of the MacBook Pro 16-inch introduced in November 2023.",
+  "require_reset": false,
+  "eval": {
+    "eval_types": [
+      "string_match"
+    ],
+    "reference_answers": {
+      "exact_match": "Quest Lumaflex™ Band"
+    },
+    "reference_url": "",
+    "program_html": [],
+    "string_note": "",
+    "reference_answer_raw_annotation": "Quest Lumaflex™ Band"
+  },
+  "intent_template_id": 213,
+  "original_task_id": "ab6ee3b83aab6cd283320f5e01003cff",
+  "reference_length": 7,
+  "level": "medium"
+}

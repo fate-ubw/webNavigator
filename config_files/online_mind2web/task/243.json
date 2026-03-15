@@ -1,0 +1,30 @@
+{
+  "sites": [
+    "www.samsung.com"
+  ],
+  "task_id": 243,
+  "require_login": false,
+  "storage_state": "./.auth/online_mind2web/www.samsung.com.json",
+  "start_url": "https://www.samsung.com",
+  "geolocation": null,
+  "intent_template": "Look for the most useful reviews of the highest-rated anti-reflective TVs with screen sizes from 55\" to 64\" and prices ranging from $300 to $1500.",
+  "instantiation_dict": {},
+  "intent": "Look for the most useful reviews of the highest-rated anti-reflective TVs with screen sizes from 55\" to 64\" and prices ranging from $300 to $1500.",
+  "require_reset": false,
+  "eval": {
+    "eval_types": [
+      "string_match"
+    ],
+    "reference_answers": {
+      "exact_match": "Quest Lumaflex™ Band"
+    },
+    "reference_url": "",
+    "program_html": [],
+    "string_note": "",
+    "reference_answer_raw_annotation": "Quest Lumaflex™ Band"
+  },
+  "intent_template_id": 243,
+  "original_task_id": "59912927c1fddee6ded8a49986896bc2",
+  "reference_length": 14,
+  "level": "hard"
+}

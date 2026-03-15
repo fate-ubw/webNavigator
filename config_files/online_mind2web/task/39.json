@@ -1,0 +1,30 @@
+{
+  "sites": [
+    "www.nba.com"
+  ],
+  "task_id": 39,
+  "require_login": false,
+  "storage_state": "./.auth/online_mind2web/www.nba.com.json",
+  "start_url": "https://www.nba.com",
+  "geolocation": null,
+  "intent_template": "Find out how many assists Chris Paul has been averaging in the current season.",
+  "instantiation_dict": {},
+  "intent": "Find out how many assists Chris Paul has been averaging in the current season.",
+  "require_reset": false,
+  "eval": {
+    "eval_types": [
+      "string_match"
+    ],
+    "reference_answers": {
+      "exact_match": "Quest Lumaflex™ Band"
+    },
+    "reference_url": "",
+    "program_html": [],
+    "string_note": "",
+    "reference_answer_raw_annotation": "Quest Lumaflex™ Band"
+  },
+  "intent_template_id": 39,
+  "original_task_id": "bbbc243b4f18a7a897f0bc84e11d293f",
+  "reference_length": 4,
+  "level": "easy"
+}

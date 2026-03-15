@@ -1,0 +1,30 @@
+{
+  "sites": [
+    "www.babycenter.com"
+  ],
+  "task_id": 142,
+  "require_login": false,
+  "storage_state": "./.auth/online_mind2web/www.babycenter.com.json",
+  "start_url": "https://www.babycenter.com",
+  "geolocation": null,
+  "intent_template": "See the prediction about the girl child's height, whose current height at seven years is 4 feet and whose weight is 55 lbs, her mother is 5 feet 2, and her father is 5 feet 8.",
+  "instantiation_dict": {},
+  "intent": "See the prediction about the girl child's height, whose current height at seven years is 4 feet and whose weight is 55 lbs, her mother is 5 feet 2, and her father is 5 feet 8.",
+  "require_reset": false,
+  "eval": {
+    "eval_types": [
+      "string_match"
+    ],
+    "reference_answers": {
+      "exact_match": "Quest Lumaflex™ Band"
+    },
+    "reference_url": "",
+    "program_html": [],
+    "string_note": "",
+    "reference_answer_raw_annotation": "Quest Lumaflex™ Band"
+  },
+  "intent_template_id": 142,
+  "original_task_id": "7680a920359cb1a508fbddb001b98167",
+  "reference_length": 11,
+  "level": "hard"
+}

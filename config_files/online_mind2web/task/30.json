@@ -1,0 +1,30 @@
+{
+  "sites": [
+    "www.target.com"
+  ],
+  "task_id": 30,
+  "require_login": false,
+  "storage_state": "./.auth/online_mind2web/www.target.com.json",
+  "start_url": "https://www.target.com",
+  "geolocation": null,
+  "intent_template": "Get the frozen vegetarian cheese pizza between 5 to 10 USD on Target.",
+  "instantiation_dict": {},
+  "intent": "Get the frozen vegetarian cheese pizza between 5 to 10 USD on Target.",
+  "require_reset": false,
+  "eval": {
+    "eval_types": [
+      "string_match"
+    ],
+    "reference_answers": {
+      "exact_match": "Quest Lumaflex™ Band"
+    },
+    "reference_url": "",
+    "program_html": [],
+    "string_note": "",
+    "reference_answer_raw_annotation": "Quest Lumaflex™ Band"
+  },
+  "intent_template_id": 30,
+  "original_task_id": "b64f938af842f6a1b4489d0e49a785a7_121125",
+  "reference_length": 17,
+  "level": "hard"
+}

@@ -1,0 +1,30 @@
+{
+  "sites": [
+    "www.google.com"
+  ],
+  "task_id": 128,
+  "require_login": false,
+  "storage_state": "./.auth/online_mind2web/www.google.com.json",
+  "start_url": "https://www.google.com",
+  "geolocation": null,
+  "intent_template": "Browse the first top news of Microsoft stock on Google Finance.",
+  "instantiation_dict": {},
+  "intent": "Browse the first top news of Microsoft stock on Google Finance.",
+  "require_reset": false,
+  "eval": {
+    "eval_types": [
+      "string_match"
+    ],
+    "reference_answers": {
+      "exact_match": "Quest Lumaflex™ Band"
+    },
+    "reference_url": "",
+    "program_html": [],
+    "string_note": "",
+    "reference_answer_raw_annotation": "Quest Lumaflex™ Band"
+  },
+  "intent_template_id": 128,
+  "original_task_id": "29b7372d5a3884a2ba831af2d117af3c",
+  "reference_length": 3,
+  "level": "easy"
+}

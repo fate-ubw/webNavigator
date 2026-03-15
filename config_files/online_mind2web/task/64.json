@@ -1,0 +1,30 @@
+{
+  "sites": [
+    "www.compass.com"
+  ],
+  "task_id": 64,
+  "require_login": false,
+  "storage_state": "./.auth/online_mind2web/www.compass.com.json",
+  "start_url": "https://www.compass.com",
+  "geolocation": null,
+  "intent_template": "Find the cheapest 2 bed and 3+ bath apartment listing for rent in New York.",
+  "instantiation_dict": {},
+  "intent": "Find the cheapest 2 bed and 3+ bath apartment listing for rent in New York.",
+  "require_reset": false,
+  "eval": {
+    "eval_types": [
+      "string_match"
+    ],
+    "reference_answers": {
+      "exact_match": "Quest Lumaflex™ Band"
+    },
+    "reference_url": "",
+    "program_html": [],
+    "string_note": "",
+    "reference_answer_raw_annotation": "Quest Lumaflex™ Band"
+  },
+  "intent_template_id": 64,
+  "original_task_id": "eb323dc584156d0eb3a2b90bb8c4b791_110325",
+  "reference_length": 15,
+  "level": "hard"
+}

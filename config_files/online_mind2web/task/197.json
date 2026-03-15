@@ -1,0 +1,30 @@
+{
+  "sites": [
+    "www.accuweather.com"
+  ],
+  "task_id": 197,
+  "require_login": false,
+  "storage_state": "./.auth/online_mind2web/www.accuweather.com.json",
+  "start_url": "https://www.accuweather.com",
+  "geolocation": null,
+  "intent_template": "See the monthly forecast for Atlanta, GA.",
+  "instantiation_dict": {},
+  "intent": "See the monthly forecast for Atlanta, GA.",
+  "require_reset": false,
+  "eval": {
+    "eval_types": [
+      "string_match"
+    ],
+    "reference_answers": {
+      "exact_match": "Quest Lumaflex™ Band"
+    },
+    "reference_url": "",
+    "program_html": [],
+    "string_note": "",
+    "reference_answer_raw_annotation": "Quest Lumaflex™ Band"
+  },
+  "intent_template_id": 197,
+  "original_task_id": "c521933dad9c0ef9f1dfa2f38b8e4405",
+  "reference_length": 3,
+  "level": "easy"
+}

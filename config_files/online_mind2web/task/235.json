@@ -1,0 +1,30 @@
+{
+  "sites": [
+    "www.ca.gov"
+  ],
+  "task_id": 235,
+  "require_login": false,
+  "storage_state": "./.auth/online_mind2web/www.ca.gov.json",
+  "start_url": "https://www.ca.gov",
+  "geolocation": null,
+  "intent_template": "Find full-time legal occupation jobs in San Diego County with a minimum salary of $4,000+ per month.",
+  "instantiation_dict": {},
+  "intent": "Find full-time legal occupation jobs in San Diego County with a minimum salary of $4,000+ per month.",
+  "require_reset": false,
+  "eval": {
+    "eval_types": [
+      "string_match"
+    ],
+    "reference_answers": {
+      "exact_match": "Quest Lumaflex™ Band"
+    },
+    "reference_url": "",
+    "program_html": [],
+    "string_note": "",
+    "reference_answer_raw_annotation": "Quest Lumaflex™ Band"
+  },
+  "intent_template_id": 235,
+  "original_task_id": "1aeca99e6a60b0e3aefb3ef212bdce79",
+  "reference_length": 10,
+  "level": "medium"
+}

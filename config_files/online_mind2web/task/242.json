@@ -1,0 +1,30 @@
+{
+  "sites": [
+    "www.merriam-webster.com"
+  ],
+  "task_id": 242,
+  "require_login": false,
+  "storage_state": "./.auth/online_mind2web/www.merriam-webster.com.json",
+  "start_url": "https://www.merriam-webster.com",
+  "geolocation": null,
+  "intent_template": "Find the most frequent word that rhymes with \"thought\" and has three syllables.",
+  "instantiation_dict": {},
+  "intent": "Find the most frequent word that rhymes with \"thought\" and has three syllables.",
+  "require_reset": false,
+  "eval": {
+    "eval_types": [
+      "string_match"
+    ],
+    "reference_answers": {
+      "exact_match": "Quest Lumaflex™ Band"
+    },
+    "reference_url": "",
+    "program_html": [],
+    "string_note": "",
+    "reference_answer_raw_annotation": "Quest Lumaflex™ Band"
+  },
+  "intent_template_id": 242,
+  "original_task_id": "96afb3c51146b0c2a9c55f039a5ea6d6",
+  "reference_length": 5,
+  "level": "easy"
+}

@@ -1,0 +1,30 @@
+{
+  "sites": [
+    "www.fedex.com"
+  ],
+  "task_id": 36,
+  "require_login": false,
+  "storage_state": "./.auth/online_mind2web/www.fedex.com.json",
+  "start_url": "https://www.fedex.com",
+  "geolocation": null,
+  "intent_template": "Calculate a FedEx Ground shipping rate for a 3-pound package from zip code 10019 to zip code 90028.",
+  "instantiation_dict": {},
+  "intent": "Calculate a FedEx Ground shipping rate for a 3-pound package from zip code 10019 to zip code 90028.",
+  "require_reset": false,
+  "eval": {
+    "eval_types": [
+      "string_match"
+    ],
+    "reference_answers": {
+      "exact_match": "Quest Lumaflex™ Band"
+    },
+    "reference_url": "",
+    "program_html": [],
+    "string_note": "",
+    "reference_answer_raw_annotation": "Quest Lumaflex™ Band"
+  },
+  "intent_template_id": 36,
+  "original_task_id": "608c595eec271fa5dc03506923519994",
+  "reference_length": 9,
+  "level": "medium"
+}

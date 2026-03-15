@@ -1,0 +1,30 @@
+{
+  "sites": [
+    "www.ups.com"
+  ],
+  "task_id": 198,
+  "require_login": false,
+  "storage_state": "./.auth/online_mind2web/www.ups.com.json",
+  "start_url": "https://www.ups.com",
+  "geolocation": null,
+  "intent_template": "Find a UPS Access Point near SPRING, TX and services provided by them.",
+  "instantiation_dict": {},
+  "intent": "Find a UPS Access Point near SPRING, TX and services provided by them.",
+  "require_reset": false,
+  "eval": {
+    "eval_types": [
+      "string_match"
+    ],
+    "reference_answers": {
+      "exact_match": "Quest Lumaflex™ Band"
+    },
+    "reference_url": "",
+    "program_html": [],
+    "string_note": "",
+    "reference_answer_raw_annotation": "Quest Lumaflex™ Band"
+  },
+  "intent_template_id": 198,
+  "original_task_id": "9b5dfe54a1c14c5c6336bae7374c3bb5",
+  "reference_length": 8,
+  "level": "medium"
+}

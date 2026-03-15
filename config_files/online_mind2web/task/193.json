@@ -1,0 +1,30 @@
+{
+  "sites": [
+    "craigslist.org"
+  ],
+  "task_id": 193,
+  "require_login": false,
+  "storage_state": "./.auth/online_mind2web/craigslist.org.json",
+  "start_url": "https://craigslist.org",
+  "geolocation": null,
+  "intent_template": "Browse iPhone X for sale that is in good condition, has a max price of 400, and searches in titles only.",
+  "instantiation_dict": {},
+  "intent": "Browse iPhone X for sale that is in good condition, has a max price of 400, and searches in titles only.",
+  "require_reset": false,
+  "eval": {
+    "eval_types": [
+      "string_match"
+    ],
+    "reference_answers": {
+      "exact_match": "Quest Lumaflex™ Band"
+    },
+    "reference_url": "",
+    "program_html": [],
+    "string_note": "",
+    "reference_answer_raw_annotation": "Quest Lumaflex™ Band"
+  },
+  "intent_template_id": 193,
+  "original_task_id": "690d7b4a285fdb1e9dabf973bf46ae4d",
+  "reference_length": 8,
+  "level": "medium"
+}

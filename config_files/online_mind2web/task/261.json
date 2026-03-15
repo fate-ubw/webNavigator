@@ -1,0 +1,30 @@
+{
+  "sites": [
+    "www.flightaware.com"
+  ],
+  "task_id": 261,
+  "require_login": false,
+  "storage_state": "./.auth/online_mind2web/www.flightaware.com.json",
+  "start_url": "https://www.flightaware.com",
+  "geolocation": null,
+  "intent_template": "Find UA or AA flights from London to New York that arrive between 8:00 PM and 11:00 PM on FlightAware.",
+  "instantiation_dict": {},
+  "intent": "Find UA or AA flights from London to New York that arrive between 8:00 PM and 11:00 PM on FlightAware.",
+  "require_reset": false,
+  "eval": {
+    "eval_types": [
+      "string_match"
+    ],
+    "reference_answers": {
+      "exact_match": "Quest Lumaflex™ Band"
+    },
+    "reference_url": "",
+    "program_html": [],
+    "string_note": "",
+    "reference_answer_raw_annotation": "Quest Lumaflex™ Band"
+  },
+  "intent_template_id": 261,
+  "original_task_id": "949dc965a6c23a95663b3bc2ca2c3a8a",
+  "reference_length": 13,
+  "level": "hard"
+}

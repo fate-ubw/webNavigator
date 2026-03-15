@@ -1,0 +1,30 @@
+{
+  "sites": [
+    "www.google.com"
+  ],
+  "task_id": 105,
+  "require_login": false,
+  "storage_state": "./.auth/online_mind2web/www.google.com.json",
+  "start_url": "https://www.google.com",
+  "geolocation": null,
+  "intent_template": "Find the lowest 27\"-32\" Samsung or LG computer monitors nearby which have 4k, IPS display.",
+  "instantiation_dict": {},
+  "intent": "Find the lowest 27\"-32\" Samsung or LG computer monitors nearby which have 4k, IPS display.",
+  "require_reset": false,
+  "eval": {
+    "eval_types": [
+      "string_match"
+    ],
+    "reference_answers": {
+      "exact_match": "Quest Lumaflex™ Band"
+    },
+    "reference_url": "",
+    "program_html": [],
+    "string_note": "",
+    "reference_answer_raw_annotation": "Quest Lumaflex™ Band"
+  },
+  "intent_template_id": 105,
+  "original_task_id": "7fff82864f21ddeccf4104a220892824",
+  "reference_length": 10,
+  "level": "medium"
+}

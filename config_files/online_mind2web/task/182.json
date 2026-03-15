@@ -1,0 +1,30 @@
+{
+  "sites": [
+    "www.nba.com"
+  ],
+  "task_id": 182,
+  "require_login": false,
+  "storage_state": "./.auth/online_mind2web/www.nba.com.json",
+  "start_url": "https://www.nba.com",
+  "geolocation": null,
+  "intent_template": "Find Devin Booker's highest-scoring points per game playoff run.",
+  "instantiation_dict": {},
+  "intent": "Find Devin Booker's highest-scoring points per game playoff run.",
+  "require_reset": false,
+  "eval": {
+    "eval_types": [
+      "string_match"
+    ],
+    "reference_answers": {
+      "exact_match": "Quest Lumaflex™ Band"
+    },
+    "reference_url": "",
+    "program_html": [],
+    "string_note": "",
+    "reference_answer_raw_annotation": "Quest Lumaflex™ Band"
+  },
+  "intent_template_id": 182,
+  "original_task_id": "6b2cfae0ef25c73d1224b6ab74cb8b63",
+  "reference_length": 7,
+  "level": "medium"
+}

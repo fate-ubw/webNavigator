@@ -1,0 +1,30 @@
+{
+  "sites": [
+    "us.megabus.com"
+  ],
+  "task_id": 22,
+  "require_login": false,
+  "storage_state": "./.auth/online_mind2web/us.megabus.com.json",
+  "start_url": "https://us.megabus.com",
+  "geolocation": null,
+  "intent_template": "Find out what to do when I lose an item on a bus on us.megabus.",
+  "instantiation_dict": {},
+  "intent": "Find out what to do when I lose an item on a bus on us.megabus.",
+  "require_reset": false,
+  "eval": {
+    "eval_types": [
+      "string_match"
+    ],
+    "reference_answers": {
+      "exact_match": "Quest Lumaflex™ Band"
+    },
+    "reference_url": "",
+    "program_html": [],
+    "string_note": "",
+    "reference_answer_raw_annotation": "Quest Lumaflex™ Band"
+  },
+  "intent_template_id": 22,
+  "original_task_id": "34ccd15a8ea8fd3895af83f5ccf62369",
+  "reference_length": 3,
+  "level": "easy"
+}

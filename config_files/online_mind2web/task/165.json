@@ -1,0 +1,30 @@
+{
+  "sites": [
+    "www.adoptapet.com"
+  ],
+  "task_id": 165,
+  "require_login": false,
+  "storage_state": "./.auth/online_mind2web/www.adoptapet.com.json",
+  "start_url": "https://www.adoptapet.com",
+  "geolocation": null,
+  "intent_template": "Find an English bulldog near zip code 90028 that was cared for by a private owner.",
+  "instantiation_dict": {},
+  "intent": "Find an English bulldog near zip code 90028 that was cared for by a private owner.",
+  "require_reset": false,
+  "eval": {
+    "eval_types": [
+      "string_match"
+    ],
+    "reference_answers": {
+      "exact_match": "Quest Lumaflex™ Band"
+    },
+    "reference_url": "",
+    "program_html": [],
+    "string_note": "",
+    "reference_answer_raw_annotation": "Quest Lumaflex™ Band"
+  },
+  "intent_template_id": 165,
+  "original_task_id": "2e4e21cf1449c6894b17d571c47b77ea",
+  "reference_length": 8,
+  "level": "medium"
+}

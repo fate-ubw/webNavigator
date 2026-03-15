@@ -1,0 +1,30 @@
+{
+  "sites": [
+    "umich.edu"
+  ],
+  "task_id": 196,
+  "require_login": false,
+  "storage_state": "./.auth/online_mind2web/umich.edu.json",
+  "start_url": "https://umich.edu",
+  "geolocation": null,
+  "intent_template": "Find the way to give a gift to UM-Dearborn.",
+  "instantiation_dict": {},
+  "intent": "Find the way to give a gift to UM-Dearborn.",
+  "require_reset": false,
+  "eval": {
+    "eval_types": [
+      "string_match"
+    ],
+    "reference_answers": {
+      "exact_match": "Quest Lumaflex™ Band"
+    },
+    "reference_url": "",
+    "program_html": [],
+    "string_note": "",
+    "reference_answer_raw_annotation": "Quest Lumaflex™ Band"
+  },
+  "intent_template_id": 196,
+  "original_task_id": "180ed2ec377ef3a4af9035a21522091a",
+  "reference_length": 5,
+  "level": "easy"
+}

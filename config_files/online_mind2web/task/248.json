@@ -1,0 +1,30 @@
+{
+  "sites": [
+    "www.wineaccess.com"
+  ],
+  "task_id": 248,
+  "require_login": false,
+  "storage_state": "./.auth/online_mind2web/www.wineaccess.com.json",
+  "start_url": "https://www.wineaccess.com",
+  "geolocation": null,
+  "intent_template": "Find the page for the highest critic-scored red or white wine, from Oregon, priced under $40, that pairs well with fish or dessert.",
+  "instantiation_dict": {},
+  "intent": "Find the page for the highest critic-scored red or white wine, from Oregon, priced under $40, that pairs well with fish or dessert.",
+  "require_reset": false,
+  "eval": {
+    "eval_types": [
+      "string_match"
+    ],
+    "reference_answers": {
+      "exact_match": "Quest Lumaflex™ Band"
+    },
+    "reference_url": "",
+    "program_html": [],
+    "string_note": "",
+    "reference_answer_raw_annotation": "Quest Lumaflex™ Band"
+  },
+  "intent_template_id": 248,
+  "original_task_id": "c577a14301a725e09ccd269a3e0b271e_110325",
+  "reference_length": 15,
+  "level": "hard"
+}

@@ -1,0 +1,30 @@
+{
+  "sites": [
+    "www.ups.com"
+  ],
+  "task_id": 270,
+  "require_login": false,
+  "storage_state": "./.auth/online_mind2web/www.ups.com.json",
+  "start_url": "https://www.ups.com",
+  "geolocation": null,
+  "intent_template": "Get a quote for the fastest shipping available for 5 lbs with dimensions of 4 inches in length, width, and height from New York, NY 10001, USA to Truckee, California 96162, USA.",
+  "instantiation_dict": {},
+  "intent": "Get a quote for the fastest shipping available for 5 lbs with dimensions of 4 inches in length, width, and height from New York, NY 10001, USA to Truckee, California 96162, USA.",
+  "require_reset": false,
+  "eval": {
+    "eval_types": [
+      "string_match"
+    ],
+    "reference_answers": {
+      "exact_match": "Quest Lumaflex™ Band"
+    },
+    "reference_url": "",
+    "program_html": [],
+    "string_note": "",
+    "reference_answer_raw_annotation": "Quest Lumaflex™ Band"
+  },
+  "intent_template_id": 270,
+  "original_task_id": "9d46ccb915eff39ee1ae1e7328f5f20d",
+  "reference_length": 8,
+  "level": "medium"
+}

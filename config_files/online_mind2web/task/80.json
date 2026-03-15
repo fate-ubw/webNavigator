@@ -1,0 +1,30 @@
+{
+  "sites": [
+    "www.theweathernetwork.com"
+  ],
+  "task_id": 80,
+  "require_login": false,
+  "storage_state": "./.auth/online_mind2web/www.theweathernetwork.com.json",
+  "start_url": "https://www.theweathernetwork.com",
+  "geolocation": null,
+  "intent_template": "Check the current wind speed in Calgary, Alberta.",
+  "instantiation_dict": {},
+  "intent": "Check the current wind speed in Calgary, Alberta.",
+  "require_reset": false,
+  "eval": {
+    "eval_types": [
+      "string_match"
+    ],
+    "reference_answers": {
+      "exact_match": "Quest Lumaflex™ Band"
+    },
+    "reference_url": "",
+    "program_html": [],
+    "string_note": "",
+    "reference_answer_raw_annotation": "Quest Lumaflex™ Band"
+  },
+  "intent_template_id": 80,
+  "original_task_id": "2207bb4f21786690cfed20b37253fb8b",
+  "reference_length": 2,
+  "level": "easy"
+}

@@ -1,0 +1,30 @@
+{
+  "sites": [
+    "www.recreation.gov"
+  ],
+  "task_id": 186,
+  "require_login": false,
+  "storage_state": "./.auth/online_mind2web/www.recreation.gov.json",
+  "start_url": "https://www.recreation.gov",
+  "geolocation": null,
+  "intent_template": "Find a day-use park that offers horseback riding near Nashville.",
+  "instantiation_dict": {},
+  "intent": "Find a day-use park that offers horseback riding near Nashville.",
+  "require_reset": false,
+  "eval": {
+    "eval_types": [
+      "string_match"
+    ],
+    "reference_answers": {
+      "exact_match": "Quest Lumaflex™ Band"
+    },
+    "reference_url": "",
+    "program_html": [],
+    "string_note": "",
+    "reference_answer_raw_annotation": "Quest Lumaflex™ Band"
+  },
+  "intent_template_id": 186,
+  "original_task_id": "6174e5ddd40cfbdc33ee1502f40bac39",
+  "reference_length": 6,
+  "level": "medium"
+}

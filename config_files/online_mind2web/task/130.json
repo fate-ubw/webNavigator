@@ -1,0 +1,30 @@
+{
+  "sites": [
+    "www.thumbtack.com"
+  ],
+  "task_id": 130,
+  "require_login": false,
+  "storage_state": "./.auth/online_mind2web/www.thumbtack.com.json",
+  "start_url": "https://www.thumbtack.com",
+  "geolocation": null,
+  "intent_template": "find electricians near 10203.",
+  "instantiation_dict": {},
+  "intent": "find electricians near 10203.",
+  "require_reset": false,
+  "eval": {
+    "eval_types": [
+      "string_match"
+    ],
+    "reference_answers": {
+      "exact_match": "Quest Lumaflex™ Band"
+    },
+    "reference_url": "",
+    "program_html": [],
+    "string_note": "",
+    "reference_answer_raw_annotation": "Quest Lumaflex™ Band"
+  },
+  "intent_template_id": 130,
+  "original_task_id": "2532fd402d3c741b79894e6ff2269f53",
+  "reference_length": 3,
+  "level": "easy"
+}

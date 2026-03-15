@@ -1,0 +1,30 @@
+{
+  "sites": [
+    "www.carmax.com"
+  ],
+  "task_id": 5,
+  "require_login": false,
+  "storage_state": "./.auth/online_mind2web/www.carmax.com.json",
+  "start_url": "https://www.carmax.com",
+  "geolocation": null,
+  "intent_template": "Find a 2022 Tesla Model 3 on CarMax.",
+  "instantiation_dict": {},
+  "intent": "Find a 2022 Tesla Model 3 on CarMax.",
+  "require_reset": false,
+  "eval": {
+    "eval_types": [
+      "string_match"
+    ],
+    "reference_answers": {
+      "exact_match": "Quest Lumaflex™ Band"
+    },
+    "reference_url": "",
+    "program_html": [],
+    "string_note": "",
+    "reference_answer_raw_annotation": "Quest Lumaflex™ Band"
+  },
+  "intent_template_id": 5,
+  "original_task_id": "92a3d4236f167af4afdc08876a902ba6",
+  "reference_length": 10,
+  "level": "medium"
+}

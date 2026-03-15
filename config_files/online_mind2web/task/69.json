@@ -1,0 +1,30 @@
+{
+  "sites": [
+    "www.fedex.com"
+  ],
+  "task_id": 69,
+  "require_login": false,
+  "storage_state": "./.auth/online_mind2web/www.fedex.com.json",
+  "start_url": "https://www.fedex.com",
+  "geolocation": null,
+  "intent_template": "Find a staffed FedEx location near zip code 10019 to return a package.",
+  "instantiation_dict": {},
+  "intent": "Find a staffed FedEx location near zip code 10019 to return a package.",
+  "require_reset": false,
+  "eval": {
+    "eval_types": [
+      "string_match"
+    ],
+    "reference_answers": {
+      "exact_match": "Quest Lumaflex™ Band"
+    },
+    "reference_url": "",
+    "program_html": [],
+    "string_note": "",
+    "reference_answer_raw_annotation": "Quest Lumaflex™ Band"
+  },
+  "intent_template_id": 69,
+  "original_task_id": "8ea6c3a2ea3f59150619935261a76d19",
+  "reference_length": 7,
+  "level": "medium"
+}

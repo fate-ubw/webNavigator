@@ -1,0 +1,30 @@
+{
+  "sites": [
+    "www.healthline.com"
+  ],
+  "task_id": 53,
+  "require_login": false,
+  "storage_state": "./.auth/online_mind2web/www.healthline.com.json",
+  "start_url": "https://www.healthline.com",
+  "geolocation": null,
+  "intent_template": "Find me a gluten-free diet to lose weight for a pregnant woman.",
+  "instantiation_dict": {},
+  "intent": "Find me a gluten-free diet to lose weight for a pregnant woman.",
+  "require_reset": false,
+  "eval": {
+    "eval_types": [
+      "string_match"
+    ],
+    "reference_answers": {
+      "exact_match": "Quest Lumaflex™ Band"
+    },
+    "reference_url": "",
+    "program_html": [],
+    "string_note": "",
+    "reference_answer_raw_annotation": "Quest Lumaflex™ Band"
+  },
+  "intent_template_id": 53,
+  "original_task_id": "239a29bde438fe44fe17fe1390ef1634",
+  "reference_length": 8,
+  "level": "medium"
+}

@@ -1,0 +1,30 @@
+{
+  "sites": [
+    "ticketmaster.com"
+  ],
+  "task_id": 31,
+  "require_login": false,
+  "storage_state": "./.auth/online_mind2web/ticketmaster.com.json",
+  "start_url": "https://ticketmaster.com",
+  "geolocation": null,
+  "intent_template": "Find a help page about “how presale works” on ticketmaster.",
+  "instantiation_dict": {},
+  "intent": "Find a help page about “how presale works” on ticketmaster.",
+  "require_reset": false,
+  "eval": {
+    "eval_types": [
+      "string_match"
+    ],
+    "reference_answers": {
+      "exact_match": "Quest Lumaflex™ Band"
+    },
+    "reference_url": "",
+    "program_html": [],
+    "string_note": "",
+    "reference_answer_raw_annotation": "Quest Lumaflex™ Band"
+  },
+  "intent_template_id": 31,
+  "original_task_id": "5e1b8254c123c80178cc28e0afdb14f0_110325",
+  "reference_length": 4,
+  "level": "easy"
+}

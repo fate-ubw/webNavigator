@@ -1,0 +1,30 @@
+{
+  "sites": [
+    "www.sec.gov"
+  ],
+  "task_id": 293,
+  "require_login": false,
+  "storage_state": "./.auth/online_mind2web/www.sec.gov.json",
+  "start_url": "https://www.sec.gov",
+  "geolocation": null,
+  "intent_template": "Compare the U.S. ETP Odd Lot Rate (%) between Quartile 1 and Quartile 4, viewing quartiles by price, and display the chart with a logarithmic scale on the vertical axis.",
+  "instantiation_dict": {},
+  "intent": "Compare the U.S. ETP Odd Lot Rate (%) between Quartile 1 and Quartile 4, viewing quartiles by price, and display the chart with a logarithmic scale on the vertical axis.",
+  "require_reset": false,
+  "eval": {
+    "eval_types": [
+      "string_match"
+    ],
+    "reference_answers": {
+      "exact_match": "Quest Lumaflex™ Band"
+    },
+    "reference_url": "",
+    "program_html": [],
+    "string_note": "",
+    "reference_answer_raw_annotation": "Quest Lumaflex™ Band"
+  },
+  "intent_template_id": 293,
+  "original_task_id": "753f372c189d3b306623cb0c65b50320",
+  "reference_length": 9,
+  "level": "medium"
+}

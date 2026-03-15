@@ -1,0 +1,30 @@
+{
+  "sites": [
+    "www.bestbuy.com"
+  ],
+  "task_id": 94,
+  "require_login": false,
+  "storage_state": "./.auth/online_mind2web/www.bestbuy.com.json",
+  "start_url": "https://www.bestbuy.com",
+  "geolocation": null,
+  "intent_template": "Discover the trade-in value of my Intel 10th generation i5, 2021, HP laptop in fair condition, which has 8 GB memory and can be powered on, proceed for the in-store trade-in.",
+  "instantiation_dict": {},
+  "intent": "Discover the trade-in value of my Intel 10th generation i5, 2021, HP laptop in fair condition, which has 8 GB memory and can be powered on, proceed for the in-store trade-in.",
+  "require_reset": false,
+  "eval": {
+    "eval_types": [
+      "string_match"
+    ],
+    "reference_answers": {
+      "exact_match": "Quest Lumaflex™ Band"
+    },
+    "reference_url": "",
+    "program_html": [],
+    "string_note": "",
+    "reference_answer_raw_annotation": "Quest Lumaflex™ Band"
+  },
+  "intent_template_id": 94,
+  "original_task_id": "7e1047f4803237f319c004f7a7f6bccb_121125",
+  "reference_length": 13,
+  "level": "hard"
+}

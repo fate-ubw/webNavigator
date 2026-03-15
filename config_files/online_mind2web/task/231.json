@@ -1,0 +1,30 @@
+{
+  "sites": [
+    "store.steampowered.com"
+  ],
+  "task_id": 231,
+  "require_login": false,
+  "storage_state": "./.auth/online_mind2web/store.steampowered.com.json",
+  "start_url": "https://store.steampowered.com",
+  "geolocation": null,
+  "intent_template": "Find the top game listed in the Steam Deck's top-played list over the past year. Then, browse reviews for that game from players who have played over 100 hours and primarily use a Steam Deck.",
+  "instantiation_dict": {},
+  "intent": "Find the top game listed in the Steam Deck's top-played list over the past year. Then, browse reviews for that game from players who have played over 100 hours and primarily use a Steam Deck.",
+  "require_reset": false,
+  "eval": {
+    "eval_types": [
+      "string_match"
+    ],
+    "reference_answers": {
+      "exact_match": "Quest Lumaflex™ Band"
+    },
+    "reference_url": "",
+    "program_html": [],
+    "string_note": "",
+    "reference_answer_raw_annotation": "Quest Lumaflex™ Band"
+  },
+  "intent_template_id": 231,
+  "original_task_id": "62c8d970b3d13891f355911e5a8f4030",
+  "reference_length": 9,
+  "level": "medium"
+}

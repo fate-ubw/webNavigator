@@ -1,0 +1,30 @@
+{
+  "sites": [
+    "www.traderjoes.com"
+  ],
+  "task_id": 0,
+  "require_login": false,
+  "storage_state": "./.auth/online_mind2web/www.traderjoes.com.json",
+  "start_url": "https://www.traderjoes.com",
+  "geolocation": null,
+  "intent_template": "Find the store location and hours of the closest Trader Joe's to zip code 90028 and set it as my home store.",
+  "instantiation_dict": {},
+  "intent": "Find the store location and hours of the closest Trader Joe's to zip code 90028 and set it as my home store.",
+  "require_reset": false,
+  "eval": {
+    "eval_types": [
+      "string_match"
+    ],
+    "reference_answers": {
+      "exact_match": "Quest Lumaflex™ Band"
+    },
+    "reference_url": "",
+    "program_html": [],
+    "string_note": "",
+    "reference_answer_raw_annotation": "Quest Lumaflex™ Band"
+  },
+  "intent_template_id": 0,
+  "original_task_id": "b7258ee05d75e6c50673a59914db412e_110325",
+  "reference_length": 6,
+  "level": "medium"
+}

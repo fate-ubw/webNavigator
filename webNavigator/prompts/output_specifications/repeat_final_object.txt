@@ -1,0 +1,3 @@
+Repeat the original objective to maintain context clarity across multiple react iterations.
+
+Output the original objective exactly as it was stated at the beginning, ensuring all details and requirements are preserved. This helps prevent context degradation and keeps the LLM focused on the original goal in long-running interactions.

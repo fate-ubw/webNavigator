@@ -1,0 +1,30 @@
+{
+  "sites": [
+    "www.microcenter.com"
+  ],
+  "task_id": 15,
+  "require_login": false,
+  "storage_state": "./.auth/online_mind2web/www.microcenter.com.json",
+  "start_url": "https://www.microcenter.com",
+  "geolocation": null,
+  "intent_template": "Show me the most helpful reviews of the PlayStation 5 Digital Edition on Micro Center.",
+  "instantiation_dict": {},
+  "intent": "Show me the most helpful reviews of the PlayStation 5 Digital Edition on Micro Center.",
+  "require_reset": false,
+  "eval": {
+    "eval_types": [
+      "string_match"
+    ],
+    "reference_answers": {
+      "exact_match": "Quest Lumaflex™ Band"
+    },
+    "reference_url": "",
+    "program_html": [],
+    "string_note": "",
+    "reference_answer_raw_annotation": "Quest Lumaflex™ Band"
+  },
+  "intent_template_id": 15,
+  "original_task_id": "62f1626ce249c31098854f8b38bdd6cf_110325",
+  "reference_length": 7,
+  "level": "medium"
+}

@@ -1,0 +1,30 @@
+{
+  "sites": [
+    "www.tourradar.com"
+  ],
+  "task_id": 294,
+  "require_login": false,
+  "storage_state": "./.auth/online_mind2web/www.tourradar.com.json",
+  "start_url": "https://www.tourradar.com",
+  "geolocation": null,
+  "intent_template": "Find the cheapest travel deal or discount to Thailand that lasts more than 10 days, departs in next month, and show the total price.",
+  "instantiation_dict": {},
+  "intent": "Find the cheapest travel deal or discount to Thailand that lasts more than 10 days, departs in next month, and show the total price.",
+  "require_reset": false,
+  "eval": {
+    "eval_types": [
+      "string_match"
+    ],
+    "reference_answers": {
+      "exact_match": "Quest Lumaflex™ Band"
+    },
+    "reference_url": "",
+    "program_html": [],
+    "string_note": "",
+    "reference_answer_raw_annotation": "Quest Lumaflex™ Band"
+  },
+  "intent_template_id": 294,
+  "original_task_id": "733f1d8bf79d5bc2240c5357f928ffff",
+  "reference_length": 10,
+  "level": "medium"
+}

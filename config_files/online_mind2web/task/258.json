@@ -1,0 +1,30 @@
+{
+  "sites": [
+    "mega.io"
+  ],
+  "task_id": 258,
+  "require_login": false,
+  "storage_state": "./.auth/online_mind2web/mega.io.json",
+  "start_url": "https://mega.io",
+  "geolocation": null,
+  "intent_template": "View the pricing plan for 'Business'. Specifically, we have 100 users. We need a 1PB storage quota and a 50 TB transfer quota.",
+  "instantiation_dict": {},
+  "intent": "View the pricing plan for 'Business'. Specifically, we have 100 users. We need a 1PB storage quota and a 50 TB transfer quota.",
+  "require_reset": false,
+  "eval": {
+    "eval_types": [
+      "string_match"
+    ],
+    "reference_answers": {
+      "exact_match": "Quest Lumaflex™ Band"
+    },
+    "reference_url": "",
+    "program_html": [],
+    "string_note": "",
+    "reference_answer_raw_annotation": "Quest Lumaflex™ Band"
+  },
+  "intent_template_id": 258,
+  "original_task_id": "a96fca87a17d792644e736d1d10d3cbe",
+  "reference_length": 5,
+  "level": "easy"
+}

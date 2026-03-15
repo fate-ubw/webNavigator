@@ -1,0 +1,30 @@
+{
+  "sites": [
+    "www.mayoclinic.org"
+  ],
+  "task_id": 132,
+  "require_login": false,
+  "storage_state": "./.auth/online_mind2web/www.mayoclinic.org.json",
+  "start_url": "https://www.mayoclinic.org",
+  "geolocation": null,
+  "intent_template": "Find Florida internship programs in the Mayo Clinic College of Medicine and Science.",
+  "instantiation_dict": {},
+  "intent": "Find Florida internship programs in the Mayo Clinic College of Medicine and Science.",
+  "require_reset": false,
+  "eval": {
+    "eval_types": [
+      "string_match"
+    ],
+    "reference_answers": {
+      "exact_match": "Quest Lumaflex™ Band"
+    },
+    "reference_url": "",
+    "program_html": [],
+    "string_note": "",
+    "reference_answer_raw_annotation": "Quest Lumaflex™ Band"
+  },
+  "intent_template_id": 132,
+  "original_task_id": "783ce6a3499fa7cf25bc12f8f0ecbbbb",
+  "reference_length": 5,
+  "level": "easy"
+}

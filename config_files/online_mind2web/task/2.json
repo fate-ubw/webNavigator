@@ -1,0 +1,30 @@
+{
+  "sites": [
+    "www.discogs.com"
+  ],
+  "task_id": 2,
+  "require_login": false,
+  "storage_state": "./.auth/online_mind2web/www.discogs.com.json",
+  "start_url": "https://www.discogs.com",
+  "geolocation": null,
+  "intent_template": "Open the page with an overview of the submission of releases on Discogs.",
+  "instantiation_dict": {},
+  "intent": "Open the page with an overview of the submission of releases on Discogs.",
+  "require_reset": false,
+  "eval": {
+    "eval_types": [
+      "string_match"
+    ],
+    "reference_answers": {
+      "exact_match": "Quest Lumaflex™ Band"
+    },
+    "reference_url": "",
+    "program_html": [],
+    "string_note": "",
+    "reference_answer_raw_annotation": "Quest Lumaflex™ Band"
+  },
+  "intent_template_id": 2,
+  "original_task_id": "fb7b4f784cfde003e2548fdf4e8d6b4f",
+  "reference_length": 6,
+  "level": "medium"
+}

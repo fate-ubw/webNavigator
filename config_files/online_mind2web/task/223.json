@@ -1,0 +1,30 @@
+{
+  "sites": [
+    "www.redbull.com"
+  ],
+  "task_id": 223,
+  "require_login": false,
+  "storage_state": "./.auth/online_mind2web/www.redbull.com.json",
+  "start_url": "https://www.redbull.com",
+  "geolocation": null,
+  "intent_template": "Browse the upcoming SuperBike events taking place in Italy.",
+  "instantiation_dict": {},
+  "intent": "Browse the upcoming SuperBike events taking place in Italy.",
+  "require_reset": false,
+  "eval": {
+    "eval_types": [
+      "string_match"
+    ],
+    "reference_answers": {
+      "exact_match": "Quest Lumaflex™ Band"
+    },
+    "reference_url": "",
+    "program_html": [],
+    "string_note": "",
+    "reference_answer_raw_annotation": "Quest Lumaflex™ Band"
+  },
+  "intent_template_id": 223,
+  "original_task_id": "78f397336b6fd1cbba0127db7a8cd502",
+  "reference_length": 8,
+  "level": "medium"
+}

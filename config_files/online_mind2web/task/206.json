@@ -1,0 +1,30 @@
+{
+  "sites": [
+    "www.nvidia.com"
+  ],
+  "task_id": 206,
+  "require_login": false,
+  "storage_state": "./.auth/online_mind2web/www.nvidia.com.json",
+  "start_url": "https://www.nvidia.com",
+  "geolocation": null,
+  "intent_template": "Find the HGX H100 driver for Ubuntu 22.04 on AMD64 CPU.",
+  "instantiation_dict": {},
+  "intent": "Find the HGX H100 driver for Ubuntu 22.04 on AMD64 CPU.",
+  "require_reset": false,
+  "eval": {
+    "eval_types": [
+      "string_match"
+    ],
+    "reference_answers": {
+      "exact_match": "Quest Lumaflex™ Band"
+    },
+    "reference_url": "",
+    "program_html": [],
+    "string_note": "",
+    "reference_answer_raw_annotation": "Quest Lumaflex™ Band"
+  },
+  "intent_template_id": 206,
+  "original_task_id": "b4aa7315e31dfcdc52baf7771be260c9",
+  "reference_length": 11,
+  "level": "hard"
+}

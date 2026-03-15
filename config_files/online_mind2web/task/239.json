@@ -1,0 +1,30 @@
+{
+  "sites": [
+    "www.4shared.com"
+  ],
+  "task_id": 239,
+  "require_login": false,
+  "storage_state": "./.auth/online_mind2web/www.4shared.com.json",
+  "start_url": "https://www.4shared.com",
+  "geolocation": null,
+  "intent_template": "Find the latest Doraemon video in MP4 format that is over 20 minutes long and has a medium file size.",
+  "instantiation_dict": {},
+  "intent": "Find the latest Doraemon video in MP4 format that is over 20 minutes long and has a medium file size.",
+  "require_reset": false,
+  "eval": {
+    "eval_types": [
+      "string_match"
+    ],
+    "reference_answers": {
+      "exact_match": "Quest Lumaflex™ Band"
+    },
+    "reference_url": "",
+    "program_html": [],
+    "string_note": "",
+    "reference_answer_raw_annotation": "Quest Lumaflex™ Band"
+  },
+  "intent_template_id": 239,
+  "original_task_id": "c8c1ff115879b3afd14280beb1559b13",
+  "reference_length": 12,
+  "level": "hard"
+}

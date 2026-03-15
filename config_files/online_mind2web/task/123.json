@@ -1,0 +1,30 @@
+{
+  "sites": [
+    "www.cars.com"
+  ],
+  "task_id": 123,
+  "require_login": false,
+  "storage_state": "./.auth/online_mind2web/www.cars.com.json",
+  "start_url": "https://www.cars.com",
+  "geolocation": null,
+  "intent_template": "Compare the Acura CL 2003 with the ILX 2022.",
+  "instantiation_dict": {},
+  "intent": "Compare the Acura CL 2003 with the ILX 2022.",
+  "require_reset": false,
+  "eval": {
+    "eval_types": [
+      "string_match"
+    ],
+    "reference_answers": {
+      "exact_match": "Quest Lumaflex™ Band"
+    },
+    "reference_url": "",
+    "program_html": [],
+    "string_note": "",
+    "reference_answer_raw_annotation": "Quest Lumaflex™ Band"
+  },
+  "intent_template_id": 123,
+  "original_task_id": "ef289e34a2f59a707cb07e2a6229ff03",
+  "reference_length": 9,
+  "level": "medium"
+}

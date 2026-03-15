@@ -1,0 +1,30 @@
+{
+  "sites": [
+    "www.ign.com"
+  ],
+  "task_id": 8,
+  "require_login": false,
+  "storage_state": "./.auth/online_mind2web/www.ign.com.json",
+  "start_url": "https://www.ign.com",
+  "geolocation": null,
+  "intent_template": "Find a walkthrough for the game \"The Legend of Zelda: Breath of the Wild\" on ign.",
+  "instantiation_dict": {},
+  "intent": "Find a walkthrough for the game \"The Legend of Zelda: Breath of the Wild\" on ign.",
+  "require_reset": false,
+  "eval": {
+    "eval_types": [
+      "string_match"
+    ],
+    "reference_answers": {
+      "exact_match": "Quest Lumaflex™ Band"
+    },
+    "reference_url": "",
+    "program_html": [],
+    "string_note": "",
+    "reference_answer_raw_annotation": "Quest Lumaflex™ Band"
+  },
+  "intent_template_id": 8,
+  "original_task_id": "b320c68bffc1f3c7f2a8dc9d5478fb27",
+  "reference_length": 6,
+  "level": "medium"
+}

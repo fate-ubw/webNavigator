@@ -1,0 +1,30 @@
+{
+  "sites": [
+    "jobs.chronicle.com"
+  ],
+  "task_id": 217,
+  "require_login": false,
+  "storage_state": "./.auth/online_mind2web/jobs.chronicle.com.json",
+  "start_url": "https://jobs.chronicle.com",
+  "geolocation": null,
+  "intent_template": "Browse tenured/tenure-track faculty positions in Computer Sciences & Technology in California.",
+  "instantiation_dict": {},
+  "intent": "Browse tenured/tenure-track faculty positions in Computer Sciences & Technology in California.",
+  "require_reset": false,
+  "eval": {
+    "eval_types": [
+      "string_match"
+    ],
+    "reference_answers": {
+      "exact_match": "Quest Lumaflex™ Band"
+    },
+    "reference_url": "",
+    "program_html": [],
+    "string_note": "",
+    "reference_answer_raw_annotation": "Quest Lumaflex™ Band"
+  },
+  "intent_template_id": 217,
+  "original_task_id": "b922508886ded315c9835457a6eb43ea",
+  "reference_length": 6,
+  "level": "medium"
+}

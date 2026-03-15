@@ -1,0 +1,30 @@
+{
+  "sites": [
+    "www.uniqlo.com"
+  ],
+  "task_id": 17,
+  "require_login": false,
+  "storage_state": "./.auth/online_mind2web/www.uniqlo.com.json",
+  "start_url": "https://www.uniqlo.com",
+  "geolocation": null,
+  "intent_template": "Show me the list of Men's Blazers, Black, Size M on Uniqlo.",
+  "instantiation_dict": {},
+  "intent": "Show me the list of Men's Blazers, Black, Size M on Uniqlo.",
+  "require_reset": false,
+  "eval": {
+    "eval_types": [
+      "string_match"
+    ],
+    "reference_answers": {
+      "exact_match": "Quest Lumaflex™ Band"
+    },
+    "reference_url": "",
+    "program_html": [],
+    "string_note": "",
+    "reference_answer_raw_annotation": "Quest Lumaflex™ Band"
+  },
+  "intent_template_id": 17,
+  "original_task_id": "b7a9a6b5d451164c09bbd27b670bc2ae",
+  "reference_length": 11,
+  "level": "hard"
+}

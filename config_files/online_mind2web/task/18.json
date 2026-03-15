@@ -1,0 +1,30 @@
+{
+  "sites": [
+    "www.united.com"
+  ],
+  "task_id": 18,
+  "require_login": false,
+  "storage_state": "./.auth/online_mind2web/www.united.com.json",
+  "start_url": "https://www.united.com",
+  "geolocation": null,
+  "intent_template": "Show me the options for a roundtrip leaving from Las Vegas on flexible dates on the interactive map on united.",
+  "instantiation_dict": {},
+  "intent": "Show me the options for a roundtrip leaving from Las Vegas on flexible dates on the interactive map on united.",
+  "require_reset": false,
+  "eval": {
+    "eval_types": [
+      "string_match"
+    ],
+    "reference_answers": {
+      "exact_match": "Quest Lumaflex™ Band"
+    },
+    "reference_url": "",
+    "program_html": [],
+    "string_note": "",
+    "reference_answer_raw_annotation": "Quest Lumaflex™ Band"
+  },
+  "intent_template_id": 18,
+  "original_task_id": "bfa2de159be6978acf2702be31a2eeeb",
+  "reference_length": 12,
+  "level": "hard"
+}

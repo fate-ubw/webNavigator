@@ -1,0 +1,30 @@
+{
+  "sites": [
+    "spothero.com"
+  ],
+  "task_id": 289,
+  "require_login": false,
+  "storage_state": "./.auth/online_mind2web/spothero.com.json",
+  "start_url": "https://spothero.com",
+  "geolocation": null,
+  "intent_template": "Find parking near the San Francisco Museum of Modern Art for next Sunday from 1:00 PM to 5:00 PM. I'm driving a Ford F-150 and need a garage that allows in-and-out privileges. If there are multiple options, show me the details of the one with the lowest price.",
+  "instantiation_dict": {},
+  "intent": "Find parking near the San Francisco Museum of Modern Art for next Sunday from 1:00 PM to 5:00 PM. I'm driving a Ford F-150 and need a garage that allows in-and-out privileges. If there are multiple options, show me the details of the one with the lowest price.",
+  "require_reset": false,
+  "eval": {
+    "eval_types": [
+      "string_match"
+    ],
+    "reference_answers": {
+      "exact_match": "Quest Lumaflex™ Band"
+    },
+    "reference_url": "",
+    "program_html": [],
+    "string_note": "",
+    "reference_answer_raw_annotation": "Quest Lumaflex™ Band"
+  },
+  "intent_template_id": 289,
+  "original_task_id": "dd44c665cec1e9c929a4c5f074e7844a_110325",
+  "reference_length": 17,
+  "level": "hard"
+}

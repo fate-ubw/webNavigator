@@ -1,0 +1,30 @@
+{
+  "sites": [
+    "us.speedo.com"
+  ],
+  "task_id": 3,
+  "require_login": false,
+  "storage_state": "./.auth/online_mind2web/us.speedo.com.json",
+  "start_url": "https://us.speedo.com",
+  "geolocation": null,
+  "intent_template": "Get the women's black one-piece swimsuit, size large, with the highest discount percentage, and add it to my cart.",
+  "instantiation_dict": {},
+  "intent": "Get the women's black one-piece swimsuit, size large, with the highest discount percentage, and add it to my cart.",
+  "require_reset": false,
+  "eval": {
+    "eval_types": [
+      "string_match"
+    ],
+    "reference_answers": {
+      "exact_match": "Quest Lumaflex™ Band"
+    },
+    "reference_url": "",
+    "program_html": [],
+    "string_note": "",
+    "reference_answer_raw_annotation": "Quest Lumaflex™ Band"
+  },
+  "intent_template_id": 3,
+  "original_task_id": "824eb7bb0ef1ce40bfd49c12182d9428_110325",
+  "reference_length": 11,
+  "level": "hard"
+}

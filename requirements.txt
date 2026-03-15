@@ -1,0 +1,25 @@
+# ===== Core =====
+numpy==1.26.4
+pandas
+scipy
+requests
+Pillow
+python-dotenv
+PyYAML
+lxml
+tqdm
+gymnasium
+beartype==0.12.0
+openai>=1.55,<2
+playwright==1.32.1
+psutil
+nltk
+boto3
+google
+google-generativeai
+google-ai-generativelanguage
+text-generation
+aiolimiter
+transformers==4.33.2
+# ===== Optional by feature (enable when needed) =====
+# torch

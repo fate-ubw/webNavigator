@@ -1,0 +1,203 @@
+[
+    {
+        "block_domain": "210.28.133.13:22503/",
+        "block_elements": [
+            {
+                "name": "signout",
+                "patterns": [
+                    {
+                        "xpath": "/html/body/div\\[2\\]/header/div\\[1\\]/div/ul/li\\[3\\]/a",
+                        "logic": "AND"
+                    }
+                ]
+            },
+            {
+                "name": "product_actions",
+                "patterns": [
+                    {
+                        "xpath": "/html/body/div\\[2\\]/main/div\\[3\\]/div/div\\[2\\]/div/div\\[2\\]/div\\[1\\]/ol/li(?:\\[\\d+\\])?/div/div",
+                        "logic": "OR"
+                    },
+                    {
+                        "xpath": "/html/body/div\\[2\\]/main/div\\[3\\]/div\\[1\\]/div\\[3\\]/ol/li(?:\\[\\d+\\])?/div/div",
+                        "logic": "OR"
+                    },
+                    {
+                        "xpath": "/html/body/div\\[2\\]/main/div\\[2\\]/div\\[1\\]/form/div\\[1\\]/ol/li(?:\\[\\d+\\])?/div/div\\[3\\]",
+                        "logic": "OR"
+                    },
+                    {
+                        "class": "btn-remove action delete",
+                        "logic": "OR"
+                    },
+                    {
+                        "class": "action edit",
+                        "logic": "OR"
+                    },
+                    {
+                        "class": "action tocompare",
+                        "logic": "OR"
+                    },
+                    {
+                        "class": "action towishlist",
+                        "logic": "OR"
+                    }
+                ]
+            },
+            {
+                "name": "remove_filters",
+                "patterns": [
+                    {
+                        "xpath": "/html/body/div\\[2\\]/main/div\\[3\\]/div\\[2\\]/div/div\\[2\\]/div\\[1\\]",
+                        "logic": "OR"
+                    },
+                    {
+                        "xpath": "/html/body/div\\[2\\]/main/div\\[3\\]/div\\[2\\]/div/div\\[2\\]/div\\[2\\]",
+                        "logic": "OR"
+                    },
+                    {
+                        "class": "action clear",
+                        "logic": "OR"
+                    },
+                    {
+                        "class": "action clear filter-clear",
+                        "logic": "OR"
+                    }
+                ]
+            },
+            {
+                "name": "sidebar_additional",
+                "patterns": [
+                    {
+                        "xpath": "/html/body/div\\[2\\]/main/div\\[3\\]/div\\[3\\]",
+                        "logic": "OR"
+                    },
+                    {
+                        "xpath": "/html/body/div\\[2\\]/main/div\\[2\\]/div\\[3\\]",
+                        "logic": "OR"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "block_domain": "210.28.133.13:22507",
+        "block_elements": [
+            {
+                "name": "comment_actions",
+                "patterns": [
+                    {
+                        "class": "comment__parent-link fg-inherit text-sm",
+                        "logic": "OR"
+                    },
+                    {
+                        "class": "comment__reply-link text-sm",
+                        "logic": "OR"
+                    },
+                    {
+                        "class": "comment__permalink fg-inherit text-sm",
+                        "logic": "OR"
+                    }
+                ]
+            },
+            {
+                "name": "submition_links",
+                "patterns": [
+                    {
+                        "class": "fg-inherit",
+                        "logic": "OR"
+                    },
+                    {
+                        "class": "submission__link",
+                        "logic": "OR"
+                    },
+                    {
+                        "class": "text-sm",
+                        "logic": "OR"
+                    },
+                    {
+                        "class": "submission__host text-xs",
+                        "logic": "OR"
+                    },
+                    {
+                        "class": "submission__submitter fg-inherit",
+                        "logic": "OR"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "block_domain": "210.28.133.13:22506",
+        "block_elements": [
+            {
+                "name": "repository",
+                "patterns": [
+                    {
+                        "class": "text-plain gl-mr-3 js-prefetch-document",
+                        "logic": "OR"
+                    },
+                    {
+                        "class": "gl-display-flex gl-align-items-center gl-mr-5 gl-reset-color! icon-wrapper has-tooltip stars",
+                        "logic": "OR"
+                    },
+                    {
+                        "class": "gl-display-flex gl-align-items-center gl-mr-5 gl-reset-color! icon-wrapper has-tooltip forks",
+                        "logic": "OR"
+                    },
+                    {
+                        "class": "gl-display-flex gl-align-items-center gl-mr-5 gl-reset-color! icon-wrapper has-tooltip issues",
+                        "logic": "OR"
+                    },
+                    {
+                        "class": "gl-display-flex gl-align-items-center gl-mr-5 gl-reset-color! icon-wrapper has-tooltip merge-requests",
+                        "logic": "OR"
+                    },
+                    {
+                        "class": "project",
+                        "logic": "OR"
+                    }
+                ]
+            },
+            {
+                "name": "merge_requests",
+                "patterns": [
+                    {
+                        "class": "js-prefetch-document",
+                        "logic": "OR"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "block_domain": "210.28.133.13:22505",
+        "block_elements": [
+            {
+                "name": "zoom",
+                "patterns": [
+                    {
+                        "xpath": "/html/body/div[1]/div[3]/div[2]/div[2]/div[1]/a[1]",
+                        "logic": "OR"
+                    },
+                    {
+                        "xpath": "/html/body/div[1]/div[3]/div[2]/div[2]/div[1]/a[2]",
+                        "logic": "OR"
+                    },
+                    {
+                        "class": "control-button zoomin control-button-first",
+                        "logic": "OR"
+                    },
+                    {
+                        "class": "control-button zoomout",
+                        "logic": "OR"
+                    },
+                    {
+                        "class": "control-button control-button-first control-button-last disabled",
+                        "logic": "OR"
+                    }
+                ]
+            }
+        ]
+    }
+]

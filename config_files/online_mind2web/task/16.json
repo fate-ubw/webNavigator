@@ -1,0 +1,30 @@
+{
+  "sites": [
+    "www.marriott.com"
+  ],
+  "task_id": 16,
+  "require_login": false,
+  "storage_state": "./.auth/online_mind2web/www.marriott.com.json",
+  "start_url": "https://www.marriott.com",
+  "geolocation": null,
+  "intent_template": "Browse Marriott Bonvoy credit cards on Marriott.",
+  "instantiation_dict": {},
+  "intent": "Browse Marriott Bonvoy credit cards on Marriott.",
+  "require_reset": false,
+  "eval": {
+    "eval_types": [
+      "string_match"
+    ],
+    "reference_answers": {
+      "exact_match": "Quest Lumaflex™ Band"
+    },
+    "reference_url": "",
+    "program_html": [],
+    "string_note": "",
+    "reference_answer_raw_annotation": "Quest Lumaflex™ Band"
+  },
+  "intent_template_id": 16,
+  "original_task_id": "561693d6eec7bbfba3fefe9e4b26decb",
+  "reference_length": 4,
+  "level": "easy"
+}

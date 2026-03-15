@@ -1,0 +1,30 @@
+{
+  "sites": [
+    "www.adoptapet.com"
+  ],
+  "task_id": 67,
+  "require_login": false,
+  "storage_state": "./.auth/online_mind2web/www.adoptapet.com.json",
+  "start_url": "https://www.adoptapet.com",
+  "geolocation": null,
+  "intent_template": "Search for a young spayed male dog cared for by a private owner within 50 miles of zip 33109.",
+  "instantiation_dict": {},
+  "intent": "Search for a young spayed male dog cared for by a private owner within 50 miles of zip 33109.",
+  "require_reset": false,
+  "eval": {
+    "eval_types": [
+      "string_match"
+    ],
+    "reference_answers": {
+      "exact_match": "Quest Lumaflex™ Band"
+    },
+    "reference_url": "",
+    "program_html": [],
+    "string_note": "",
+    "reference_answer_raw_annotation": "Quest Lumaflex™ Band"
+  },
+  "intent_template_id": 67,
+  "original_task_id": "e4e097222d13a2560db6f6892612dab6",
+  "reference_length": 6,
+  "level": "medium"
+}

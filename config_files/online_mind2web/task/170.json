@@ -1,0 +1,30 @@
+{
+  "sites": [
+    "www.bbb.org"
+  ],
+  "task_id": 170,
+  "require_login": false,
+  "storage_state": "./.auth/online_mind2web/www.bbb.org.json",
+  "start_url": "https://www.bbb.org",
+  "geolocation": null,
+  "intent_template": "Find all the locations for the second-best-rated used car dealer less than 5 miles from New York.",
+  "instantiation_dict": {},
+  "intent": "Find all the locations for the second-best-rated used car dealer less than 5 miles from New York.",
+  "require_reset": false,
+  "eval": {
+    "eval_types": [
+      "string_match"
+    ],
+    "reference_answers": {
+      "exact_match": "Quest Lumaflex™ Band"
+    },
+    "reference_url": "",
+    "program_html": [],
+    "string_note": "",
+    "reference_answer_raw_annotation": "Quest Lumaflex™ Band"
+  },
+  "intent_template_id": 170,
+  "original_task_id": "0b838cd54f826c59c71f600c56b89a11",
+  "reference_length": 11,
+  "level": "hard"
+}

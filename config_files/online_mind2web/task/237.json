@@ -1,0 +1,30 @@
+{
+  "sites": [
+    "sourceforge.net"
+  ],
+  "task_id": 237,
+  "require_login": false,
+  "storage_state": "./.auth/online_mind2web/sourceforge.net.json",
+  "start_url": "https://sourceforge.net",
+  "geolocation": null,
+  "intent_template": "Show me the most popular open-source software on SourceForge that runs on Linux and macOS, belongs to the category of “Agentic AI”, is licensed under MIT, and has a production/stable development status.",
+  "instantiation_dict": {},
+  "intent": "Show me the most popular open-source software on SourceForge that runs on Linux and macOS, belongs to the category of “Agentic AI”, is licensed under MIT, and has a production/stable development status.",
+  "require_reset": false,
+  "eval": {
+    "eval_types": [
+      "string_match"
+    ],
+    "reference_answers": {
+      "exact_match": "Quest Lumaflex™ Band"
+    },
+    "reference_url": "",
+    "program_html": [],
+    "string_note": "",
+    "reference_answer_raw_annotation": "Quest Lumaflex™ Band"
+  },
+  "intent_template_id": 237,
+  "original_task_id": "fe33894188d20d7469f37a9fd855e7ff_110325",
+  "reference_length": 11,
+  "level": "hard"
+}

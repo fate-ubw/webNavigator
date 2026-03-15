@@ -1,0 +1,30 @@
+{
+  "sites": [
+    "medicare.gov"
+  ],
+  "task_id": 146,
+  "require_login": false,
+  "storage_state": "./.auth/online_mind2web/medicare.gov.json",
+  "start_url": "https://medicare.gov",
+  "geolocation": null,
+  "intent_template": "Within 25 Miles of 96817, find a nursing home that accepts medicare.",
+  "instantiation_dict": {},
+  "intent": "Within 25 Miles of 96817, find a nursing home that accepts medicare.",
+  "require_reset": false,
+  "eval": {
+    "eval_types": [
+      "string_match"
+    ],
+    "reference_answers": {
+      "exact_match": "Quest Lumaflex™ Band"
+    },
+    "reference_url": "",
+    "program_html": [],
+    "string_note": "",
+    "reference_answer_raw_annotation": "Quest Lumaflex™ Band"
+  },
+  "intent_template_id": 146,
+  "original_task_id": "3adeea7627f4343069f38adae40f73d0_110325",
+  "reference_length": 8,
+  "level": "medium"
+}

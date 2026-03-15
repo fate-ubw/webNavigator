@@ -1,0 +1,30 @@
+{
+  "sites": [
+    "www.kbb.com"
+  ],
+  "task_id": 32,
+  "require_login": false,
+  "storage_state": "./.auth/online_mind2web/www.kbb.com.json",
+  "start_url": "https://www.kbb.com",
+  "geolocation": null,
+  "intent_template": "Browse used Mercedes-Benz cars from model years 2004 to 2012 on KBB and sort by highest price.",
+  "instantiation_dict": {},
+  "intent": "Browse used Mercedes-Benz cars from model years 2004 to 2012 on KBB and sort by highest price.",
+  "require_reset": false,
+  "eval": {
+    "eval_types": [
+      "string_match"
+    ],
+    "reference_answers": {
+      "exact_match": "Quest Lumaflex™ Band"
+    },
+    "reference_url": "",
+    "program_html": [],
+    "string_note": "",
+    "reference_answer_raw_annotation": "Quest Lumaflex™ Band"
+  },
+  "intent_template_id": 32,
+  "original_task_id": "f27c0a7b8b0bb33d37698dff227fc8d7",
+  "reference_length": 11,
+  "level": "hard"
+}

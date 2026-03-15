@@ -1,0 +1,30 @@
+{
+  "sites": [
+    "www.student.com"
+  ],
+  "task_id": 73,
+  "require_login": false,
+  "storage_state": "./.auth/online_mind2web/www.student.com.json",
+  "start_url": "https://www.student.com",
+  "geolocation": null,
+  "intent_template": "View the cheapest apartment available for students at the University of Leeds with bills that include WIFI and cleaning services.",
+  "instantiation_dict": {},
+  "intent": "View the cheapest apartment available for students at the University of Leeds with bills that include WIFI and cleaning services.",
+  "require_reset": false,
+  "eval": {
+    "eval_types": [
+      "string_match"
+    ],
+    "reference_answers": {
+      "exact_match": "Quest Lumaflex™ Band"
+    },
+    "reference_url": "",
+    "program_html": [],
+    "string_note": "",
+    "reference_answer_raw_annotation": "Quest Lumaflex™ Band"
+  },
+  "intent_template_id": 73,
+  "original_task_id": "85b284c18d7e78c9b5a9e074e7aa3b98",
+  "reference_length": 10,
+  "level": "medium"
+}

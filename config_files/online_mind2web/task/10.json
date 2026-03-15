@@ -1,0 +1,30 @@
+{
+  "sites": [
+    "www.qatarairways.com"
+  ],
+  "task_id": 10,
+  "require_login": false,
+  "storage_state": "./.auth/online_mind2web/www.qatarairways.com.json",
+  "start_url": "https://www.qatarairways.com",
+  "geolocation": null,
+  "intent_template": "Find the weight of baggage allowance for economy class on Qatar Airways.",
+  "instantiation_dict": {},
+  "intent": "Find the weight of baggage allowance for economy class on Qatar Airways.",
+  "require_reset": false,
+  "eval": {
+    "eval_types": [
+      "string_match"
+    ],
+    "reference_answers": {
+      "exact_match": "Quest Lumaflex™ Band"
+    },
+    "reference_url": "",
+    "program_html": [],
+    "string_note": "",
+    "reference_answer_raw_annotation": "Quest Lumaflex™ Band"
+  },
+  "intent_template_id": 10,
+  "original_task_id": "005be9dd91c95669d6ddde9ae667125c",
+  "reference_length": 4,
+  "level": "easy"
+}

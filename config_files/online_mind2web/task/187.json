@@ -1,0 +1,30 @@
+{
+  "sites": [
+    "www.apartments.com"
+  ],
+  "task_id": 187,
+  "require_login": false,
+  "storage_state": "./.auth/online_mind2web/www.apartments.com.json",
+  "start_url": "https://www.apartments.com",
+  "geolocation": null,
+  "intent_template": "Search for 3 bedroom condos with 2+ bathrooms within $1500- $2500 range in NYC.",
+  "instantiation_dict": {},
+  "intent": "Search for 3 bedroom condos with 2+ bathrooms within $1500- $2500 range in NYC.",
+  "require_reset": false,
+  "eval": {
+    "eval_types": [
+      "string_match"
+    ],
+    "reference_answers": {
+      "exact_match": "Quest Lumaflex™ Band"
+    },
+    "reference_url": "",
+    "program_html": [],
+    "string_note": "",
+    "reference_answer_raw_annotation": "Quest Lumaflex™ Band"
+  },
+  "intent_template_id": 187,
+  "original_task_id": "547f5729c59d5d12a457a3ebb74c31c6_010226",
+  "reference_length": 14,
+  "level": "hard"
+}

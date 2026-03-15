@@ -1,0 +1,30 @@
+{
+  "sites": [
+    "www.coolmath4kids.com"
+  ],
+  "task_id": 299,
+  "require_login": false,
+  "storage_state": "./.auth/online_mind2web/www.coolmath4kids.com.json",
+  "start_url": "https://www.coolmath4kids.com",
+  "geolocation": null,
+  "intent_template": "Complete a multiplication quiz on https://www.coolmath4kids.com/, covering multiplication facts for 11-12. The quiz should consist of 10 questions, with unlimited time allowed for each. The goal is to achieve a perfect score of 10 out of 10.",
+  "instantiation_dict": {},
+  "intent": "Complete a multiplication quiz on https://www.coolmath4kids.com/, covering multiplication facts for 11-12. The quiz should consist of 10 questions, with unlimited time allowed for each. The goal is to achieve a perfect score of 10 out of 10.",
+  "require_reset": false,
+  "eval": {
+    "eval_types": [
+      "string_match"
+    ],
+    "reference_answers": {
+      "exact_match": "Quest Lumaflex™ Band"
+    },
+    "reference_url": "",
+    "program_html": [],
+    "string_note": "",
+    "reference_answer_raw_annotation": "Quest Lumaflex™ Band"
+  },
+  "intent_template_id": 299,
+  "original_task_id": "1223b07536a87e0170ff87cbbebd1d3c",
+  "reference_length": 24,
+  "level": "hard"
+}

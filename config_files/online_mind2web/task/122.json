@@ -1,0 +1,30 @@
+{
+  "sites": [
+    "www.webmd.com"
+  ],
+  "task_id": 122,
+  "require_login": false,
+  "storage_state": "./.auth/online_mind2web/www.webmd.com.json",
+  "start_url": "https://www.webmd.com",
+  "geolocation": null,
+  "intent_template": "Help me identify a pink round pill with 150 written on it.",
+  "instantiation_dict": {},
+  "intent": "Help me identify a pink round pill with 150 written on it.",
+  "require_reset": false,
+  "eval": {
+    "eval_types": [
+      "string_match"
+    ],
+    "reference_answers": {
+      "exact_match": "Quest Lumaflex™ Band"
+    },
+    "reference_url": "",
+    "program_html": [],
+    "string_note": "",
+    "reference_answer_raw_annotation": "Quest Lumaflex™ Band"
+  },
+  "intent_template_id": 122,
+  "original_task_id": "c181f903ec1107b850032c17cad88393",
+  "reference_length": 7,
+  "level": "medium"
+}

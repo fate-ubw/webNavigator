@@ -1,0 +1,30 @@
+{
+  "sites": [
+    "new.mta.info"
+  ],
+  "task_id": 263,
+  "require_login": false,
+  "storage_state": "./.auth/online_mind2web/new.mta.info.json",
+  "start_url": "https://new.mta.info",
+  "geolocation": null,
+  "intent_template": "Check the status of bus S92 for any disruptions on new.mta.info.",
+  "instantiation_dict": {},
+  "intent": "Check the status of bus S92 for any disruptions on new.mta.info.",
+  "require_reset": false,
+  "eval": {
+    "eval_types": [
+      "string_match"
+    ],
+    "reference_answers": {
+      "exact_match": "Quest Lumaflex™ Band"
+    },
+    "reference_url": "",
+    "program_html": [],
+    "string_note": "",
+    "reference_answer_raw_annotation": "Quest Lumaflex™ Band"
+  },
+  "intent_template_id": 263,
+  "original_task_id": "38203be65401943aea2179c4c680059a",
+  "reference_length": 6,
+  "level": "medium"
+}

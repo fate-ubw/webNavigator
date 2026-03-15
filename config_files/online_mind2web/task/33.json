@@ -1,0 +1,30 @@
+{
+  "sites": [
+    "www.carmax.com"
+  ],
+  "task_id": 33,
+  "require_login": false,
+  "storage_state": "./.auth/online_mind2web/www.carmax.com.json",
+  "start_url": "https://www.carmax.com",
+  "geolocation": null,
+  "intent_template": "See Nissan and Honda cars for sale near Kentwood, MI 49512 on CarMax.",
+  "instantiation_dict": {},
+  "intent": "See Nissan and Honda cars for sale near Kentwood, MI 49512 on CarMax.",
+  "require_reset": false,
+  "eval": {
+    "eval_types": [
+      "string_match"
+    ],
+    "reference_answers": {
+      "exact_match": "Quest Lumaflex™ Band"
+    },
+    "reference_url": "",
+    "program_html": [],
+    "string_note": "",
+    "reference_answer_raw_annotation": "Quest Lumaflex™ Band"
+  },
+  "intent_template_id": 33,
+  "original_task_id": "8fdec8eeffd3491e6526cc78c028120b",
+  "reference_length": 12,
+  "level": "hard"
+}
