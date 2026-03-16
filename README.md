@@ -15,21 +15,7 @@ We introduce WebNavigator, which reframes web navigation from probabilistic expl
   <img src="./assets/fig1-v19.svg" alt="WebNavigator architecture" width="95%" />
 </p>
 
-# Supporter❤️
-<p align="center">
-  <a href="https://fellou.ai/" target="_blank">
-    <img src="./assets/fellou.png" alt="Fellou AI Browser" width="100" />
-  </a>
-</p>
 
-<p align="center">
-  <strong>Fellou AI Browser</strong> — The World's First Agentic Browser.  
-  Go beyond browsing with automated web actions.
-</p>
-
-<p align="center">
-  <a href="https://fellou.ai/" target="_blank">Learn more at fellou.ai</a>
-</p>
 
 # 🌐 News
 - 20260315: Init the official repo for webNavigator
@@ -113,3 +99,19 @@ Please download the released files from [Jimzhang324/webNavigator](https://huggi
 ## <a id="trajectory-results"></a> 📈 Trajectory results
 We will open-sourced our evaluation trajectory files for public use. You can download the released trajectories, and use them for further research, analysis, or reproduction of our results.
 
+
+# Supporter❤️
+<p align="center">
+  <a href="https://fellou.ai/" target="_blank">
+    <img src="./assets/fellou.png" alt="Fellou AI Browser" width="100" />
+  </a>
+</p>
+
+<p align="center">
+  <strong>Fellou AI Browser</strong> — The World's First Agentic Browser.  
+  Go beyond browsing with automated web actions.
+</p>
+
+<p align="center">
+  <a href="https://fellou.ai/" target="_blank">Learn more at fellou.ai</a>
+</p>
