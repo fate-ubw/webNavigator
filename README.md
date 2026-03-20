@@ -15,6 +15,12 @@ We introduce WebNavigator, which reframes web navigation from probabilistic expl
   <img src="./assets/fig1-v19.svg" alt="WebNavigator architecture" width="95%" />
 </p>
 
+<p align="center">
+  <img src="./assets/result.svg" alt="WebNavigator benchmark results" width="600" />
+</p>
+
+
+
 # Supporter❤️
 <p align="center">
   <a href="https://fellou.ai/" target="_blank">
