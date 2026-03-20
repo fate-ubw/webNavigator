@@ -5,7 +5,7 @@ logdir: "../Trajectories"
 logname: "webNavigator-3_0-20260303-all-gpt4o"
 benchmark: 
   name: "webarena"
-  task_name: "tasks_webarena1"
+  task_name: "tasks_webarena_test"
 max_steps: 20
 agent:
   type: "webNavigator"

@@ -77,7 +77,7 @@ Please download the released files from [Jimzhang324/webNavigator](https://huggi
     # 1) Edit BASE_URL / endpoints in run/env to your own host/IP
     #    Example: export BASE_URL="http://127.0.0.1"
     # 2) Load environment variables
-    sorce run/env
+    source run/env
     # 3) Check one sample variable to confirm
     echo $WA_SHOPPING
     ```
@@ -101,7 +101,7 @@ Please download the released files from [Jimzhang324/webNavigator](https://huggi
 - To run the evaluation script:
   - Open `run/webarena/run_webnavigator-parallel-all-gpt4o.sh` and find the line with `browser_env/auto_login.py --env_name ...`. Change only the `env_name` to your desired value, for example:
     ```bash
-    . run/env
+    source run/env
     python browser_env/auto_login.py --env_name webarena_test
     ```
   - You do not need to modify any other commands. Just make sure you use the same `env_name` for both `auto_login` and `generate_test_data` steps.
