@@ -32,7 +32,7 @@ def main() -> None:
     
     # Replace storage_state paths with environment-specific auth cookie paths
     raw = re.sub(r'"storage_state": "\.\/\.auth\/(.*?)"', 
-                f'"storage_state": "./.auth/{args.env_name}/\\1"', raw)
+                f'"storage_state": "./.auth/{args.env_name}_{args.output_prefix}/\\1"', raw)
     
     # Extract file name from full path and remove .raw suffix
     raw_filename = os.path.basename(args.raw_data)  # Keep only the file name
@@ -42,7 +42,7 @@ def main() -> None:
     with open(output_file, "w") as f:
         f.write(raw)
 
-    tasks_dir = f"config_files/webarena/tasks_{args.env_name}_{args.output_prefix}"
+    tasks_dir = f"config_files/webarena/{args.env_name}_{args.output_prefix}"
     os.makedirs(tasks_dir, exist_ok=True)
     
     # split to multiple files

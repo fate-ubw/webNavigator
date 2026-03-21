@@ -2,10 +2,10 @@ logging: True
 verbose: 1
 debug: False
 logdir: "../Trajectories"
-logname: "webNavigator-3_0-20260101-all-claude4"
+logname: "webNavigator-all-claude4"
 benchmark: 
   name: "webarena"
-  task_name: "tasks_webarena1"
+  task_name: "webarena_test"
 max_steps: 20
 agent:
   type: "webNavigator"

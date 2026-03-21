@@ -2,10 +2,10 @@ logging: True
 verbose: 1
 debug: False
 logdir: "../Trajectories"
-logname: "webNavigator-3_0-20260303-all-gpt4o"
+logname: "webNavigator-all-gpt4o"
 benchmark: 
   name: "webarena"
-  task_name: "tasks_webarena_test"
+  task_name: "webarena_test"
 max_steps: 20
 agent:
   type: "webNavigator"

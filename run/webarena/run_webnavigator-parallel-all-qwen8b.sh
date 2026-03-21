@@ -1,11 +1,11 @@
 NUM_SHARDS=${1:-1}  # Default: 1 parallel worker
 
 mkdir -p logs
-. run/env_init-95
-python browser_env/auto_login.py --env_name 180_209_7_95
+. run/env
+python browser_env/auto_login.py --env_name webarena_test
 
 CONFIG_FILE="configs/webarena/webNavigator-all-qwen8b.yml"
-TRAJ_DIR="/home/nfs06/wtt/Trajectories/webNavigator-3_0-20260118-all-qwen8b"
+TRAJ_DIR="/home/nfs06/wtt/Trajectories/webNavigator-all-qwen8b"
 SUMMARY_CSV="${TRAJ_DIR}/summary.csv"
 
 # Keep track of all background worker PIDs

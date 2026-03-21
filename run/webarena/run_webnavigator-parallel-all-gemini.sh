@@ -9,8 +9,8 @@
 NUM_SHARDS=${1:-1}  # Default: 1 parallel worker
 
 mkdir -p logs
-. run/env_init-webarena2
-python browser_env/auto_login.py --env_name webarena2
+. run/env
+python browser_env/auto_login.py --env_name webarena_test
 
 echo "Starting $NUM_SHARDS parallel workers..."
 
