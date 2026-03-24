@@ -2,7 +2,7 @@
 # WebNavigator: Global Web Navigation via Interaction Graph Retrieval
 
 <p align="center">
-  <a href="https://arxiv.org"><img src="https://img.shields.io/badge/arXiv-Paper-b31b1b?logo=arxiv" alt="arXiv"/></a>
+  <a href="https://arxiv.org/abs/2603.20366"><img src="https://img.shields.io/badge/arXiv-Paper-b31b1b?logo=arxiv" alt="arXiv"/></a>
   <a href="https://huggingface.co/datasets/Jimzhang324/webNavigator"><img src="https://img.shields.io/badge/Hugging%20Face-Dataset-yellow?logo=huggingface" alt="Hugging Face Dataset"/></a>
   <a href="https://fate-ubw.github.io/webNavigator_homepage/" target="_blank"><img src="https://img.shields.io/badge/WebNavigator-Project%20Homepage-0A66C2?logo=github&logoColor=white" alt="WebNavigator Project Homepage"/></a>
 </p>
