@@ -120,3 +120,23 @@ Please download the released files from [Jimzhang324/webNavigator](https://huggi
 We will open-sourced our evaluation trajectory files for public use. You can download the released trajectories, and use them for further research, analysis, or reproduction of our results.
 
 
+
+# License
+
+This project is licensed under the MIT License.
+
+# Citation
+
+If you find this work useful, please cite our paper:
+
+```bibtex
+@misc{zhang2026webnavigatorglobalwebnavigation,
+      title={WebNavigator: Global Web Navigation via Interaction Graph Retrieval},
+      author={Xuanwang Zhang and Yuteng Han and Jinnan Qi and Mulong Xie and Zhen Wu and Xinyu Dai},
+      year={2026},
+      eprint={2603.20366},
+      archivePrefix={arXiv},
+      primaryClass={cs.IR},
+      url={https://arxiv.org/abs/2603.20366},
+}
+```
