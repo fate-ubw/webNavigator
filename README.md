@@ -38,7 +38,8 @@ We introduce WebNavigator, which reframes web navigation from probabilistic expl
 </p>
 
 # 🌐 News
-- 20260315: Init the official repo for webNavigator
+- 📄 **20260320:** Our work is on arXiv: https://arxiv.org/abs/2603.20366
+- 🚀 **20260315:** Init the official repo for webNavigator
 
 ## 📚 Table of Contents
 - [🛠️ Install environment](#install-environment)
